@@ -1,0 +1,18 @@
+kurang tarik 0 1 0 0 1 0
+tak kekang 1 0 1 0 0 1
+tak tentu 1 1 1 0 0 1
+rendah budi 0 1 0 0 0 0
+tak kendali 1 0 0 0 0 1
+estetika 0 0 0 1 0 0
+kasih sayang 0 0 0 1 0 0
+timpa 0 0 1 0 1 0
+derita 1 1 1 0 1 0
+sakit saraf 0 1 1 0 1 0
+nikotin 0 1 0 0 0 0
+mimpi buruk 0 0 1 0 0 0
+bising 1 0 0 0 0 0
+berisik 1 0 0 0 0 0
+santase 1 0 1 0 0 0
+gelap 1 0 1 0 1 0
+salah 1 1 1 0 1 0
+hujat 1 1 0 0 0 0

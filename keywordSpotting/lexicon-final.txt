@@ -1,0 +1,14155 @@
+tinggal	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+culik	0	1	1	0	1	1
+						
+						
+						
+benci	1	1	1	0	1	0
+ngeri	1	1	1	0	1	1
+						
+						
+hina	1	1	1	0	1	1
+						
+						
+abnormal	0	1	0	0	0	0
+						
+						
+hapus	1	0	1	0	1	0
+						
+						
+						
+						
+						
+gugur	0	1	1	0	1	0
+gagal	1	1	1	0	1	0
+						
+						
+						
+						
+						
+dadak	0	0	0	0	0	1
+						
+bengkak, bisul nanah	0	0	1	0	1	0
+tiada	0	0	1	0	1	0
+absen	0	0	0	0	1	0
+pembolos	0	0	0	0	1	0
+						
+						
+						
+absolusi, ampun	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+limpah	1	1	0	1	0	0
+						
+salah guna	1	1	1	0	1	0
+						
+						
+bukan kepalang, bukan main	0	0	0	0	1	0
+neraka	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+celaka	1	1	1	0	1	1
+betul	0	0	1	0	0	1
+						
+harga	0	0	0	1	1	1
+						
+						
+iringan	0	0	0	1	0	0
+						
+						
+						
+selesai	0	0	0	1	0	0
+ulung	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kutuk	1	1	1	0	1	0
+tuduh	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+sakit	1	1	1	0	1	0
+capai	0	0	0	1	0	0
+prestasi	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+akrobat	0	0	1	1	0	0
+						
+						
+						
+ditindaklanjuti	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tambah	0	1	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+adil	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+puji	0	0	0	1	0	1
+						
+						
+kagum	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ingat	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+tarik	0	1	0	1	1	1
+puja	0	0	0	1	0	0
+cinta	0	0	0	1	0	0
+						
+						
+apung	0	0	1	0	1	0
+						
+						
+zina	0	1	0	0	1	0
+maju, muka	0	0	1	1	0	1
+						
+						
+						
+						
+						
+datang	0	0	1	1	0	1
+						
+						
+						
+musuh	1	1	1	0	1	0
+rugi	1	1	1	0	1	0
+sulit	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+bela	1	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+estetika	0	0	0	1	0	0
+						
+						
+						
+						
+						
+kasih sayang	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+timpa	0	0	1	0	1	0
+						
+derita	1	1	1	0	1	0
+makmur	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+takut	1	0	1	0	1	1
+						
+						
+akibat, efek	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+buruk	1	1	1	0	1	0
+ganggu	1	1	1	0	1	1
+jengkel	1	1	1	0	0	0
+						
+						
+agresi	1	0	1	0	0	0
+agresif	1	0	1	0	0	0
+serang	1	1	1	0	0	1
+peranjat	0	1	1	0	0	1
+						
+						
+gelisah	1	1	1	0	1	1
+agitasi	1	0	0	0	0	0
+						
+						
+siksa	1	1	1	0	1	1
+derita	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+alarm	0	0	1	0	0	1
+						
+						
+						
+						
+						
+alkoholisme	1	1	1	0	1	0
+						
+						
+waspada	0	0	1	0	0	1
+siaga	0	0	1	0	0	1
+						
+						
+						
+						
+						
+asing	1	1	1	0	1	0
+jauh	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+hidup	0	0	1	1	0	1
+						
+						
+						
+duga	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+daya tarik, pikat	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+aloha	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+tengkar	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+takjub, kagum	0	0	0	1	0	1
+						
+luar biasa	0	0	1	1	0	1
+						
+						
+						
+						
+						
+						
+ambisi	0	0	0	1	0	0
+						
+ambulans	0	0	1	0	0	0
+sergap	1	0	1	0	0	1
+						
+amin	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+ramah	0	0	0	1	0	0
+						
+						
+amonia	0	1	0	0	0	0
+						
+						
+ampun	0	0	0	1	0	0
+						
+						
+						
+asmara	0	0	0	1	0	0
+						
+amfetamin	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+hibur	0	0	0	1	0	1
+senang	0	0	0	1	0	0
+						
+lucu, kocak	0	1	0	1	0	0
+						
+anaconda	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+anarkisme	1	0	1	0	0	0
+anarkis	1	0	1	0	0	0
+anarki	1	0	1	0	0	0
+						
+laknat	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+labuh	0	0	0	0	1	0
+						
+						
+						
+						
+						
+malaikat	0	0	0	1	0	1
+suci	0	0	0	1	0	1
+marah	1	1	1	0	1	0
+angina	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+semangat	0	0	0	1	1	1
+						
+dendam	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+binasa, hancur	1	1	1	0	1	0
+musnah	1	0	1	0	1	0
+						
+						
+						
+						
+						
+jengkel	1	1	0	0	0	0
+						
+						
+						
+						
+						
+batal	0	0	1	0	1	1
+						
+						
+						
+anomali	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+antagonisme	1	0	0	0	0	0
+antagonis	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+antikristus	1	1	1	0	0	0
+						
+						
+						
+						
+						
+antipati	1	1	0	0	0	0
+						
+						
+						
+						
+						
+antisosial	1	1	1	0	1	0
+tentang	1	0	1	0	1	1
+						
+						
+						
+						
+						
+cemas	1	0	1	0	1	1
+						
+						
+						
+						
+apatis	0	0	0	0	1	0
+						
+						
+						
+						
+kutu	0	1	1	0	0	0
+						
+						
+						
+						
+						
+minta maaf	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+hantu	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+radang usus buntu	0	0	1	0	1	0
+						
+						
+						
+tepuk tangan	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+apresiasi	0	0	0	1	0	0
+tangkap	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+setuju	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sangat rajin	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+debat	1	0	0	0	0	0
+argumen	1	0	0	0	0	0
+						
+						
+						
+kering, gersang	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+senjata	1	0	1	0	0	0
+						
+						
+						
+						
+baja	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+dakwa	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sombong	1	1	0	0	0	0
+						
+						
+arsenikum	0	1	1	0	1	0
+bakar	1	0	1	0	1	1
+seni	0	0	0	1	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+artileri	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+malu	0	1	1	0	1	0
+abu	0	0	0	0	1	0
+						
+asp	0	0	1	0	0	0
+						
+						
+						
+						
+aspirasi	0	0	0	1	0	1
+cita-cita	0	0	0	1	0	0
+bercita-cita tinggi	0	0	0	1	0	0
+						
+serang	1	0	1	0	1	1
+						
+bunuh	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+nilai	1	0	1	0	1	1
+						
+						
+bajing	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+heran	0	0	1	1	0	1
+						
+						
+sesat	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+rumah sakit jiwa	0	0	1	0	0	0
+						
+senjang, asimetri	0	1	0	0	0	0
+						
+						
+						
+						
+						
+aterosklerosis	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tebus, tobat	0	0	1	1	0	0
+						
+						
+						
+kejam	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+redam	0	0	0	0	1	0
+						
+						
+						
+						
+						
+acara	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+akuntan	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+penuh harapan	0	0	0	1	0	0
+tegang	1	0	1	0	1	1
+						
+asli	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+autopsi	0	1	1	0	1	0
+						
+						
+						
+salju longsor	0	0	1	0	1	1
+tamak	1	1	0	0	0	0
+						
+balas	1	0	1	0	1	0
+						
+						
+						
+enggan	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+hindar	1	1	1	0	1	0
+						
+						
+						
+						
+						
+hadiah	0	0	0	1	0	1
+						
+						
+janggal	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+babon, yakis	0	1	0	0	0	0
+bayi	0	0	1	1	0	1
+						
+						
+						
+						
+						
+tulang punggung	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+ke belakang	0	1	0	0	0	0
+mundur	0	0	0	0	1	0
+bakteri	0	1	1	0	1	1
+						
+						
+						
+						
+						
+jahat	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+juru sita	0	0	1	0	0	0
+umpan, pikat	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+balsem	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+letus	1	1	1	0	1	1
+						
+buang, usir	1	1	1	0	1	0
+						
+						
+						
+						
+						
+bangkrut	1	1	1	0	1	0
+						
+						
+jamu	0	0	0	1	0	0
+						
+						
+						
+baptis	0	0	0	1	0	0
+						
+duri	1	0	1	0	0	0
+biadab	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+muntah	0	1	0	0	0	0
+						
+						
+						
+gonggong	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+mandul	0	0	0	0	1	0
+barikade, hambat 1	1	1	0	1	0
+halang	1	1	1	0	1	0
+rintang	1	0	0	0	1	0
+						
+						
+gerobak dorong	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bola basket, basket	0	0	0	1	0	0
+						
+						
+						
+						
+benteng tahan	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+batalion	1	0	0	0	0	0
+pukul ulang-ulang	1	0	1	0	0	0
+belur	0	0	1	0	1	0
+baterai	1	0	0	0	0	0
+tempur	1	1	1	0	0	0
+juang	1	0	1	0	1	0
+medan perang, kawasan tempur	0	0	1	0	0	0
+						
+						
+bayonet, sangkur	1	0	1	0	0	0
+						
+						
+pantai	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+sorot	0	0	0	1	0	0
+seri	0	0	0	1	0	0
+tanggung	1	0	1	0	0	0
+						
+						
+						
+						
+						
+kasar	1	1	1	0	1	0
+jahanam, bangsat	1	1	1	0	0	0
+jijik	1	1	1	0	1	0
+						
+pukul	1	0	1	0	1	0
+						
+cantik, indah	0	0	0	1	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lebah, tawon	1	0	1	0	0	0
+						
+						
+bir	0	0	0	1	0	0
+						
+						
+						
+						
+lindung	0	0	0	1	0	0
+emis	0	0	0	0	1	0
+	
+						
+						
+						
+						
+						
+						
+						
+raksasa binatang	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+remeh	1	1	1	0	1	1
+						
+perang	1	0	1	0	1	0
+						
+puput, embus	1	0	0	0	0	0
+						
+						
+sabuk, ikat pinggang	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bajik	0	0	0	1	0	0
+jinak	0	0	0	1	0	0
+						
+						
+						
+						
+duka	0	0	0	0	1	0
+hilang	1	1	1	0	1	1
+						
+						
+						
+amuk	1	0	0	0	0	0
+						
+						
+						
+bengis	1	1	1	0	1	0
+						
+						
+khianat	1	1	1	0	1	1
+						
+tunang	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+awas	0	0	1	0	0	0
+limbung	0	0	1	0	0	1
+bingung	1	1	1	0	1	1
+prasangka	1	0	0	0	0	0
+						
+						
+						
+						
+cekcok	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+usung jenazah	0	0	1	0	1	0
+						
+						
+fanatik	1	1	1	0	1	1
+keras pendirian	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+biopsi	0	0	1	0	0	0
+						
+						
+						
+						
+lahir	0	0	1	1	0	0
+ulang tahun	0	0	0	1	0	1
+tempat lahir	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+gerutu, perempuan jalang, lacur	1	1	1	0	1	0
+						
+pahit	1	1	0	0	1	0
+						
+						
+						
+aneh	0	1	1	0	1	1
+hitam	0	0	0	0	1	0
+						
+						
+						
+peras, santase	1	0	1	0	0	0
+gelap	1	0	1	0	1	0
+						
+						
+						
+salah	1	1	1	0	1	0
+						
+						
+						
+						
+hujat	1	1	0	0	0	0
+						
+ledak	1	0	1	1	1	1
+colok mata, colok	1	1	0	0	0	0
+						
+jolak	1	0	0	0	0	0
+						
+						
+suram	1	1	1	0	1	0
+darah	1	1	1	0	1	0
+cacat	1	1	1	0	1	0
+						
+						
+berkat	0	0	0	1	0	1
+						
+						
+						
+hawar	0	1	1	0	1	0
+rusak	1	1	1	0	1	0
+						
+						
+tutup mata	0	0	1	0	0	1
+						
+babi buta 	0	0	0	0	1	0
+buta	0	0	0	0	1	0
+						
+bahagia, penuh bahagia	0	0	0	1	0	0
+						
+lepuh	0	1	0	0	0	0
+bombardir	1	0	1	0	0	1
+						
+bengkak	0	1	0	0	0	0
+gumpal	0	1	1	0	0	0
+						
+blokade	1	0	1	0	1	0
+						
+						
+						
+						
+tumpah darah	1	1	1	0	1	1
+haus darah	1	1	1	0	0	0
+darah	1	1	1	0	1	0
+kembang	0	0	0	1	0	0
+mekar	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+murung	1	0	0	0	1	0
+perasaan sedih	0	0	1	0	1	0
+						
+						
+keliru	0	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+palsu	1	1	0	0	0	0
+bisul	0	1	0	0	0	0
+						
+						
+						
+riuh	1	0	0	1	0	0
+						
+						
+						
+						
+						
+bom	1	0	1	0	1	1 						
+sumber keuntungan	0	0	0	1	0	0
+						
+budak	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+bonus	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bosan	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kibul	0	0	0	0	1	0
+jurang	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+dermawan, murah hati	0	0	0	1	0	1
+karunia	0	0	0	1	0	0
+buket, karangan bunga	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+usus	0	1	0	0	0	0
+						
+						
+						
+						
+tinju	1	0	1	0	1	1
+anak laki-laki	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+dedak	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+ribut	1	1	1	0	0	1
+kurang ajar	1	1	1	0	1	0
+						
+						
+						
+putus	0	0	1	0	1	1
+						
+						
+						
+						
+						
+						
+pisah	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+suap, sogok	0	1	0	0	0	0
+						
+pengantin	0	0	0	1	0	0
+						
+mempelai	0	0	0	1	0	0
+gadis iring pengantin	0	0	0	1	0	0
+						
+						
+						
+						
+brigade	0	0	1	0	0	0
+terang	0	0	0	1	0	1
+						
+cemerlang	0	0	0	1	0	0
+						
+						
+belerang	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+panggang	1	0	0	1	0	0
+pecah, bokek	1	0	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bordil, rumah lacur	0	1	0	0	0	0
+						
+						
+ikhwan	0	0	0	1	0	0
+						
+						
+						
+						
+beban	1	0	1	0	1	0
+						
+brutal	1	0	1	0	0	0
+						
+kasar	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+sobat	0	0	0	1	0	0
+						
+						
+						
+						
+						
+salah	0	1	1	0	0	0
+momok	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gertak	1	0	1	0	0	0
+						
+gelandang	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+bunker	0	0	1	0	0	0
+						
+						
+						
+						
+						
+berat	1	1	1	1	1	1
+						
+						
+birokrat	0	1	0	0	0	0
+curi	1	1	1	0	1	1
+						
+makam	1	0	1	0	1	0
+kubur	0	0	1	0	1	0
+tutup perkara	1	1	1	0	1	0
+						
+olok-olok	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+bakar, gosong	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+cium	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+bantai	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+dengung	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+komplot rahasia	0	0	1	0	0	0
+						
+						
+						
+kabel	0	0	0	0	0	1
+						
+						
+bunyi hiruk-pikuk	1	1	0	0	0	0
+						
+mayat	0	1	1	0	1	1
+						
+						
+						
+						
+kandang, sangkar	0	1	0	0	1	0
+						
+						
+bencana	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kapal	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kamuflase, samar	0	0	0	0	0	1
+						
+						
+						
+						
+kampanye	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+kanker, mala	1	1	1	0	1	0
+jujur	1	1	1	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+pukul tongkat	1	0	1	0	0	0
+						
+						
+karat	1	1	0	0	0	0
+kanibal	0	1	1	0	0	0
+						
+						
+meriam, kanon	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pikat hati	0	0	0	1	0	1
+						
+tahan	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+bangkai 	0	1	1	0	1	0
+bisul kanker	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ceroboh	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+karies	0	1	0	0	0	0
+bunuh massal	1	1	1	0	1	1
+						
+						
+karnivora	0	0	1	0	0	0
+nyanyi gembira	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+peluru	0	0	1	0	0	0
+						
+						
+						
+						
+kasus	0	0	1	0	1	0
+						
+kas	1	0	1	1	0	0
+						
+						
+						
+						
+						
+peti mati	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+korban kecelakaan, orang tewas	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+katarak	0	0	1	0	1	0
+malapetaka	1	1	1	0	1	0
+						
+						
+katekese	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+katedral	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ingat	1	0	1	0	0	0
+hati	0	0	1	0	0	0
+waspada	0	0	1	0	0	0
+hati-hati	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kenal	0	0	0	1	0	0
+raya	0	0	0	1	0	1
+						
+selebriti	1	1	0	1	0	1
+angkasa	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+sensor	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+upacara	0	0	0	1	0	1
+						
+						
+						
+pajak	0	1	0	0	1	0
+						
+sekam	1	0	1	0	0	0
+						
+kecewa	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tantang	1	1	1	0	0	0
+						
+						
+						
+						
+juara	0	0	0	1	0	0
+sempat	0	0	0	0	0	1
+						
+						
+						
+ubah	1	1	1	0	0	1
+						
+						
+						
+						
+						
+lagu gereja	1	0	0	1	0	1
+kacau	1	1	1	0	1	1
+semrawut	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sosial	0	0	0	1	0	0
+amal	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+contek	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+sorak	0	0	0	1	0	1
+riang	0	0	0	1	0	1
+gembira	0	0	0	1	0	1
+sorak-sorai	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+harga	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+bohong	1	1	0	0	1	1
+ayam	0	0	1	0	0	0
+						
+						
+						
+anak	0	0	0	1	0	0
+						
+masa kecil, masa kanal-kanak	0	0	0	1	0	0
+						
+						
+						
+						
+angan-angan	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+kicau	0	0	0	1	0	0
+						
+						
+						
+						
+cokelat	0	0	0	1	0	0
+						
+paduan suara	0	0	0	1	0	0
+sedak	1	0	0	0	1	0
+kolera	0	1	1	0	1	0
+						
+						
+						
+						
+						
+nyanyian untuk paduan suara	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kronis	0	0	0	0	1	0
+						
+						
+						
+						
+tawa kecil, cekikik	0	0	0	1	0	1
+						
+						
+gereja	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+adab, sopan 0	0	0	1	0	0
+						
+						
+tuntut	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+tepuk tangan	0	0	0	1	0	0
+						
+						
+						
+						
+bentrok	1	0	1	0	0	0
+						
+						
+						
+						
+						
+klasik 0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+cakar	1	0	1	0	0	0
+						
+						
+bersih	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gantung diri	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+klimaks	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+erat	0	0	0	1	0	0
+						
+tutup	0	0	0	1	1	0
+						
+						
+						
+						
+						
+						
+						
+mendung	0	0	0	0	1	0
+						
+awan	0	0	0	0	1	0
+						
+						
+badut	0	0	0	1	0	1
+						
+						
+						
+						
+						
+canggung	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kobra	0	0	1	0	0	0
+kokain	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+paksa	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+betul	0	0	0	0	0	1
+						
+						
+						
+						
+						
+dingin	1	1	1	0	1	0
+						
+						
+runtuh, roboh	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tabrak	1	0	1	0	1	1
+						
+						
+kongkalikong	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+koma	0	0	1	0	1	0
+pingsan	0	0	1	0	1	1
+						
+						
+juang	1	0	1	0	0	0
+agresif	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+nyaman	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ingat, kenang	0	0	0	1	1	1
+						
+						
+						
+						
+puji	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+komuni	0	0	0	1	0	0
+komunisme	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+teman	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+iba	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+imbang	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+keluh, adu	1	1	0	0	1	0
+						
+lengkap, komplemen	0	0	0	1	0	1
+						
+						
+						
+						
+selesai	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+rumit, ruwet, susah	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kompos	0	1	0	0	0	0
+						
+						
+						
+						
+						
+kompres	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sembunyi, rahasia	1	0	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+prihatin	0	0	1	0	1	0
+						
+						
+						
+						
+damai	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gegar	1	0	0	0	1	0
+						
+hukum	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+belasungkawa	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pengakuan	0	0	1	0	1	1
+						
+						
+						
+percaya, yakin, konfidensi	0	0	1	1	0	0
+						
+						
+						
+						
+batas	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+sita, beslah	1	0	1	0	1	0
+						
+bakar besar	1	0	1	0	0	0
+konflik	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+hadap	1	0	0	0	0	0
+						
+bingung	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+tubuh	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sulap	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+takluk	1	1	1	0	1	0
+						
+						
+						
+						
+konsekrasi	0	0	0	1	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lipur	0	0	0	0	1	0
+						
+						
+						
+						
+						
+konspirasi	0	0	1	0	0	0
+konspirator	1	1	1	0	0	0
+sekongkol, komplot	0	0	1	0	0	0
+						
+						
+						
+						
+						
+khawatir	1	1	1	0	1	0
+sembelit, konstipasi	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+paksa	0	0	1	0	0	0
+						
+ketidakleluasaan	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tular, jangkit	0	1	1	0	1	0
+						
+						
+cemar	0	1	0	0	0	0
+						
+kontaminasi	0	1	0	0	0	0						
+						
+						
+						
+						
+						
+										
+						
+puas	0	0	0	1	0	1
+						
+kontensius	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+barang selundup, barang gelap	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kontroversial	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+narapidana	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kurung	1	1	1	0	1	0
+						
+						
+						
+						
+						
+polisi	0	0	1	0	0	0
+						
+						
+						
+tiru	1	1	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+mahkota, tabal	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+korosif	0	0	1	0	0	0
+						
+						
+korupsi	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+dipan, ranjang	0	0	0	0	1	0
+						
+batuk	0	1	0	0	0	0
+						
+						
+konselor	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kup, pukul dadak	1	0	0	0	0	1
+						
+						
+						
+						
+perwira	0	0	1	0	0	0
+						
+						
+						
+adil, mahkamah	1	0	1	0	0	0
+						
+						
+						
+						
+pacar	0	0	0	1	0	0
+						
+teluk kecil	0	1	1	1	0	0
+						
+						
+						
+						
+						
+						
+						
+kecut	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+malu sipu	0	0	1	0	0	0
+anjing hutan	0	0	1	0	0	0
+						
+						
+						
+retak	1	0	1	0	0	0
+						
+						
+						
+buai, dondang	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ngambek, dongkol	1	0	0	0	0	0
+sampah	0	1	0	0	1	0
+											
+						
+						
+						
+						
+						
+rangkak	0	1	0	0	0	0
+						
+						
+gila	1	1	1	0	1	0
+						
+						
+krim	0	0	0	1	0	1
+						
+						
+						
+buat, cipta	0	0	0	1	0	0
+						
+						
+						
+makhluk	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kremasi, bakar mayat	0	0	0	0	1	0
+						
+crescendo	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+kriminal, pidana	1	1	1	0	1	0
+kriminalitas	1	1	1	0	0	0
+						
+						
+rasa jijik	0	1	1	0	1	0
+lumpuh, pincang	1	1	1	0	1	1
+kudung	0	0	0	0	1	0
+						
+						
+						
+						
+kritik, kecam	1	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+buaya	0	0	1	0	0	0
+						
+						
+						
+						
+silang, sebrang	1	0	1	0	1	0
+						
+						
+						
+						
+dekam	0	0	1	0	0	0
+						
+jongkok	0	0	1	0	0	0
+						
+						
+						
+						
+						
+mirip mahkota	0	0	0	1	0	1
+						
+						
+						
+salib	1	1	1	0	1	0
+mentah	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+ambruk	0	0	0	0	1	0
+genting	1	0	1	0	1	0
+perang salib	1	0	1	0	0	0
+						
+tumbuk	1	1	1	0	1	0
+tumpas	1	1	1	0	0	0
+						
+keras	1	1	1	0	1	0
+						
+						
+tangis	0	0	0	0	1	0
+						
+ruang bawah tanah	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+suami istri tidak setia	0	1	0	0	0	0
+						
+peluk, emong	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kultus	0	0	1	0	0	0
+						
+						
+						
+						
+						
+bagong	0	0	0	0	1	0
+						
+						
+						
+						
+tangkup, likuk, bekam	0	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+keingintahuan 0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+degil	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+potong	1	1	1	0	1	0
+						
+kejam	1	0	1	0	0	0
+						
+						
+						
+sianida	0	0	1	0	0	0
+						
+						
+						
+topan	0	0	1	0	0	1
+						
+						
+						
+						
+kista	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+kecimpung	1	1	0	0	0	1
+						
+						
+						
+						
+pisau belati	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+ganti rugi	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+tari	0	0	0	1	0	0
+						
+						
+solek	0	1	0	0	0	0
+bahaya	1	1	1	0	1	0
+						
+						
+lembab	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+sayang	0	0	0	1	0	0
+						
+anak panah	0	0	1	0	0	0
+						
+						
+terpa	1	0	1	0	1	0
+						
+						
+						
+						
+						
+putri	0	0	0	1	0	0
+fajar	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+mati	1	1	1	0	1	1
+						
+						
+						
+urus	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+seleweng	0	1	1	0	0	0
+						
+						
+puing	0	1	1	0	1	0
+hutang	1	1	1	0	1	0
+						
+						
+						
+						
+busuk	1	1	1	0	1	0
+						
+mendiang	0	0	0	0	1	0
+						
+culas	0	1	0	0	1	0
+tipu	1	1	0	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+urai	0	1	1	0	1	0
+						
+						
+						
+umpan, pikat	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+buat	0	0	0	0	0	1
+						
+						
+fitnah	1	1	1	0	0	0
+						
+						
+						
+kalah	1	1	1	0	1	1
+						
+						
+						
+bela	0	0	1	0	0	0
+						
+						
+						
+						
+tidak daya	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gembos, kempis	1	0	0	0	1	0
+deflasi	0	0	1	0	0	0
+						
+						
+						
+rusak bentuk	0	1	0	0	0	0
+						
+lain bentuk	0	1	1	0	1	0
+gelap uang	1	1	0	0	0	0
+						
+						
+						
+						
+degenerasi	1	1	0	0	1	0
+						
+						
+						
+turun	0	1	1	0	1	0
+						
+						
+						
+tunda	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lezat, enak	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+badung, nakal	1	1	0	0	0	0
+igau	0	1	0	0	1	0
+						
+bebas, lepas, selamat	1	1	0	1	0	1
+						
+						
+						
+banjir	0	0	1	0	1	1
+khayal	1	0	1	0	1	0
+						
+						
+minta	1	0	0	0	0	0
+						
+						
+						
+singkat akal	0	0	1	0	1	0
+						
+						
+						
+gempur	1	0	0	0	1	0
+						
+setan	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+demonstratif	0	0	0	1	1	0
+						
+demoralisasi	0	0	1	0	1	0
+						
+						
+						
+bantah	0	0	0	0	1	0
+						
+						
+						
+						
+cela	1	1	1	0	1	0
+						
+						
+						
+dokter gigi	0	0	1	0	0	0
+adu	1	1	1	0	0	0
+sangkal	1	1	0	0	0	0
+						
+						
+berangkat	0	0	0	0	1	0
+						
+						
+						
+						
+						
+gantung	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+sesal	1	1	0	0	1	0
+						
+usir	0	0	1	0	1	0
+deportasi	1	0	1	0	1	0
+						
+						
+						
+						
+						
+bejat	1	1	1	0	1	0
+						
+jatuh harga	1	1	0	0	0	0
+susut	1	1	1	0	1	0
+						
+tekan	1	1	1	0	1	0
+murung	1	0	1	0	1	0
+muram	0	1	0	0	1	0
+depresi	0	0	0	0	1	0
+depresif	0	0	0	0	1	0
+rampas	1	1	1	0	1	1
+						
+						
+						
+						
+						
+ejek, cemooh, cerca	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+noda, najis	1	1	1	0	1	0
+gurun	1	1	1	0	1	0
+sepi	1	1	1	0	1	0
+						
+pantas terima	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+henti	1	1	0	0	1	0
+						
+sedih	1	1	1	0	1	0
+putus asa	1	1	1	0	1	0
+						
+						
+						
+						
+						
+pandang rendah, pandang hina	1	1	0	0	0	0
+						
+despotisme	1	1	1	0	1	0
+						
+tujuan	0	0	1	1	1	1
+						
+						
+miskin	1	1	1	0	1	0
+						
+						
+						
+						
+destruktif	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+rosot	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kurang	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+taat	0	0	1	1	0	0
+						
+						
+						
+						
+						
+diagnosa	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+berlian	0	0	0	1	0	0
+						
+popok	0	1	0	0	0	0
+						
+diare	0	1	0	0	0	0
+buku hari	0	0	0	1	0	0
+caci	1	1	0	0	0	0
+						
+						
+						
+						
+						
+diktator	0	0	1	0	0	0
+diktatoris, adikara	1	0	0	0	0	0
+diktator	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+beda	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tanggul	0	0	1	0	0	0
+bobrok	0	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+dinosaurus	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kotor	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+selisih	1	1	0	0	0	0
+						
+						
+						
+						
+anulir	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tolak	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+disiplin	0	0	1	0	0	0
+				
+						
+						
+						
+						
+ubah warna	0	1	0	0	0	0
+hitam	0	1	0	0	1	0
+						
+						
+						
+						
+rungut	1	1	1	0	1	0
+						
+						
+pegat	0	1	1	0	1	0
+						
+						
+						
+						
+kecil hati	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+diskriminasi	1	1	1	0	1	0
+diskriminatif	0	1	0	0	0	0
+						
+						
+						
+						
+						
+penyakit	1	1	1	0	1	0
+						
+pisah badan	0	0	1	0	1	0
+						
+						
+						
+aib	1	1	0	0	1	0					
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+disinformasi	1	0	1	0	0	0
+											
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pecat	1	1	1	0	1	1
+						
+bangkang	1	1	0	0	0	0
+bandel	1	0	0	0	0	0
+injak	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+disparitas	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lantar	1	1	1	0	1	0
+						
+						
+pedar	1	1	1	0	1	0
+						
+						
+						
+						
+						
+rebut	1	0	1	0	1	0
+						
+						
+						
+diskualifikasi	1	1	0	0	1	0
+						
+						
+abai	1	1	1	0	1	0
+jelek	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+bedah	0	1	0	0	0	0
+						
+						
+tikai	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bubar	1	0	1	0	1	1
+						
+disonansi	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+piuh	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ketidakpercayaan	1	1	1	0	0	0
+						
+						
+						
+bekas	1	0	0	0	0	0
+						
+						
+lagu pendek	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+alih	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+cerai	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sedekah	0	0	0	0	1	0
+boneka	0	0	0	1	0	0
+						
+						
+ikan lumba	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+dominan	1	0	1	0	0	0
+						
+						
+dominasi	1	0	1	0	1	0
+						
+						
+						
+						
+keledai	0	1	0	0	0	0
+						
+						
+ajal	0	0	1	0	0	0
+takdir	0	0	1	0	1	0
+kiamat	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+merpati	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+naga	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+liur	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tenggelam	0	0	1	0	1	0
+						
+						
+						
+						
+bius	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+duel	1	0	1	0	0	0
+						
+						
+						
+						
+kusam, pudar	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+penjara gelap bawah tanah	0	0	1	0	0	0
+						
+						
+						
+						
+						
+muka dua	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kerdil	0	0	1	0	1	0
+						
+						
+						
+						
+sekarat	1	1	1	0	1	0
+						
+dinamis	0	0	0	0	0	1
+						
+						
+						
+						
+disentri	0	1	0	0	1	0
+						
+hasrat, asik	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gempa bumi	1	0	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+didik	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+belut	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+patung	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ejakulasi, sembur	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sikut	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+elektrik	0	0	0	1	0	1
+						
+anggun, molek	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+elevasi	0	0	1	1	0	0
+						
+						
+						
+						
+						
+						
+sisih, eliminasi	1	1	1	0	1	0
+elit	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sukar paham	0	0	0	0	0	1
+kurus	0	0	1	0	1	0
+						
+emansipasi	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+emboli	0	0	1	0	1	0
+						
+rangkul, anut, rangkum	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+darurat	0	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kosong	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pesona	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ancam punah	0	0	1	0	0	0
+						
+						
+endemis	0	1	1	0	1	0
+						
+tak ujung	1	0	1	1	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+laksana	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+meriah	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+antusiasme	0	0	0	1	0	1
+gemar, antusias	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+isi perut	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sama	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+erotis	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+eror	0	0	0	0	1	0
+						
+						
+						
+						
+						
+luas, tingkat	1	0	0	0	0	0
+						
+lari diri	0	0	1	0	0	0
+						
+						
+jauh diri	1	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+mapan	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+mati ringan	0	0	1	0	1	0
+ungsi, evakuasi	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+mungkin	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+periksa, ujian	0	0	1	0	0	1
+						
+						
+						
+						
+gali, ekskavasi	0	0	0	0	0	1
+						
+lampau	0	0	0	1	0	0
+						
+unggul	0	1	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+rangsang	1	0	1	1	0	1
+						
+						
+						
+						
+seru	0	0	0	0	0	1
+						
+kecuali	0	1	1	0	1	0
+						
+						
+ekskresi	0	1	0	0	0	0
+						
+						
+						
+						
+eksekusi	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+usir setan	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bijaksana	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+coba	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+eksplosif	1	0	1	0	0	1
+						
+						
+						
+						
+beber	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+iman	0	0	0	1	0	0
+						
+tanpa iman	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+dusta	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+akrab	0	0	0	1	0	0
+						
+paceklik	0	0	0	0	1	0
+						
+						
+						
+						
+fanatisme	0	0	1	0	0	0
+						
+						
+						
+						
+gigi taring	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+puasa	0	0	0	0	1	0
+lemak	0	1	0	0	1	0
+fatal	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+penat	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+favorit	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+prestasi	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+biaya	1	0	0	0	0	0
+lemah	1	1	1	0	1	0
+						
+						
+						
+rasa	1	1	1	1	1	1
+						
+						
+bakat, adem	0	0	0	1	0	0
+						
+jatuh	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pagar	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+ganas, garang, buas	1	1	1	0	1	0
+						
+						
+						
+						
+						
+semangat	1	0	0	1	0	0
+festival	0	0	0	1	0	1
+						
+						
+pesta	0	0	0	1	0	1
+						
+						
+						
+feodalisme	1	0	0	0	1	0
+demam	0	0	1	0	0	0
+						
+						
+						
+						
+bikin	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+setia	0	0	1	1	0	1
+						
+						
+iblis	1	1	1	0	0	0
+sengit	1	1	1	0	0	0
+						
+tarung, laga	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+akhirnya	0	1	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+api	1	0	1	0	0	0
+senjata api	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sulung	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+cocok, pas	1	0	0	0	0	0
+						
+tepat, sesuai	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+lembek	0	1	0	0	0	0
+kopek	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sanjung	0	0	0	1	0	0
+						
+perut kembung	0	1	0	0	0	0
+						
+						
+						
+kutu	0	1	0	0	0	0
+						
+minggat	0	0	1	0	0	0
+bulu domba	1	1	0	0	1	0
+						
+						
+daging	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sentak	1	1	1	0	1	1
+						
+						
+						
+main mata	0	0	0	1	0	1
+						
+						
+						
+cambuk, cemeti, pecut	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+gelepar	0	0	1	0	1	0
+						
+						
+						
+						
+flu, pilek	0	0	1	0	0	0
+						
+						
+fluktuasi, gejolak	1	0	1	0	0	0
+						
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+terbang	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+suka	0	0	0	1	0	0
+						
+makan, pangan	0	0	0	1	0	0
+bodoh	1	1	1	0	1	1
+						
+						
+						
+						
+sepak bola	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+rampok	1	1	1	0	1	0
+						
+larang	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+lengan bawah	1	0	0	0	0	0
+firasat	0	0	1	0	0	0
+						
+						
+						
+nenek moyang	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+orang asing	0	0	1	0	0	0
+						
+						
+						
+ramal	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lupa	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+hebat	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tabah	0	0	0	1	0	0
+						
+benteng	1	1	1	0	1	0
+						
+						
+nasib	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+temu	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+rapuh	0	0	1	0	1	0
+						
+						
+						
+						
+						
+ringkih	0	0	0	0	1	0
+						
+						
+						
+						
+						
+seperti saudara	0	0	0	1	0	0
+						
+						
+curang	1	1	1	0	0	0
+penuh	0	0	1	1	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+hingar-bingar	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+resah, rewel	0	1	1	0	0	0
+gesek, friksi	1	0	0	0	0	0
+						
+						
+						
+sahabat	0	0	0	1	0	0
+pergat	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+lincah, cekat	0	0	0	1	0	1
+						
+						
+						
+senda gurau	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kerut	0	0	0	0	1	0
+cemberut	1	1	0	0	1	0
+						
+						
+						
+						
+						
+sia	0	1	1	0	1	0
+tandas	1	1	0	0	1	0
+frustrasi	1	0	0	0	0	0
+						
+						
+						
+						
+buron	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+jamur, cendawan	0	1	0	0	0	0
+						
+						
+						
+geram	1	1	1	0	0	0
+						
+						
+						
+						
+						
+heboh	1	0	0	0	0	0
+alur, parit, galur, kernyit, kerunyut	0	0	0	0	1	0
+						
+murka	1	0	1	0	1	0
+						
+						
+cingcong, recok	1	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+orang bodoh	0	1	0	0	0	0
+cekik, sumbat	1	1	1	0	1	1
+						
+						
+dapat	0	0	0	1	1	0
+						
+						
+						
+						
+						
+						
+empedu	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+tiang gantung	1	0	1	0	1	0
+						
+						
+						
+judi	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+gang, gerombol	1	0	1	0	0	0
+						
+						
+longo, nganga	0	0	0	0	0	1
+						
+						
+						
+						
+						
+taman	0	0	0	1	0	0
+						
+						
+kilat	0	1	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+luka parah	0	0	1	0	0	0
+						
+						
+megap, hembus nafas	0	0	0	0	0	1
+lenguh, engah	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+agar	0	1	0	0	0	0
+						
+						
+batu permata, permata	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ramping	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+geriatrik	0	0	0	0	1	0
+kuman	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+remang	0	0	1	0	0	0
+raksasa	0	1	1	0	0	0
+omong kosong	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+girang	0	0	0	1	0	0
+						
+						
+						
+						
+silau, kerlap	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+lagu	0	0	0	1	0	0
+						
+						
+luncur	0	0	0	1	0	0
+cahaya redup	0	0	0	1	0	1
+						
+						
+kilau	0	1	0	1	0	1
+						
+						
+						
+						
+						
+						
+mulia, agung	0	0	0	1	0	1
+jaya	0	0	0	1	0	0
+						
+						
+						
+						
+cahaya	0	0	0	1	0	0
+						
+						
+						
+masam	0	0	0	0	1	0
+kenyang	0	1	0	0	0	0
+						
+rakus, lahap	0	1	0	0	0	0
+						
+						
+jembalang, kurcaci	1	1	1	0	0	0
+						
+						
+gumpal	0	1	0	0	0	0
+						
+						
+jin	0	1	1	0	0	0
+Allah, Tuhan	0	0	1	1	0	0
+						
+						
+murtad	1	0	0	0	0	0
+saleh	0	0	0	1	0	0
+rahmat	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+gonorea, kencing nanah	1	1	1	0	1	0
+						
+baik	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tanduk	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pemerintah	0	0	1	0	0	0
+						
+						
+ambil	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+wisuda	0	0	1	1	0	1
+						
+						
+						
+						
+cucu	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+grant	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+parut	1	0	0	0	0	0
+						
+						
+kisi, jeruji	1	1	0	0	0	0
+						
+terima kasih	0	0	0	1	0	0
+serampang, perdeo, percuma	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+kelabu	0	1	0	0	1	0
+						
+						
+minyak	0	1	0	0	0	0
+						
+						
+						
+besar	0	0	0	1	0	1
+serakah	1	1	0	0	0	0
+						
+hijau	0	0	0	1	0	0
+						
+						
+						
+						
+salam, sapa	0	0	0	0	0	1
+						
+granat	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+pedih	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+seringai	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+uban	0	0	1	0	0	0
+erang, rintih	0	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+rogoh	1	1	1	0	0	0
+bruto	0	1	0	0	0	0
+fantastis	0	0	1	0	0	0
+						
+						
+bumi	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+tumbuh	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+kereng	1	1	0	0	0	0
+omel	1	1	1	0	1	0
+						
+						
+						
+						
+jaga, kawal	0	0	1	0	0	0
+						
+						
+						
+						
+						
+gerilya	0	0	1	0	0	0
+kira, terka	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+alat penggal kepala	1	1	1	0	1	0
+						
+dosa	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+mudah tipu	0	0	0	0	1	0
+						
+teguk	0	0	1	0	0	1
+						
+						
+pistol	1	0	1	0	1	0
+						
+bubuk mesiu	0	0	1	0	0	0
+						
+besut, sembur	0	1	1	1	0	0
+						
+						
+						
+						
+						
+selokan, got	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tukang sihir wanita	0	1	1	0	0	0
+						
+						
+						
+						
+bulu, ramus	0	1	0	0	0	0
+						
+						
+						
+						
+						
+halusinasi, maya	0	0	1	0	0	0
+						
+						
+kutang	1	0	1	0	1	0
+tegun	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+keting	1	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+algojo	1	0	1	0	1	0
+						
+						
+						
+jadi	0	0	0	0	1	1
+						
+						
+						
+						
+						
+						
+usik	1	1	0	0	0	0
+leceh	1	0	0	0	0	0
+pelopor	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+kuat	1	0	1	1	0	0
+						
+						
+						
+						
+						
+						
+						
+harmonis	0	0	0	1	0	0
+						
+harmoni	0	0	0	1	0	0
+						
+						
+						
+						
+serobot	1	0	0	0	1	0
+						
+						
+panen	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+angkuh	1	1	0	0	0	0
+						
+						
+						
+angker	0	0	1	0	1	0
+						
+						
+						
+elang, rajawali	0	0	1	0	0	0
+						
+						
+						
+embun	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sembuh	0	0	0	1	0	0
+						
+						
+sehat	0	1	0	1	0	0
+						
+						
+						
+						
+dengar	0	0	1	0	0	0
+						
+mobil jenazah	0	0	1	0	1	0
+						
+						
+						
+tulus	0	0	0	1	1	0
+						
+sungguh	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+kafir	1	1	1	0	0	0
+						
+						
+						
+surgawi	0	0	0	1	0	0
+langit	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+hedonisme	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+tinggi	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ketopong	0	0	1	0	0	0
+						
+manfaat	0	0	0	1	0	0
+						
+ketidakberdayaan	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+zindik	0	1	0	0	0	0
+						
+						
+						
+						
+						
+banci, kedi, wadam	0	0	0	0	0	1
+						
+tapa	0	0	0	0	1	0
+						
+pahlawan	0	0	0	1	0	1
+						
+						
+						
+						
+						
+herpes	0	1	0	0	0	0
+						
+						
+ragu	1	1	1	0	1	0
+						
+						
+						
+masa jaya	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+seram	0	1	1	0	1	0
+						
+						
+						
+						
+paling tinggi	0	0	1	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sewa, gaji, kerja	0	0	0	1	0	0
+						
+desis	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tua	0	0	0	0	1	0
+hoax, berita palsu	1	1	0	0	1	1
+						
+hobi	0	0	0	1	0	0
+						
+						
+						
+babi	0	1	0	0	0	0
+						
+						
+						
+						
+						
+libur	0	0	0	1	0	0
+kudus	0	0	1	1	1	1
+rongga	0	0	0	0	1	0
+berantas	1	1	1	0	1	0
+						
+						
+tuna wisma	1	1	1	0	1	0
+						
+						
+rindu	0	0	0	1	1	0
+						
+kerja rumah	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bulan madu	0	0	0	1	0	1
+						
+						
+						
+						
+kap	1	1	1	0	0	0
+kerudung	0	0	1	0	0	0
+						
+						
+						
+						
+						
+tiup	1	1	0	0	0	0
+						
+harap	0	0	0	1	0	1
+penuh harap	0	0	0	1	0	1
+						
+						
+						
+						
+						
+gerombol	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+rumah sakit	0	0	1	0	1	0
+						
+sandera	1	0	1	0	0	0
+						
+seteru	1	1	1	0	0	0
+						
+						
+panas	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lolong	1	1	1	0	1	1
+						
+						
+						
+						
+						
+gusar, mengkal	1	1	0	0	0	0
+						
+						
+badan kapal	0	1	0	0	0	0
+						
+						
+						
+						
+manusia	0	0	0	1	0	1
+						
+						
+rendah hati	0	1	0	0	1	0
+rendah	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+buru	1	0	1	0	1	0
+						
+						
+Hore	0	0	0	1	0	0
+badai	1	0	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pondok, gubuk, rompok	0	1	0	0	1	0
+						
+						
+						
+ular naga	0	0	1	0	0	0
+						
+hidrosefalus	0	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+nyanyi puji	0	0	0	1	1	0
+						
+						
+hipertrofi	0	1	1	0	0	1
+						
+						
+						
+						
+munafik, hipokrit	0	1	0	0	0	0
+						
+hipotetis	0	0	0	0	0	1
+						
+histeris	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tolol, pandir	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+puja berhala	0	1	1	0	0	0
+						
+						
+						
+						
+						
+jahil, bebal	0	1	0	0	0	0
+						
+						
+						
+ilegal	1	1	1	0	1	0
+ketidaksahan	1	1	1	0	0	0
+						
+						
+haram	1	1	1	0	1	1
+						
+buta huruf	0	1	0	0	0	0
+						
+						
+sinar	0	0	0	1	0	1
+iluminasi	0	0	0	1	0	1
+						
+ilusi	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sempurna	0	0	0	1	0	1
+						
+						
+ketidakdewasaan	1	0	0	0	0	0
+						
+						
+segera	0	0	0	0	0	1
+						
+						
+						
+benam	0	0	1	1	0	1
+						
+imigran	0	0	1	0	0	0
+						
+dekat	0	0	1	0	0	0
+asusila, sundal	1	1	1	0	1	0
+ketidaksusilaan	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kedap	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+libat	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+mustahil	0	0	0	0	1	0
+ketidakmampuan	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+hukum penjara	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+improvisasi	0	0	0	0	0	1
+						
+						
+lalai	0	0	0	0	1	0
+						
+						
+						
+ketidakmurnian	0	1	0	0	0	0
+						
+ketidaksanggupan	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+kepalang	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+kurang hati	1	0	0	0	0	0
+						
+						
+						
+lantik	0	0	0	1	0	0
+						
+						
+						
+						
+						
+											
+						
+						
+dupa, kemenyan	1	0	0	0	0	0
+						
+						
+						
+						
+						
+sumbang	0	1	0	0	0	0
+						
+						
+insiden	0	0	0	0	0	1
+						
+						
+						
+						
+						
+hasut	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+hasil, masuk	0	0	0	1	1	1
+						
+						
+						
+konyol	1	0	0	0	1	0
+						
+						
+						
+						
+						
+ngawur	0	0	0	0	1	0
+ugal	1	1	0	0	1	0
+						
+						
+						
+sukar	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+demon	0	1	1	0	0	0
+						
+tak sembuh	1	1	1	0	1	0
+serbu	1	0	1	0	1	1
+						
+ketidaksenonohan	1	1	0	0	0	0
+saru	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+merdeka	1	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+indoktrinasi	1	0	1	0	0	0
+						
+gigih	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ketidakefisienan	0	1	0	0	1	0
+						
+						
+						
+						
+tindak bodoh	0	1	1	0	1	0
+ketidaksamaan	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+keji	0	0	0	0	1	0
+						
+						
+bunuh anak	1	1	1	0	1	0
+kanak	1	1	0	0	0	0
+						
+						
+						
+						
+						
+infeksi	0	0	1	0	0	0
+						
+						
+						
+						
+rendah mutu	0	0	0	0	1	0
+						
+						
+						
+infertilitas	0	0	0	0	1	0
+						
+						
+ketidaksetiaan	1	1	1	0	1	0
+						
+						
+						
+						
+tak terbatas	0	0	0	1	0	0
+						
+						
+						
+						
+						
+inflasi	0	0	1	0	0	0
+						
+timbul	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+langgar	1	1	1	0	1	1
+jarang	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+waris	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+ketidakadilan	1	1	0	0	0	0
+						
+						
+						
+						
+						
+injeksi, suntik	0	0	1	0	0	0
+						
+luka	1	0	1	0	1	0
+						
+						
+cedera	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sakit gila	1	1	1	0	1	0
+						
+						
+						
+						
+ketidakamanan	0	0	1	0	0	0
+						
+						
+						
+						
+						
+akal busuk	1	1	1	0	0	0
+						
+						
+						
+sepele	1	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+inspirasi	0	0	0	1	0	0
+ilham	0	0	0	1	0	0
+						
+ketidakstabilan	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+naluriah	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ketidakcukupan	1	0	0	0	0	0
+						
+						
+						
+						
+						
+nista	1	1	0	0	1	1
+						
+						
+						
+						
+						
+berontak	1	1	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+intelijen, cerdas	0	0	1	1	0	0
+						
+						
+						
+						
+						
+						
+intens	1	1	1	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tengah, jadi perantara	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+interior	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tanya, interogasi	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+intervensi	0	0	0	0	1	0
+						
+wawancara	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+intim, mesra	0	0	0	1	0	0
+dgn baik sekali						
+						
+ancam	1	1	1	0	0	0
+intimidasi	1	0	1	0	0	0
+tak tahan	1	0	0	0	0	0
+ketidaktoleranan	1	1	1	0	0	0
+intoleran	1	1	1	0	1	0
+						
+mabuk, teler	0	1	0	0	0	0
+						
+keras kepala, degil	1	0	0	0	0	0
+						
+						
+						
+intrik	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+intrusi	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+invasi	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+undang	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+iris	0	0	1	0	0	0
+						
+						
+						
+						
+						
+irasional	0	1	1	0	0	0
+						
+tak damai	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+rongseng	1	0	0	0	0	0
+						
+iritasi	1	1	0	0	1	0
+						
+						
+						
+isolasi	0	0	0	0	1	0
+pencil	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tusuk	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+penjara	1	0	1	0	1	0
+						
+						
+suruh	0	1	0	0	0	0
+						
+						
+						
+gelegar	0	0	1	0	1	0
+						
+sakit kuning	0	0	1	0	0	0
+						
+						
+						
+mulut	0	0	1	0	0	0
+						
+cemburu	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+gugat	1	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+wc, kakus	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+lawak	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+jalan	0	0	1	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lompat	0	0	0	1	0	0
+						
+						
+rimba, belantara	0	0	1	0	0	0
+						
+						
+						
+						
+						
+yurisprudensi	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kandang anjing	0	0	0	0	1	0
+						
+						
+minyak tanah, kerosin	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+raja	0	0	1	0	0	0
+tendang	1	0	0	0	0	0
+sepak	1	0	0	0	0	0
+						
+						
+culik	1	0	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+keluarga	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+layang	0	1	0	0	0	0
+anak kucing	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+tanda buruk	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tenaga kerja	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+renda	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ratap	0	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+longsor	0	0	1	0	1	0
+						
+						
+						
+						
+lembut	0	0	1	1	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lebih besar	0	1	0	0	0	1
+						
+						
+						
+						
+						
+bulu mata	1	0	1	0	0	0
+						
+						
+						
+						
+lambat	0	1	1	0	1	1
+						
+pendam	1	1	0	0	0	1
+						
+						
+						
+						
+						
+						
+kakus, jamban	0	1	0	0	0	0
+						
+						
+tawa	0	1	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+lava, lahar	1	0	1	0	0	0
+						
+WC	0	1	0	0	0	0
+						
+						
+						
+						
+langgar hukum	1	0	1	0	0	0
+						
+perkara hukum	1	1	1	0	1	1
+						
+longgar	0	0	0	0	1	0
+cahar	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lintah	0	1	1	0	0	0
+lirik, kerling	0	1	0	0	0	0
+curiga	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+sah	1	0	1	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+waktu luang	0	0	0	1	0	1
+						
+						
+jeruk nipis, lemon	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kusta, lepra	0	1	1	0	1	0
+lesbian	0	1	0	0	1	0
+						
+						
+						
+						
+lebih rendah	0	1	0	0	0	0
+						
+						
+letal	0	1	1	0	1	0
+						
+lesu	0	0	0	0	1	0
+						
+						
+						
+						
+leukemia	1	0	1	0	1	0
+						
+						
+						
+						
+						
+cabul	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+fitnah	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+jilat	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tak nyawa	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+petir	1	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+baris	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+singa	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+minum keras	1	0	0	1	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ajuk perkara	1	1	1	0	1	0
+						
+suka perkara	1	1	0	0	0	0
+						
+						
+						
+						
+						
+lebam, pucat kelabu	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+muak	1	1	1	0	1	0
+						
+						
+cengis	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kunci, sekap	0	0	1	0	1	0
+						
+						
+belalang	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sendiri	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+raja	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+caplak, tuma	0	1	0	0	0	0
+manis	0	0	0	1	0	1
+						
+juita	0	0	0	1	1	1
+						
+kasih	0	0	0	1	1	0
+penuh kasih	0	0	0	1	0	0
+						
+						
+						
+						
+						
+loyal	0	0	1	1	0	1
+						
+						
+						
+untung	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kental	0	1	0	0	0	0
+						
+						
+						
+						
+						
+terjang, sergap	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+subur, rimbun	0	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+mewah	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+kecapi	0	0	0	1	0	0
+						
+liris	0	0	0	1	0	0
+bunga pala, lawang	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+orang gila	1	0	1	0	0	0
+						
+mafia	0	0	1	0	0	0
+						
+orang budiman	0	0	1	0	0	0
+						
+belatung, tempayak	0	1	0	0	0	0
+						
+gaib	0	1	1	1	0	1
+tukang sulap	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+megah	0	0	0	1	0	1
+						
+						
+mayoritas	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+malaria	0	1	1	0	1	0
+						
+						
+jahat jabat	0	1	0	0	0	0
+						
+dengki	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+malpraktik	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+mandamus	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+kudis	0	1	1	0	0	0
+						
+oyak	1	1	1	0	1	0
+						
+						
+						
+						
+maniak	1	0	1	0	0	0
+						
+						
+						
+manifestasi	0	0	1	0	0	0
+						
+						
+						
+						
+						
+manipulasi	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+bunuh orang	1	1	1	0	1	1
+						
+						
+						
+						
+pupuk, rabuk	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+nikah	0	0	0	1	0	0
+						
+sumsum	0	0	0	1	0	0
+kawin	0	0	1	1	0	1
+						
+						
+						
+bela diri	1	0	0	0	0	0
+						
+martir, syahid, syuhada	0	0	1	0	1	0
+						
+ajaib	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+senang karena derita	1	1	1	0	0	0
+						
+						
+						
+bunuh masal	1	1	1	0	1	0
+pijat	0	0	0	1	0	0
+						
+						
+						
+hasil karya	0	0	0	1	0	0
+kuasa	1	1	1	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+materialis	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tak berarti	0	0	0	0	1	0
+						
+						
+campak	0	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+medali	0	0	0	1	0	1
+						
+						
+campur	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+medis	0	0	1	0	0	0
+						
+						
+						
+						
+						
+meditasi, renung	0	0	0	1	0	0
+						
+						
+						
+						
+						
+patih	0	0	0	0	1	0
+						
+						
+melankolis	0	0	0	0	1	0
+pilu	0	0	0	0	1	0
+kelahi	1	0	1	0	0	0
+						
+						
+						
+						
+						
+larut, krisis	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+mata duit	0	0	1	0	0	0
+						
+						
+						
+tanpa belas kasih	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+faedah	0	0	0	1	0	0
+						
+ria	0	0	0	1	0	1
+sukaria	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bidan	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+lumut	0	1	0	0	0	0
+						
+						
+						
+						
+militer	0	0	1	0	0	0
+milisi	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+menteri	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lumpur	0	1	0	0	0	0
+						
+						
+						
+laku buruk	1	1	0	0	0	1
+						
+						
+						
+						
+						
+salah paham	1	1	1	0	1	0
+						
+						
+						
+						
+						
+malang	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+salah taruh	1	1	0	0	0	0
+						
+						
+keliru	1	0	0	0	1	0
+						
+						
+misil	0	0	1	0	0	0
+						
+						
+						
+nyata salah	1	1	0	0	0	0
+						
+						
+silap	0	0	1	0	0	0
+						
+nyonya	1	1	0	0	0	0
+ketidakpercayaan	0	1	1	0	0	0
+						
+						
+						
+						
+tungau	0	1	0	0	0	0
+						
+						
+						
+						
+						
+erang	0	0	1	0	1	0
+						
+massa	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+modifikasi	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+aniaya	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+uang	1	0	0	1	0	1
+						
+						
+satu warna	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+muson	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+moral	1	0	0	0	0	0
+						
+akhlak	1	1	0	1	0	1
+						
+						
+						
+morbiditas	1	1	1	0	1	0
+rumah mayat	0	1	1	0	1	0
+hampir mati	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+hipotek, gadai	0	0	1	0	0	0
+						
+						
+						
+kamar mayat	0	0	1	0	1	0
+						
+masjid	1	0	0	0	0	0
+nyamuk	1	1	0	0	0	0
+						
+						
+						
+						
+ibu	0	0	0	1	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kabung	0	0	0	0	1	0
+duka cita	1	0	1	0	1	0
+						
+						
+						
+mulut	0	0	0	0	0	1
+suap	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lendir	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+mangkok	1	0	1	0	1	0
+bagal	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bungkam	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+musik	0	0	0	1	1	0
+musikal	1	0	0	1	1	1
+						
+						
+						
+senapan	1	0	1	0	0	0
+						
+						
+						
+						
+						
+apak, apek	0	1	0	0	0	0
+						
+						
+						
+kompong	0	1	0	0	0	0
+mutilasi	1	1	1	0	1	0
+						
+gumam	1	0	0	0	0	0
+						
+						
+						
+moncong	0	0	1	0	0	0
+lamur, rabun	1	0	0	0	1	0
+						
+						
+misterius	0	0	1	0	0	1
+misteri	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tanpa nama	0	1	0	0	0	0
+						
+						
+						
+						
+tidur sebentar	0	0	0	1	0	0
+						
+serbet	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+mesum	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+mual	0	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+butuh	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+negatif	0	0	0	0	1	0
+						
+bengkalai	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+Negro	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+nepotisme	1	1	0	0	1	0
+						
+gugup	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+bawah	1	0	1	0	1	0
+						
+jelatang	1	1	0	0	0	0
+						
+sakit saraf	0	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+nikotin	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+mimpi buruk	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bising, berisik	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+ketidakpatuhan	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+jerat	1	1	1	0	1	0
+						
+						
+						
+						
+hidung	0	1	0	0	0	0
+						
+						
+penting	0	0	1	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+masyhur, beken	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+berabe	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+mati rasa	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+kamar anak, kebun bibit	0	0	0	1	0	0
+pelihara, asuh	1	1	1	1	0	0
+						
+						
+gizi	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+wahah	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+gendut, gepuk	0	1	0	0	0	0
+gemuk	0	1	0	0	1	0
+patuh	0	0	1	0	0	0
+obi	0	1	1	0	0	0
+tanggal mati, surat mati	0	0	0	0	1	1
+berita mati	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+sedia bantu	1	1	1	1	0	1
+						
+						
+lenyap	1	0	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+cabul	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+peroleh	0	0	0	1	0	0
+						
+						
+						
+						
+						
+tentu, kadang	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gurita	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+singgung	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gergasi	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tanda	0	0	1	0	0	0
+						
+						
+						
+						
+						
+mahakuasa	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+keluar	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+opera	1	0	1	1	1	1
+						
+operasi	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+dogmatis	1	0	0	0	0	0
+candu, madat	1	1	1	0	1	0
+lawan	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+oposisi	1	0	0	0	0	0
+tindas	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+optimisme	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+orc	1	1	1	0	0	0
+						
+orkestra	1	0	0	1	1	0
+						
+						
+						
+						
+						
+						
+tahbis	0	0	0	1	0	0
+artileri	0	0	1	0	0	0
+						
+						
+organ	0	0	0	1	0	0
+						
+						
+						
+organisasi	0	0	0	1	0	1
+						
+						
+syahwat	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+orisinal	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+anak yatim	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+orang buang	0	1	1	0	1	0
+						
+teriak, jerit	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pelopor	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+orang luar	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lebih	1	0	0	1	1	1
+						
+						
+						
+						
+sangat kuat	1	0	1	0	0	0
+terlalu mahal	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+buka	0	0	1	1	0	0
+						
+						
+guling	0	0	1	0	0	0
+						
+						
+						
+walah	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+jelas, gamblang	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+pandemi	0	0	1	0	1	0
+						
+						
+panik	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+parasut	0	0	1	0	0	0
+parade, pawai	0	0	1	1	0	1
+						
+						
+						
+						
+suri teladan	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+paranoia	0	0	1	0	0	0
+						
+						
+						
+parasit	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+beo	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gairah	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+pendeta	0	0	0	1	1	0
+kue	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+rintik, derai	1	0	0	0	0	0
+						
+						
+orang miskin	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+bayar	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+tenang, tenteram, sentosa	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+penalti	1	0	1	0	1	0
+tebus dosa	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+penetrasi	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+menung	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+barangkali	0	0	0	0	0	1
+						
+											
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+peri	1	1	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sumpah palsu	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pelaku jahat	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+keringat	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pemutarbalikan	1	1	0	0	1	0
+						
+						
+						
+pesimis	0	0	1	0	1	0
+hama	1	1	1	0	0	0
+sampar, wabah	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tulang jari	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+dahak	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+piket	1	0	1	0	0	0
+						
+						
+						
+piknik	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tumpuk, timbun	0	1	0	0	0	0
+						
+						
+						
+jarah	1	1	1	0	1	1
+						
+						
+						
+						
+						
+jerawat	0	1	0	0	0	0
+						
+						
+						
+pinus	0	0	0	0	1	0
+						
+						
+						
+sayap	0	0	1	0	0	0
+						
+						
+						
+saleh, soleh, alim	0	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+kesal	1	0	1	0	0	0
+						
+bajak laut, rompak	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+jebak	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+plagiat	0	1	0	0	0	0
+						
+						
+						
+						
+sayu	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+suka main	1	0	0	1	0	1
+tempat main	0	0	0	1	0	1
+						
+						
+						
+						
+mohon	0	0	1	0	1	0
+						
+						
+						
+						
+						
+ikrar, janji	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pneumonia	0	0	1	0	0	0
+rebus	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tak arti	0	0	0	0	1	0
+						
+racun	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+polemik	1	1	0	0	0	0
+						
+						
+						
+polio	0	0	1	0	1	0
+						
+						
+						
+						
+politik	0	1	0	0	0	0
+						
+						
+						
+						
+						
+polusi	0	1	0	0	0	0
+						
+poligami	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+muncul, seruduk, letup	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+porno	0	1	0	0	0	0
+						
+						
+pornografi	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pagar betis	0	0	1	0	0	0
+milik	1	1	1	1	0	0
+surup, rasuk	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+anumerta	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tak daya	1	1	1	0	1	0
+						
+						
+						
+						
+						
+mahir	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+kelakar, seloroh	0	0	0	0	0	1
+						
+doa	0	0	1	1	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+hamil	0	1	0	0	0	0
+						
+prasangka, purbasangka	1	1	1	0	0	0
+						
+						
+						
+						
+prematur	0	0	0	0	0	1
+						
+rencana	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+saji	0	0	0	1	0	1
+						
+						
+						
+						
+awet	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gengsi	0	0	0	1	0	0
+presto	0	0	0	1	0	1
+						
+						
+lancang, pongah	1	1	0	0	0	0
+						
+						
+						
+pura	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+cegah	0	0	1	0	0	0
+						
+						
+						
+						
+						
+mangsa	0	0	1	0	0	0
+						
+						
+						
+						
+bangga	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+terungku	1	0	1	0	1	0
+tawan	1	1	1	0	1	0
+						
+						
+						
+						
+						
+istimewa	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+masalah	0	0	1	0	1	0
+prosedur	0	0	1	0	0	0
+						
+						
+						
+						
+prosesi, defile	0	0	0	1	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+duniawi	1	0	0	0	0	0
+kata kotor	1	0	0	0	0	0
+						
+						
+						
+						
+						
+cakap	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+deret	0	0	0	1	1	0
+						
+						
+						
+						
+						
+						
+proyektil	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+panjang	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+makmur	0	0	0	1	0	0
+						
+						
+						
+prostitusi	0	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+protestan	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sedia	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+provokasi	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bongkar	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+psikosis	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+puma	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tajam	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+cuci dosa	0	1	1	0	0	0
+						
+						
+						
+						
+murni	0	0	0	0	0	1
+						
+						
+						
+						
+dengung, dengkur	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+nanah	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+dukun	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+rawa	0	1	1	0	0	0
+burung puyuh	0	0	1	0	0	0
+pelik	0	0	0	1	0	0
+gempa	0	0	1	0	0	0
+						
+						
+						
+						
+						
+dilema, bimbang	1	0	1	0	0	0
+						
+						
+						
+						
+						
+karantina	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+cepat	0	0	0	0	0	1
+air raksa	0	0	0	0	0	1
+						
+						
+diam	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+gemetar, getar	0	0	1	0	0	0
+						
+						
+						
+						
+						
+kutip	0	0	0	0	0	1
+						
+						
+rakyat jelata	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+radiasi	0	0	1	0	0	0
+						
+						
+radioaktif	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+radon	0	0	1	0	0	0
+undi	0	0	0	0	0	1
+						
+						
+						
+hardik	1	1	1	0	0	0
+robek	0	1	0	0	0	1
+gerebek	1	0	1	0	0	1
+jeruji	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+hujan	0	0	0	0	1	0
+						
+						
+						
+						
+						
+bentur, hantam	1	0	1	0	1	0
+						
+						
+						
+amuk	1	0	1	0	0	0
+						
+tengik, perat	0	1	0	0	0	0
+acak	0	0	0	0	0	1
+						
+						
+						
+						
+tebus	1	0	1	0	0	0
+						
+						
+perkosa	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ruam	0	1	0	0	0	0
+tikus	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ular bisa	0	0	1	0	0	0
+						
+sambut hangat	1	1	0	1	0	1
+						
+sangat lapar, rakus sekali	1	0	1	0	1	0
+						
+oceh	1	0	1	1	0	1
+						
+						
+pisau cukur	0	0	1	0	0	0
+						
+reaksi	1	0	1	0	0	0
+						
+						
+						
+						
+						
+siap	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+muncul lagi	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bandel	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+terima	0	0	0	1	0	1
+						
+						
+						
+						
+reses	0	0	1	0	0	0
+resesi	1	1	1	0	1	0
+						
+residivis	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+sembrono	1	0	1	0	0	0
+nekat	1	1	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+rekonsiliasi, rujuk	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+rekreasi	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+refleks	0	0	0	0	0	1
+surut	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ungsi	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+sanggah	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+resimen	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+atur	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+suka cita	0	0	0	1	0	1
+						
+						
+						
+						
+						
+kambuh	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+keramat, barang tinggal	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+enggan	0	0	1	0	0	0
+						
+						
+sisa	0	1	1	0	0	0
+						
+tahan kembali	1	0	0	0	0	0
+						
+						
+						
+						
+obat	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+lalai	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+belot	1	0	0	0	0	0
+						
+						
+						
+						
+renovasi, rombak	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bayar kembali	1	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+basmi	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+represi	0	0	1	0	0	0
+						
+tegur	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+reproduksi	0	0	0	1	0	0
+						
+						
+						
+tangkal	1	1	0	0	0	0
+segan	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sebal	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+undur diri	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sumber	0	0	0	1	0	0
+hormat	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+istirahat	0	0	0	1	0	0
+gemerlap	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+restitusi	1	0	0	0	0	0
+						
+						
+						
+						
+						
+kendali	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+cabut kembali, tarik	1	0	0	0	0	0
+						
+hemat	0	1	1	0	0	0
+retribusi	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+suka ria	0	0	0	1	0	0
+						
+						
+						
+takzim	0	0	0	1	0	0
+						
+						
+						
+lamun	0	0	0	1	0	0
+balik	1	1	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bangkit	0	0	0	1	0	0
+						
+						
+cabut	1	1	1	0	1	0
+						
+						
+revolusi	1	0	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+rematik	1	0	1	0	1	0
+						
+						
+						
+irama	0	0	0	1	0	1
+						
+						
+pita	1	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+teka teki	0	0	0	0	0	1
+						
+						
+						
+						
+						
+geli	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kaku	0	1	1	0	0	0
+						
+						
+						
+						
+dering	1	0	0	0	0	0
+						
+						
+						
+rusuh	1	0	1	0	1	0
+liar	1	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+terbit	0	0	0	1	0	0
+risiko	0	0	1	0	0	0
+						
+						
+						
+						
+						
+saing	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+roket	1	0	0	0	0	0
+						
+batang	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+roman	0	0	1	1	1	1
+romantis	0	0	0	1	0	0
+romantisme	0	0	0	1	0	0
+gelut	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+punah	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+isu	0	0	0	0	1	0
+						
+						
+lari	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pedang	1	0	1	0	0	0
+						
+sabotase	1	1	1	0	1	1
+						
+						
+						
+						
+korban	1	1	1	0	1	1
+						
+kurang sehat	0	1	1	0	1	0
+						
+aman	0	0	0	1	0	0
+						
+						
+						
+						
+lengkung, lentur	1	0	1	0	1	0
+						
+						
+						
+						
+						
+santo	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gurau	0	0	0	0	0	1
+						
+bar	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+samurai	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+getah	0	0	0	0	1	0
+						
+						
+sarkasme	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+jenuh	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+simpan, tabung	0	0	0	1	0	0
+						
+						
+cap, nikmat	0	1	0	1	1	0
+						
+						
+						
+						
+						
+						
+						
+perancah	0	0	1	0	0	0
+						
+						
+						
+						
+						
+pisau bedah	0	0	1	0	0	0
+						
+						
+skandal	0	0	1	0	0	0
+						
+						
+						
+kambing hitam	1	0	1	0	0	0
+gores, bekas luka	1	1	1	0	1	0
+						
+langka	1	0	1	0	1	0
+baru saja, barusan	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+skizofrenia	1	1	1	0	1	0
+						
+						
+beasiswa	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+hangus	1	0	0	0	0	0
+skor	0	0	0	1	0	1
+						
+caci maki	1	0	0	0	0	0
+kalajengking	1	1	1	0	0	1
+						
+						
+						
+momok	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ciut, pekik	0	0	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gosok, lulur	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+buih, kekam	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+khalwat	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+picik	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+egois	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pikun	0	0	1	0	1	0
+						
+						
+						
+sensasional	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+sensual	0	0	0	1	0	1
+nafsu berahi	0	0	0	1	0	0
+						
+vonis	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+separatis	1	1	0	0	0	0
+						
+racun darah	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+serius	0	0	1	0	1	0
+						
+ular	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+seks	0	0	0	1	0	0
+						
+						
+lusuh	0	1	0	0	0	0
+						
+belenggu, kongkong	1	1	1	0	1	0
+						
+						
+						
+						
+						
+teduh, rindang	0	0	1	0	0	0
+						
+						
+						
+						
+						
+goncang	1	1	1	0	0	0
+goyah, oleng	1	0	1	0	0	0
+						
+						
+						
+						
+						
+tak tahu malu	0	1	0	0	0	0
+						
+betis	0	0	1	0	0	0
+						
+						
+						
+bagi, andil	0	0	0	1	0	0
+						
+						
+runcing	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kulit	1	0	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+celaka kapal, kapal karam	0	0	1	0	1	0
+						
+						
+sial	1	1	1	0	1	0
+gigil	1	0	1	0	1	0
+						
+						
+syok	1	0	1	0	0	1
+amat	0	0	0	0	0	1
+berengsek	1	1	0	0	0	0
+						
+						
+tembak	1	0	1	0	1	1
+						
+						
+						
+						
+util	1	1	0	0	0	0
+belanja	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+dorong, sorong	1	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+pecah peluru meriam	0	0	1	0	0	0
+						
+						
+						
+lengking, nyaring	1	0	1	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+elak	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bara	1	0	0	0	0	0
+						
+						
+						
+sederhana	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+penuh dosa	1	1	1	0	1	0
+nyanyi	0	0	0	1	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sirene	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+desis	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+miring	1	0	0	0	0	0
+						
+						
+selip	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+banting	1	0	1	0	0	1
+						
+						
+						
+						
+tampar	1	0	1	0	1	1
+gorok	1	0	0	0	0	0
+						
+						
+						
+sembelih	1	1	1	0	1	1
+rumah jagal	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lanyau	0	1	0	0	0	0
+						
+						
+						
+gelincir	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+air kotor	0	1	0	0	0	0
+						
+cengeng	0	1	0	0	0	0
+						
+malas	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+logam bundar, peluru gotri	0	1	0	0	0	0
+						
+						
+kampung	0	1	0	0	0	0
+						
+rosot	0	0	0	0	1	0
+						
+lumpur salju	0	1	0	0	0	1
+						
+licik	1	1	1	0	0	0
+						
+						
+						
+						
+tubruk, remuk	1	0	1	0	0	0
+						
+						
+						
+bau	1	1	0	0	0	0
+						
+						
+senyum	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+selundup	1	1	1	0	0	0
+						
+						
+jelaga, cabul	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+jerat, perangkap	0	0	1	0	0	0
+gertak	1	1	0	0	0	0
+						
+						
+selinap	1	0	1	0	0	1
+						
+						
+senyum seringai	1	1	0	0	0	0
+bersin, bangkis	0	1	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+dengus	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sedu	0	0	0	0	1	0
+						
+						
+						
+						
+						
+sosialisme	0	1	1	0	0	0
+sosialis	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+tanah	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+tentara	1	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+somatik	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+sulang	0	1	0	0	0	0
+						
+						
+						
+						
+						
+sihir	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+nestapa	0	0	1	0	1	0
+						
+						
+						
+serang dadak	0	0	1	0	0	0
+						
+						
+						
+belah jiwa	0	0	1	0	0	0
+						
+						
+						
+						
+asam, masam	0	1	0	0	0	0
+						
+						
+						
+						
+						
+spa	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kejang	0	0	1	0	0	0
+						
+						
+						
+						
+						
+tombak	1	0	1	0	0	0
+spesial	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bintik	0	1	0	0	0	0
+						
+						
+						
+						
+spektakuler	0	0	0	0	0	1
+						
+momok	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+spekulasi	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+laba	0	1	1	0	0	0
+						
+paku	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+tulang belakang	1	0	0	0	0	0
+						
+perawan tua	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+ludah	0	1	0	0	0	0
+						
+						
+cebur, cemplung, percik	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+manja	0	1	0	0	0	0
+spoiler	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+istri	0	0	0	1	0	0
+						
+keseleo	0	0	0	0	1	0
+						
+						
+						
+						
+						
+bidadari, peri	0	0	1	0	0	0
+						
+						
+pacu	0	0	1	0	0	0
+lancung	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+mudah singgung	1	1	1	0	1	0
+						
+						
+padam	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sempoyong	0	0	0	0	0	1
+						
+genang, mandek, sendat	0	0	0	0	1	0
+						
+						
+noda	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+jalan buntu	1	1	0	0	0	0
+kuntit	0	0	1	0	0	0
+kios, jongko	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+buntu	1	0	1	0	0	0
+						
+						
+						
+						
+bintang	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+penuh bintang	0	0	0	1	0	0
+						
+						
+kejut	0	0	1	1	0	1
+						
+lapar	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kokoh, mantap, stabil	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+steril, mandul	0	0	0	0	1	0
+						
+luhur	1	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+lengket	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+aib	1	1	1	0	1	0
+						
+						
+						
+hening	0	0	1	0	1	0
+						
+						
+						
+						
+sengat	1	0	1	0	0	0
+						
+pelit	1	1	1	0	1	0
+						
+pengap	0	1	0	0	0	0
+tugas	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+perut	0	1	0	0	0	0
+batu	1	0	0	0	0	0
+						
+						
+						
+						
+tinja	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+selat	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+usung	0	0	1	0	1	0
+kena	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+kupas	0	0	0	0	1	0
+						
+						
+						
+						
+sambar	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bengal	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tunduk	1	1	1	0	1	0
+sublimasi	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+subordinat	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+subsidi	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+subversi	1	0	1	0	0	0
+subversif	1	0	0	0	0	1
+tumbang	0	1	1	0	1	0
+						
+sukses	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+mati lemas, sesak napas	1	1	1	0	1	0
+						
+						
+						
+						
+						
+bunuh diri	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+sultan	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+bah	0	1	0	0	0	0
+						
+matahari	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+cerah	0	0	0	1	0	1
+						
+						
+sinar matahari	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+superstar	0	0	0	1	0	0
+takhayul, kurafat	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+dukung	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+supremasi	1	0	1	1	0	1
+						
+						
+						
+						
+						
+						
+gelora	0	0	0	0	0	1
+						
+						
+muka masam	1	1	0	0	0	0
+						
+						
+						
+						
+cengang, kaget	0	0	1	1	0	1
+						
+						
+						
+serah, pasrah	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sangka	0	0	1	0	0	0
+						
+						
+						
+						
+risau	0	0	1	0	0	1
+tangguh	0	0	1	0	0	0
+waham	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kawan	0	1	0	0	0	0
+						
+swastika	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+permen	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+tegak	0	1	0	0	0	0
+renang	0	0	1	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+simetri	0	0	0	1	0	0
+simpatik	0	0	1	1	1	0
+santun	0	0	0	0	1	0
+simpati	0	0	0	0	1	0
+simfoni	0	0	0	1	0	0
+						
+						
+						
+sinkronisasi	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tabu, pantang	0	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+taktik	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+giur	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ongkos, tarif	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+hambar	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ajar	0	0	0	1	0	1
+						
+						
+						
+kesan	0	1	1	0	1	0
+goda	1	0	0	0	1	0
+						
+ledek	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+padat	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+prahara	1	0	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tensi	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+terminal	0	0	1	0	1	0
+akhir	0	0	0	0	1	0
+						
+						
+rayap	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+teror	0	0	1	0	0	0
+terorisme	1	1	1	0	1	0
+teroris	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+tetanus	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+syukur	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+teokratis	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+terapeutik	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+haus	0	0	0	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tak pikir	1	1	0	0	0	0
+						
+						
+gasak, rangket	1	1	1	0	1	0
+						
+						
+						
+						
+						
+irik	1	0	1	0	1	0
+						
+						
+						
+						
+sensasi	0	0	1	1	0	1
+						
+						
+						
+denyut	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+debar	1	0	0	0	0	0
+						
+						
+						
+gemuruh	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+gelitik	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kencang, ketat	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kodok, katak	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+toilet	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sakit gigi	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+angin topan, tornado	0	0	1	0	0	0
+torpedo	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+menara	0	0	1	0	0	0
+						
+						
+						
+						
+toksin	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tragedi	0	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+rongsok	0	1	0	0	0	0
+traumatis	1	0	1	0	1	0
+						
+						
+						
+						
+						
+parodi	0	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+harta	0	0	0	1	0	0
+						
+						
+rawat, laku	1	1	1	1	1	1
+						
+						
+						
+						
+pohon	1	1	0	1	0	1
+						
+						
+						
+						
+						
+						
+tremor	1	0	1	0	1	0
+						
+						
+						
+						
+gempar	0	0	1	0	0	1
+						
+						
+						
+						
+						
+sengsara	0	1	1	0	1	0
+						
+						
+						
+						
+						
+tipu daya	1	1	1	0	1	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+menang	0	0	0	1	0	1
+						
+						
+						
+						
+						
+						
+						
+piala	0	0	0	1	0	1
+						
+						
+repot	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+benar	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tumor	0	0	1	0	1	0
+						
+ricuh	1	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+golak	1	0	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gumul	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kelip	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+topan	0	0	1	0	0	0
+						
+						
+						
+						
+zalim	0	0	1	0	1	0
+rajalela	1	1	1	0	1	0
+						
+						
+						
+						
+						
+maag	1	1	1	0	1	0
+						
+habis	0	0	0	0	1	0
+						
+ultimatum	1	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+tak sanggup	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tak duga	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+kurang tarik	0	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tak kekang	1	0	1	0	0	1
+						
+						
+						
+tak tentu	1	1	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+rendah budi	0	1	0	0	0	0
+						
+						
+						
+						
+						
+tak kendali	1	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+abadi, kekal	0	0	0	1	1	0
+						
+						
+						
+						
+						
+anggur	0	0	1	0	1	0
+						
+						
+tak seimbang	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+tak jelas	0	0	0	0	1	0
+						
+						
+						
+ketidakadilan	1	0	0	0	1	0
+						
+						
+tak baik	0	1	0	0	1	0
+						
+						
+						
+						
+						
+tak kenal ampun	1	0	0	0	1	0
+						
+						
+tak penuh	1	0	0	0	1	1
+						
+tak iman	0	0	0	0	1	0
+						
+tak lindung	0	0	0	0	0	1
+ketidakbahagiaan	0	0	0	0	1	0
+tak bahagia	1	1	0	0	1	0
+						
+						
+						
+lalu	0	0	1	0	0	0
+						
+gabung, satu	0	0	0	1	0	0
+						
+						
+						
+tak bayang	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tak sengaja	0	0	0	0	0	1
+						
+						
+						
+						
+tak undang	0	0	0	0	1	0
+						
+unik	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tak populer	0	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tegar	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+labil	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tak layak	0	1	0	0	0	0
+						
+						
+						
+menanjak	0	0	1	0	0	0
+						
+						
+						
+angkat	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+urgensi	0	0	1	0	0	1
+desak	0	0	1	0	0	1
+						
+pasu	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+utopis	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+hampa	0	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+absah, sahih	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+vampir	1	1	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+belok	0	0	1	0	0	1
+						
+						
+						
+						
+						
+vegetatif	0	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+balas dendam	1	0	0	0	0	0
+						
+						
+bisa ular	1	1	1	0	0	0
+						
+						
+lubang angin	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ambang	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+pusing	0	0	1	0	0	0
+						
+						
+vesikular	0	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+veto	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+budi luhur	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+visioner	0	0	0	1	0	0
+						
+						
+						
+kunjung	0	0	0	1	0	0
+kedok	0	0	0	0	0	1
+						
+						
+						
+						
+daya hidup	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gunung berapi	0	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+sukarelawan	0	0	1	1	0	0
+						
+						
+bahenol	0	0	0	1	0	0
+						
+						
+						
+						
+						
+pilih	1	0	0	1	1	1
+						
+						
+						
+						
+sumpah	0	0	0	1	0	0
+						
+						
+						
+vulgar	0	1	0	0	0	0
+						
+rentan	0	0	1	0	1	0
+						
+burung bangkai	0	1	1	0	0	0
+						
+						
+						
+omong	1	0	0	0	1	0
+						
+						
+upah	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+gelimang, kubang	0	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+ingin	0	0	0	0	1	0
+						
+						
+						
+sipir	1	0	1	0	0	0
+						
+						
+						
+						
+						
+ahli sihir	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+prajurit	1	0	1	0	0	0
+kutil	0	1	0	0	0	0
+						
+						
+						
+						
+						
+limbah	0	1	0	0	0	0
+						
+buar, royal, boros	1	1	0	0	1	0
+						
+nonton	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+kaya	0	0	0	1	0	0
+						
+						
+						
+letih	0	0	0	0	1	0
+lelah	0	0	0	0	1	0
+						
+jemu	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tembakau, gulma	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+sambut	0	0	0	1	0	0
+						
+						
+						
+						
+						
+dara, perawan, gadis	1	1	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+tingkah	0	1	0	1	1	1
+rengek	0	0	1	0	1	0
+						
+						
+						
+						
+						
+pusar air	0	0	1	0	0	0
+angin puyuh	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+putih	0	0	0	1	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+janda	0	0	0	0	1	0
+duda	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+hutan belantara	0	0	1	0	1	0
+						
+sengaja	1	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+gerenyit	1	1	1	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					
+						
+						
+						
+						
+						
+						
+nirkabel	1	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+layu	0	1	0	0	1	0
+						
+						
+						
+						
+jenaka	0	0	0	1	0	0
+ahli	0	0	0	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+cacing	0	0	0	0	0	1
+usang	0	0	0	0	1	0
+						
+						
+						
+lebih buruk	0	0	1	0	1	0
+						
+sembah	0	0	1	1	0	0
+						
+tak guna	1	1	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+lampias	1	0	0	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+orang malang, orang celaka	1	1	0	0	1	0
+						
+						
+						
+						
+kisut	0	0	0	0	1	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+xenofobia	0	0	1	0	0	0
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+salak	1	0	1	0	0	1
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+muda	0	0	0	1	0	1
+						
+pemuda	1	0	1	1	0	1
+						
+						
+						
+						
+tekun	0	0	0	1	0	0
+						
+						
+						
+						
+animo	0	0	0	1	0	0
