@@ -185,7 +185,7 @@ public class KeywordSpotting {
         
         
         for (int i=listKata_after_formalization.size()-1; i>=0; i--) {
-            if (listKata_after_formalization.get(i).equals("tidak")) {
+            if ((listKata_after_formalization.get(i).equals("tidak")) || (listKata_cerpen.get(i).equals("tak"))) {
                 if (listKata_after_formalization.get(i+1).equals("akan")) {
                     listKata_after_formalization.remove(i+1);
                 }

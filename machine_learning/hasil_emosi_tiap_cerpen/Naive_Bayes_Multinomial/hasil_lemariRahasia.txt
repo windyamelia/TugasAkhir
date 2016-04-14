@@ -1,0 +1,8 @@
+/*** hasil_lemariRahasia.txt ***/
+jumlah emosi: 1
+jumlah emosi: 4
+jumlah emosi: 11
+jumlah emosi: 1
+jumlah emosi: 3
+jumlah emosi: 6
+jumlah emosi: 10

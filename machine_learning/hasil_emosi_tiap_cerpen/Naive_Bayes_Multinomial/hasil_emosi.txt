@@ -1,0 +1,72 @@
+/*** hasil_hujanDalamGelap.txt ***/
+jumlah emosi: 8
+jumlah emosi: 0
+jumlah emosi: 8
+jumlah emosi: 3
+jumlah emosi: 27
+jumlah emosi: 6
+jumlah emosi: 12
+
+/*** hasil_keberuntunganRemi.txt ***/
+jumlah emosi: 1
+jumlah emosi: 0
+jumlah emosi: 2
+jumlah emosi: 28
+jumlah emosi: 8
+jumlah emosi: 13
+jumlah emosi: 5
+
+/*** hasil_lemariRahasia.txt ***/
+jumlah emosi: 1
+jumlah emosi: 4
+jumlah emosi: 11
+jumlah emosi: 1
+jumlah emosi: 3
+jumlah emosi: 6
+jumlah emosi: 10
+
+/*** hasil_priaBerjubahHitam.txt ***/
+jumlah emosi: 5
+jumlah emosi: 0
+jumlah emosi: 21
+jumlah emosi: 0
+jumlah emosi: 5
+jumlah emosi: 16
+jumlah emosi: 3
+
+/*** hasil_janganMarahDongPutri.txt ***/
+jumlah emosi: 18
+jumlah emosi: 0
+jumlah emosi: 10
+jumlah emosi: 17
+jumlah emosi: 12
+jumlah emosi: 4
+jumlah emosi: 12
+
+/*** hasil_pisauBerkarat.txt ***/
+jumlah emosi: 10
+jumlah emosi: 2
+jumlah emosi: 11
+jumlah emosi: 0
+jumlah emosi: 1
+jumlah emosi: 5
+jumlah emosi: 1
+
+/*** hasil_peluangEmasBerharga.txt ***/
+jumlah emosi: 3
+jumlah emosi: 0
+jumlah emosi: 14
+jumlah emosi: 35
+jumlah emosi: 7
+jumlah emosi: 4
+jumlah emosi: 9
+
+/*** hasil_kembalikanSenyumku.txt ***/
+jumlah emosi: 2
+jumlah emosi: 1
+jumlah emosi: 11
+jumlah emosi: 1
+jumlah emosi: 20
+jumlah emosi: 5
+jumlah emosi: 3
+

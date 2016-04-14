@@ -787,7 +787,7 @@ itu
 .
 ‘
 ini
-ambillah!
+ambilah!
 ’
 kata
 remi

@@ -1,0 +1,72 @@
+/*** hasil_libsvm_hujanDalamGelap.txt ***/
+jumlah emosi: 13
+jumlah emosi: 0
+jumlah emosi: 4
+jumlah emosi: 0
+jumlah emosi: 29
+jumlah emosi: 6
+jumlah emosi: 12
+
+/*** hasil_libsvm_keberuntunganRemi.txt ***/
+jumlah emosi: 1
+jumlah emosi: 0
+jumlah emosi: 4
+jumlah emosi: 22
+jumlah emosi: 9
+jumlah emosi: 14
+jumlah emosi: 6
+
+/*** hasil_libsvm_lemariRahasia.txt ***/
+jumlah emosi: 0
+jumlah emosi: 2
+jumlah emosi: 10
+jumlah emosi: 3
+jumlah emosi: 8
+jumlah emosi: 7
+jumlah emosi: 6
+
+/*** hasil_libsvm_priaBerjubahHitam.txt ***/
+jumlah emosi: 5
+jumlah emosi: 0
+jumlah emosi: 23
+jumlah emosi: 2
+jumlah emosi: 6
+jumlah emosi: 11
+jumlah emosi: 4
+
+/*** hasil_libsvm_janganMarahDongPutri.txt ***/
+jumlah emosi: 13
+jumlah emosi: 0
+jumlah emosi: 9
+jumlah emosi: 19
+jumlah emosi: 21
+jumlah emosi: 6
+jumlah emosi: 6
+
+/*** hasil_libsvm_pisauBerkarat.txt ***/
+jumlah emosi: 7
+jumlah emosi: 1
+jumlah emosi: 14
+jumlah emosi: 1
+jumlah emosi: 3
+jumlah emosi: 3
+jumlah emosi: 1
+
+/*** hasil_libsvm_peluangEmasBerharga.txt ***/
+jumlah emosi: 1
+jumlah emosi: 0
+jumlah emosi: 14
+jumlah emosi: 30
+jumlah emosi: 10
+jumlah emosi: 9
+jumlah emosi: 8
+
+/*** hasil_libsvm_kembalikanSenyumku.txt ***/
+jumlah emosi: 0
+jumlah emosi: 0
+jumlah emosi: 9
+jumlah emosi: 1
+jumlah emosi: 27
+jumlah emosi: 6
+jumlah emosi: 0
+

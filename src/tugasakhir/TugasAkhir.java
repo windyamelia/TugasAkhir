@@ -90,7 +90,7 @@ public class TugasAkhir {
     
     public static ArrayList<String> splitTextIntoWords(String text) throws FileNotFoundException, IOException {
         ArrayList<String> splittedWords = new ArrayList<>();
-        String[] words = text.split("( +|\n+)", -1);
+        String[] words = text.split("( +|, +|\n+)", -1);
 //        System.out.println("length: " + words.length);
         for (String str : words) {
 //            System.out.println(str);
@@ -228,15 +228,61 @@ public class TugasAkhir {
         return temp;
     }
     
+    public static String resultFileArff(ArrayList<String> features, boolean training) throws IOException {
+        String temp = "";
+//        temp = temp + "sentence,";
+        temp = temp + "@relation cerpen" + "\n" + "\n";
+        
+        for (String fitur : features) {
+            temp = temp + "@attribute '" + fitur + "' numeric" + "\n";
+        }
+        temp = temp + "@attribute emotion {marah, jijik, takut, senang, sedih, kaget, netral}" + "\n" + "\n";
+        temp = temp + "@data" + "\n";
+        
+        ArrayList<String> list_emotion = readTextPerLine("data_training/emotions-sentences.txt");
+        
+        ArrayList<String> list_sentences = readTextPerLine("data_training/sentences-cerpen.txt");
+        for (int i=0; i<=list_sentences.size(); i++) {
+//            temp = temp + list_sentences.get(i) + ",";
+            IndonesianSentenceTokenizer tokenizer = new IndonesianSentenceTokenizer();
+            ArrayList<String> words_sentence = praprosesWords(tokenizer.tokenizeSentenceWithCompositeWords(list_sentences.get(i).toLowerCase()));
+//            int i=0;
+            for (String str_feature : features) {
+                if (isAvailabeWordInList(str_feature, words_sentence)) {
+                    temp = temp + "1,";
+                } else {
+                    temp = temp + "0,";
+                }
+            }
+            
+            if (training) {
+                temp = temp + list_emotion.get(i) + "\n";
+            } else {
+                temp = temp + "?" + "\n";
+            }
+        }
+        return temp;
+    }
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
         /** MENGHASILKAN FILE ARFF **/
-        ArrayList<String> features = featureExtraction("data_training/sentences-cerpen.txt");
-        System.out.println(resultFileCsv(features));
-        writeToFile(resultFileCsv(features), "data_training/data_training_sentences.csv");
+//        ArrayList<String> features = featureExtraction("data_training/sentences-cerpen.txt");
+        ArrayList<String> features = readTextPerLine("machine_learning/daftar_kata_bahasaIndonesia/daftar_kata_bahasaIndonesia_afterSW.txt");
+        writeToFile(resultFileArff(features, true), "data_training/data_training_kataIndonesia.arff");
+//        System.out.println(resultFileArff(features));
+        
+        /** result data test **/
+//        writeToFile(resultFileArff(features, 121, 156), "data_test/data_test_lemariRahasia.arff");
+//        writeToFile(resultFileArff(features, 157, 207), "data_test/data_test_priaBerjubahHitam.arff");
+//        writeToFile(resultFileArff(features, 208, 281), "data_test/data_test_janganMarahDongPutri.arff");
+//        writeToFile(resultFileArff(features, 282, 311), "data_test/data_test_pisauBerkarat.arff");
+//        writeToFile(resultFileArff(features, 312, 383), "data_test/data_test_peluangEmasBerharga.arff");
+//        writeToFile(resultFileArff(features, 384, 426), "data_test/data_test_kembalikanSenyumku.arff");
+        
         
         /*** RAPIHIN ANTONIM ***/
 //        ArrayList<String> listAntonim = readTextPerLine("keywordSpotting/antonim/antonim.txt");

@@ -1,0 +1,8 @@
+/*** hasil_peluangEmasBerharga.txt ***/
+jumlah emosi: 3
+jumlah emosi: 0
+jumlah emosi: 14
+jumlah emosi: 35
+jumlah emosi: 7
+jumlah emosi: 4
+jumlah emosi: 9

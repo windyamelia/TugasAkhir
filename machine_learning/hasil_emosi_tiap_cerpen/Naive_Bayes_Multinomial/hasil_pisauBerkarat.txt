@@ -1,0 +1,8 @@
+/*** hasil_pisauBerkarat.txt ***/
+jumlah emosi: 10
+jumlah emosi: 2
+jumlah emosi: 11
+jumlah emosi: 0
+jumlah emosi: 1
+jumlah emosi: 5
+jumlah emosi: 1

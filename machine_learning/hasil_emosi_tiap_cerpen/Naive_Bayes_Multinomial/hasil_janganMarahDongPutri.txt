@@ -1,0 +1,8 @@
+/*** hasil_janganMarahDongPutri.txt ***/
+jumlah emosi: 18
+jumlah emosi: 0
+jumlah emosi: 10
+jumlah emosi: 17
+jumlah emosi: 12
+jumlah emosi: 4
+jumlah emosi: 12

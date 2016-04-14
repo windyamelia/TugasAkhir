@@ -1,0 +1,8 @@
+/*** hasil_hujanDalamGelap.txt ***/
+jumlah emosi: 8
+jumlah emosi: 0
+jumlah emosi: 8
+jumlah emosi: 3
+jumlah emosi: 27
+jumlah emosi: 6
+jumlah emosi: 12

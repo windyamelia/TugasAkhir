@@ -244,18 +244,28 @@ public class StopWords {
     
     public static void main(String[] args) throws FileNotFoundException, IOException {
         /** check stop word available in lexicon **/
-        KeywordSpotting ks = new KeywordSpotting();
-        ks.setHashMap(ks.readTextToHashmap("keywordSpotting/result_lexicon.txt"));
+//        KeywordSpotting ks = new KeywordSpotting();
+//        ks.setHashMap(ks.readTextToHashmap("keywordSpotting/result_lexicon.txt"));
+//        
+//        ArrayList<String> array_stopWords = readTextPerLine("StopWords/stopwords_id_ks.txt");
+//        String temp = "";
+//        for (String str : array_stopWords) {
+//            if (ks.isAvailable(str)) {
+//                temp = temp + str + "\n";
+//            }
+//        }
+//        System.out.print("kata-katanya: " + temp);
         
-        ArrayList<String> array_stopWords = readTextPerLine("StopWords/stopwords_id_ks.txt");
-        String temp = "";
-        for (String str : array_stopWords) {
-            if (ks.isAvailable(str)) {
-                temp = temp + str + "\n";
-            }
-        }
-        System.out.print("kata-katanya: " + temp);
-        
+        /** remove stopwords di daftar kata bahasa indonesia **/
+        StopWords sw = new StopWords();
+        ArrayList<String> list_before = readTextPerLine("machine_learning/daftar_kata_bahasaIndonesia/daftar_kata_bahasaIndonesia.txt");
+        System.out.println("size list before: " + list_before.size());
+        sw.setWordList(list_before);
+        sw.setStopWords(sw.readStopWords("StopWords/stopwords.txt"));
+        sw.setPunctuation(sw.readPunctuation("StopWords/punctuation.txt"));
+        ArrayList<String> list_indonesian_words = sw.removeStopWords();
+        System.out.println("size list after: " + list_indonesian_words.size());
+        writeListToFile(list_indonesian_words, "machine_learning/daftar_kata_bahasaIndonesia/daftar_kata_bahasaIndonesia_afterSW.txt");
 //        String input = readText("C:/Users/Windy Amelia/Documents/NetBeansProjects/TugasAkhir/pisauBerkarat.txt");
 //        stopword.setSentence(input);
 //        System.out.println(stopword.getSentence());
@@ -266,110 +276,6 @@ public class StopWords {
 //        System.out.println("hasil: " + result);
 //        writeToFile(result, "result-stop-word.txt");
         
-        // Create a hashmap to save word occurence
-//        Map<String, Integer> wordCounter = new HashMap<>();
-//        
-//        String csvFile = "Filtered Data/Formalized&Stemmed/jokowi_sort_uniq.csv";
-//	BufferedReader br = null;
-//	String line;
-//	String cvsSplitBy = ",";
-//        String fileContent = "";
-//	try {
-//		br = new BufferedReader(new FileReader(csvFile));
-//		while ((line = br.readLine()) != null) {
-//		        // use comma as separator
-//			String[] contents = line.split(cvsSplitBy);
-//			String content = contents[0];
-//                        content = removeStopWords(content, stopWords, punctuation, unimportantWords);
-//                        //System.out.println(content);
-//                        // Nanti diconcat sesuai dengan konteks dari textnya
-//                        for(String word: content.split(" ")){
-//                            if(wordCounter.containsKey(word)){
-//                                Integer val = wordCounter.get(word) + 1;
-//                                wordCounter.put(word, val);
-//                            } else{
-//                                wordCounter.put(word, 1);
-//                            }
-//                        }
-//                        fileContent += content;
-//                        for(int i = 1; i < contents.length; i++){
-//                            fileContent += "," + contents[i];
-//                        }
-//                        fileContent += "\n";
-//		}
-//	} catch (FileNotFoundException e) {
-//	} catch (IOException e) {
-//	} finally {
-//		if (br != null) {
-//			try {
-//				br.close();
-//			} catch (IOException e) {
-//			}
-//		}
-//	}
-//
-//        // Write to file with first type
-//        File file = new File("Filtered Data/Stopwords/classic_jokowi_filtered.csv");
-//        FileWriter fw = new FileWriter(file.getAbsoluteFile());
-//        try (BufferedWriter bw = new BufferedWriter(fw)) {
-//            bw.write(fileContent);
-//        }
-//        
-//        // Remove singleton var
-//          ArrayList<String> singleTonWords = new ArrayList<>();
-//
-//        Iterator it = wordCounter.entrySet().iterator();
-//        while (it.hasNext()) {
-//            Map.Entry pair = (Map.Entry)it.next();
-//            if((Integer)pair.getValue() == 1){
-//                System.out.println((String)pair.getKey());
-//                singleTonWords.add((String)pair.getKey());
-//            }
-//            it.remove(); // avoids a ConcurrentModificationException
-//        }
-//        
-//        fileContent = "";
-//	try {
-//		br = new BufferedReader(new FileReader(csvFile));
-//		while ((line = br.readLine()) != null) {
-//		        // use comma as separator
-//			String[] contents = line.split(cvsSplitBy);
-//			String content = contents[0];
-//                        content = removeStopWords(content, singleTonWords, punctuation, unimportantWords);
-//                        //System.out.println(content);
-//                        // Nanti diconcat sesuai dengan konteks dari textnya
-//                        for(String word: content.split("")){
-//                            if(wordCounter.containsKey(word)){
-//                                Integer val = wordCounter.get(word) + 1;
-//                                wordCounter.put(word, val);
-//                            } else{
-//                                wordCounter.put(word, 0);
-//                            } 
-//                        }
-//                        fileContent += content;
-//                        for(int i = 1; i < contents.length; i++){
-//                            fileContent += "," + contents[i];
-//                        }
-//                        fileContent += "\n";
-//		}
-//	} catch (FileNotFoundException e) {
-//	} catch (IOException e) {
-//	} finally {
-//		if (br != null) {
-//			try {
-//				br.close();
-//			} catch (IOException e) {
-//			}
-//		}
-//	}
-//        
-//        // Write to file with second type
-//        file = new File("Filtered Data/Stopwords/TF1_jokowi_filtered.csv");
-//        fw = new FileWriter(file.getAbsoluteFile());
-//        try (BufferedWriter bw = new BufferedWriter(fw)) {
-//            bw.write(fileContent);
-//        }
-//        
-//	System.out.println("Done");
+        
     }
 }

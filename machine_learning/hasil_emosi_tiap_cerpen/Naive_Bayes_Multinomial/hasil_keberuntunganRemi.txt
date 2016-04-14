@@ -1,0 +1,8 @@
+/*** hasil_keberuntunganRemi.txt ***/
+jumlah emosi: 1
+jumlah emosi: 0
+jumlah emosi: 2
+jumlah emosi: 28
+jumlah emosi: 8
+jumlah emosi: 13
+jumlah emosi: 5

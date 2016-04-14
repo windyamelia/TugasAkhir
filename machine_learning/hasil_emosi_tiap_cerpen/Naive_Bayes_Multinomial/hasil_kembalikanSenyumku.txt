@@ -1,0 +1,8 @@
+/*** hasil_kembalikanSenyumku.txt ***/
+jumlah emosi: 2
+jumlah emosi: 1
+jumlah emosi: 11
+jumlah emosi: 1
+jumlah emosi: 20
+jumlah emosi: 5
+jumlah emosi: 3
