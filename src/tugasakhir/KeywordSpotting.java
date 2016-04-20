@@ -101,7 +101,7 @@ public class KeywordSpotting {
         return (ArrayList<String>) (hmKeywordSpotting.get(word));
     }
     
-    // menghasilkan nilai emosi tertentu
+    // menghasilkan nilai emosi tertentu daru key kata tertentu
     public int getNilaiEmosi(String word, int input) {
         int nilai;
         nilai = ((ArrayList<Integer>)hmKeywordSpotting.get(word)).get(input);
@@ -162,7 +162,7 @@ public class KeywordSpotting {
         // remove punctuation
         StopWords stopword = new StopWords();
         stopword.setWordList(listKata_cerpen);
-        stopword.setPunctuation(stopword.readPunctuation("StopWords/punctuation.txt"));
+        stopword.setPunctuation(stopword.readPunctuation("StopWords/punctuation_ks.txt"));
         stopword.removePunctuation();
         listKata_cerpen = stopword.getWordList();
         String kata_cerpen = "";
@@ -175,13 +175,17 @@ public class KeywordSpotting {
         ArrayList<String> listKata_after_formalization = new ArrayList<>();
         Formalization formalisasi = new Formalization();
         for (String str : listKata_cerpen) {
-            if (!str.contains("-")) {
+            if (!str.contains("-") && !str.contains("-")) {
                 listKata_after_formalization.add(formalisasi.formalize(str).trim());
             } else {
                 listKata_after_formalization.add(str.trim());
             }
         }
+        writeListToFile(listKata_after_formalization, "keywordSpotting/" + judul_cerpen + "/listKata_after_formalization.txt");
         System.out.println("size list kata formalisasi: " + listKata_after_formalization.size());
+        for (String str : listKata_after_formalization) {
+            System.out.println("kata form: " + str);
+        }
         
         
         for (int i=listKata_after_formalization.size()-1; i>=0; i--) {
@@ -225,16 +229,48 @@ public class KeywordSpotting {
 //        StopWords stopword = new StopWords();
         stopword.setWordList(listKata_after_formalization);
         stopword.setStopWords(stopword.readStopWords("StopWords/stopwords_id_ks.txt"));
-        stopword.setPunctuation(stopword.readPunctuation("StopWords/punctuation.txt"));
+        stopword.setPunctuation(stopword.readPunctuation("StopWords/punctuation_ks.txt"));
         
         ArrayList<String> list_kata_after_stopword = stopword.removeStopWords();
         System.out.println("listkata_after_stopword: ");
         for (String str : list_kata_after_stopword) {
             System.out.println(str.toLowerCase());
         }
-        
+        String file = "keywordSpotting/" + judul_cerpen + "/listKata_after_stopword.txt";
+        writeListToFile(list_kata_after_stopword, file);
 //        ArrayList<String> words_noNeed_stemming = readTextPerLine("keywordSpotting/no_need_stemming.txt");
-//        ArrayList<String> list_kataBerulang = readTextPerLine("keywordSpotting/kata_berulang.txt");
+        ArrayList<String> list_kataBerulang = readTextPerLine("keywordSpotting/kata_berulang.txt");
+        /** new **/
+        ArrayList<String> listKata_after_stemming = new ArrayList<>();
+        Stemming stemmer = new Stemming();
+        for (String str : list_kata_after_stopword) {
+            String temp = "";
+            if (!isAvailableWordInList(str, list_kataBerulang) && str.contains("-")) {
+                temp = stemmer.stemWord(str);
+                System.out.println("kata yg distem: " + temp);
+                while (temp.contains("-")) {
+                    temp = temp.replaceAll(".*-", "");
+                    System.out.println("temp setelah direplace: " + temp);
+                }
+            } else {
+                temp = str;
+            }
+//            listKata_after_stemming.add(temp);
+            if (temp.matches(".*ku")) {
+                String[] kata_ku = temp.split("ku");
+                if(kata_ku.length != 0) {
+                    listKata_after_stemming.add(kata_ku[0]);
+                    System.out.println("kata yg displit ku: " + temp);
+                }
+            } else {
+                listKata_after_stemming.add(temp);
+            }
+        }
+        for (String str : listKata_after_stemming) {
+//            System.out.println("tes kata after stemming: " + str);
+        }
+        writeListToFile(listKata_after_stemming, "keywordSpotting/" + judul_cerpen + "/listKata_after_stemming.txt");
+        /** new **/
 //        ArrayList<String> listKata_after_stemming = new ArrayList<>();
 //        Stemming stemmer = new Stemming();
 //        for (String str : list_kata_after_stopword) {
@@ -271,15 +307,72 @@ public class KeywordSpotting {
 //        ArrayList<String> listKata_after_stemming = splitTextIntoWords(text_cerpen_after_stemming, "keywordSpotting/" + judul_cerpen + "/listKata_after_stemming.txt");
 //        ArrayList<String> listKata_after_stemming_dummy = readTextPerLine("keywordSpotting/hujanDalamGelap/listKata_after_stemming_dummy.txt");
 
+        KeywordSpotting ks = new KeywordSpotting();
+        ks.setHashMap(ks.readTextToHashmap("keywordSpotting/result_lexicon_noStemming.txt"));
+        
+        System.out.println("hashmap: \n");
+//        ks.printHashMap();
+        System.out.println("size hm: " + ks.getHashMap().size());
+        
+        /*** SPLIT TEXT INTO THREE WORDS ***/
+        ArrayList<String> three_words = new ArrayList<>();
+        int idx_threewords=0;
+        while (idx_threewords < listKata_after_stemming.size()-2) {
+            String temp_1 = listKata_after_stemming.get(idx_threewords);
+            String temp_2 = listKata_after_stemming.get(idx_threewords+1);
+            String temp_3 = listKata_after_stemming.get(idx_threewords+2);;
+//            if (i <= listKata_after_stemming.size()-1) {
+//                temp_2 = listKata_after_stemming.get(i+1);
+//            }
+            String temp = temp_1 + " " + temp_2 + " " + temp_3;
+            three_words.add(temp);
+            idx_threewords++;
+        }
+        System.out.println("three_words: " + three_words);
+        
+        /*** ambil 3 words yang ada di lexicon, buang kalo ga ada ***/
+        int jumlah_threeWords = 0;
+        for (int j=three_words.size()-1; j>=0; j--) {
+            if (ks.isAvailable(three_words.get(j))) {
+                jumlah_threeWords++;
+//                System.out.println(jumlah_twoWords);
+            } else {
+                three_words.remove(j);
+            }
+        }
+        System.out.println("jumlah three words final: " + jumlah_threeWords);
+        System.out.println("isi three_words yang ada di lexicon: " + three_words);
+        String str_threeWords = "";
+        for (String str : three_words) {
+            str_threeWords = str_threeWords + str + "\n";
+        }
+        
+        if (jumlah_threeWords > 0) {
+            int k=listKata_after_stemming.size()-1;
+            while (k >= 2 ) {
+                String temp_1 = listKata_after_stemming.get(k-2);
+                String temp_2 = listKata_after_stemming.get(k-1);
+                String temp_3 = listKata_after_stemming.get(k);
+                String temp = temp_1 + " " + temp_2 + " " + temp_3;
+                if (isAvailableWordInList(temp, three_words)) {
+                    for (int idx=0; idx<3; idx++) {
+                        listKata_after_stemming.remove(k);
+                        k--;
+                    }
+                } else {
+                    k--;
+                }
+            }
+        }
         
         /*** SPLIT TEXT INTO TWO WORDS ***/        
         ArrayList<String> two_words = new ArrayList<>();
         int i=0;
-        while (i < list_kata_after_stopword.size()-1) {
-            String temp_1 = list_kata_after_stopword.get(i);
+        while (i < listKata_after_stemming.size()-1) {
+            String temp_1 = listKata_after_stemming.get(i);
             String temp_2 = "";
-            if (i <= list_kata_after_stopword.size()-1) {
-                temp_2 = list_kata_after_stopword.get(i+1);
+            if (i <= listKata_after_stemming.size()-1) {
+                temp_2 = listKata_after_stemming.get(i+1);
             }
             String temp = temp_1 + " " + temp_2;
             two_words.add(temp);
@@ -288,14 +381,8 @@ public class KeywordSpotting {
 //        for (String str : two_words) {
 //            System.out.println(str);
 //        }        
- 
-        KeywordSpotting ks = new KeywordSpotting();
-        ks.setHashMap(ks.readTextToHashmap("keywordSpotting/result_lexicon_noStemming.txt"));
-        
-        System.out.println("hashmap: \n");
-//        ks.printHashMap();
-        System.out.println("size hm: " + ks.getHashMap().size());
-        
+                
+        /** ambil jumlah two words yang ada di lexicon, buang yang ga ada **/
         int jumlah_twoWords = 0;
         for (int j=two_words.size()-1; j>=0; j--) {
             if (ks.isAvailable(two_words.get(j))) {
@@ -313,24 +400,17 @@ public class KeywordSpotting {
         }
         writeToFile (str_twoWords, "keywordSpotting/" + judul_cerpen + "/two_words_availabe_inLexicon.txt");
         
+        /** hapus kata-kata yang ada di two_words_available_inLexicon di list 1 kata **/
         if (jumlah_twoWords > 0) {
 //            System.out.println("masuk jumlah two words");
-            int k=list_kata_after_stopword.size()-1;
-            while (k >= 0 ) {
-                String temp_1 = "";
-                if (k > 0) {
-                    temp_1 = list_kata_after_stopword.get(k-1);
-                }
-                String temp_2 = list_kata_after_stopword.get(k);
+            int k=listKata_after_stemming.size()-1;
+            while (k >= 1 ) {
+                String temp_1 = listKata_after_stemming.get(k-1);
+                String temp_2 = listKata_after_stemming.get(k);
                 String temp = temp_1 + " " + temp_2;
-                if (two_words.contains(temp)) {
-                    if (!temp_1.isEmpty()) {
-                        for (int idx=0; idx<2; idx++) {
-                            list_kata_after_stopword.remove(k);
-                            k--;
-                        }
-                    } else {
-                        list_kata_after_stopword.remove(k);
+                if (isAvailableWordInList(temp, two_words)) {
+                    for (int idx=0; idx<3; idx++) {
+                        listKata_after_stemming.remove(k);
                         k--;
                     }
                 } else {
@@ -339,29 +419,29 @@ public class KeywordSpotting {
             }
         }
         for (String str : two_words) {
-            list_kata_after_stopword.add(str);
+            listKata_after_stemming.add(str);
         }
-        System.out.println("listKata baru " + list_kata_after_stopword);
+        System.out.println("listKata baru " + listKata_after_stemming);
         String listKataBaru = "";
-        for (String str : list_kata_after_stopword) {
+        for (String str : listKata_after_stemming) {
             listKataBaru = listKataBaru + str + "\n";
         }
         writeToFile(listKataBaru, "keywordSpotting/" + judul_cerpen + "/listKata_after_stemming_new.txt");
         
 //        int jumlah_oneWord = 0;
         ArrayList<String> arrayWord_available_inLexicon = new ArrayList<>();
-        for (int j=list_kata_after_stopword.size()-1; j>=0; j--) {
+        for (int j=listKata_after_stemming.size()-1; j>=0; j--) {
 //            System.out.println("kata ke j: " + listKata_after_stemming.get(j));
-            if (ks.isAvailable(list_kata_after_stopword.get(j))) {
+            if (ks.isAvailable(listKata_after_stemming.get(j))) {
                 boolean found = false;
                 for (String str : arrayWord_available_inLexicon) {
-                    if(str.equals(list_kata_after_stopword.get(j))) {
+                    if(str.equals(listKata_after_stemming.get(j))) {
                         found = true;
                         break;
                     }
                 }
 //                if (!found) {
-                    arrayWord_available_inLexicon.add(list_kata_after_stopword.get(j));
+                    arrayWord_available_inLexicon.add(listKata_after_stemming.get(j));
 //                }
 //                word_available_inLexicon = word_available_inLexicon + listKata_after_stemming.get(j) + "\n";
 //                jumlah_oneWord++;
@@ -373,7 +453,7 @@ public class KeywordSpotting {
         System.out.println("word_available_inLexicon: \n");
         String word_available_inLexicon = "";
         for (String str : arrayWord_available_inLexicon) {
-            System.out.println(str);
+            System.out.println(str + " " + ks.getArrayNilaiKata(str));
             word_available_inLexicon = word_available_inLexicon + str + "\n";
         }
         

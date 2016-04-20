@@ -55,7 +55,7 @@ dari
 sejak
 kecil
 berusia
-tahun.
+tahun
 dia
 pernah
 mengatakan
@@ -79,7 +79,7 @@ saat
 ini
 dia
 berusia
-tahun,
+tahun
 keinginan
 itu
 tidak
@@ -330,7 +330,7 @@ kemudian
 dika
 menginjak
 usia
-tahun,
+tahun
 dika
 sudah
 tumbuh
@@ -1110,4 +1110,3 @@ dengan
 seluruh
 sorak-sorak
 penggemarnya
-

@@ -1,0 +1,431 @@
+=== Predictions on test data ===
+
+inst#,    actual, predicted, error, probability distribution
+     1   7:netral   7:netral          0      0      0      0      0      0     *1    
+     2   7:netral   7:netral          0      0      0      0      0      0     *1    
+     3   7:netral   7:netral          0      0      0      0      0      0     *1    
+     4   7:netral   7:netral          0      0      0      0      0      0     *1    
+     5   7:netral   7:netral          0      0      0      0      0      0     *1    
+     6   7:netral   7:netral          0      0      0      0      0      0     *1    
+     7   7:netral   7:netral          0      0      0      0      0      0     *1    
+     8    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     9    5:sedih    1:marah      +  *1      0      0      0      0      0      0    
+    10    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    11    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    12    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    13    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    14    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    15    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    16    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    17    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    18    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    19    3:takut    3:takut          0      0     *1      0      0      0      0    
+    20    3:takut   4:senang      +   0      0      0     *1      0      0      0    
+    21    3:takut    3:takut          0      0     *1      0      0      0      0    
+    22    3:takut    3:takut          0      0     *1      0      0      0      0    
+    23    3:takut    3:takut          0      0     *1      0      0      0      0    
+    24    3:takut    3:takut          0      0     *1      0      0      0      0    
+    25    3:takut    3:takut          0      0     *1      0      0      0      0    
+    26   4:senang   4:senang          0      0      0     *1      0      0      0    
+    27   4:senang    6:kaget      +   0      0      0      0      0     *1      0    
+    28   4:senang   4:senang          0      0      0     *1      0      0      0    
+    29   4:senang    5:sedih      +   0      0      0      0     *1      0      0    
+    30   4:senang    5:sedih      +   0      0      0      0     *1      0      0    
+    31    1:marah    1:marah         *1      0      0      0      0      0      0    
+    32    1:marah    1:marah         *1      0      0      0      0      0      0    
+    33    1:marah    1:marah         *1      0      0      0      0      0      0    
+    34    1:marah    1:marah         *1      0      0      0      0      0      0    
+    35    1:marah    1:marah         *1      0      0      0      0      0      0    
+    36    1:marah    1:marah         *1      0      0      0      0      0      0    
+    37    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    38    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    39    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    40    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    41    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    42    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    43    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+     1   7:netral   7:netral          0      0      0      0      0      0     *1    
+     2   7:netral   7:netral          0      0      0      0      0      0     *1    
+     3   7:netral   7:netral          0      0      0      0      0      0     *1    
+     4   7:netral   7:netral          0      0      0      0      0      0     *1    
+     5   7:netral   7:netral          0      0      0      0      0      0     *1    
+     6   7:netral   7:netral          0      0      0      0      0      0     *1    
+     7   7:netral    6:kaget      +   0      0      0.167  0.167  0.167 *0.5    0    
+     8    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     9    5:sedih    5:sedih          0      0      0      0.275 *0.725  0      0    
+    10    5:sedih    5:sedih          0      0      0      0     *0.823  0.177  0    
+    11    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    12    5:sedih    3:takut      +   0.002  0     *0.998  0      0      0      0    
+    13    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    14    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    15    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    16    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    17    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    18    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    19    3:takut    3:takut          0      0     *1      0      0      0      0    
+    20    3:takut    1:marah      +  *1      0      0      0      0      0      0    
+    21    3:takut    6:kaget      +   0      0      0.005  0      0     *0.995  0    
+    22    3:takut    1:marah      +  *1      0      0      0      0      0      0    
+    23    3:takut    3:takut          0      0     *1      0      0      0      0    
+    24    3:takut    3:takut          0      0     *0.999  0      0      0      0.001
+    25    3:takut    3:takut          0      0     *0.786  0      0.214  0      0    
+    26   4:senang    6:kaget      +   0      0      0      0      0     *1      0    
+    27   4:senang    6:kaget      +   0      0      0      0      0     *1      0    
+    28   4:senang    1:marah      +  *1      0      0      0      0      0      0    
+    29   4:senang   4:senang          0      0      0     *1      0      0      0    
+    30   4:senang   4:senang          0      0      0     *1      0      0      0    
+    31    1:marah    1:marah         *1      0      0      0      0      0      0    
+    32    1:marah    1:marah         *1      0      0      0      0      0      0    
+    33    1:marah    1:marah         *1      0      0      0      0      0      0    
+    34    1:marah    1:marah         *1      0      0      0      0      0      0    
+    35    1:marah    1:marah         *1      0      0      0      0      0      0    
+    36    1:marah    1:marah         *1      0      0      0      0      0      0    
+    37    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    38    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    39    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    40    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    41    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    42    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    43    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+     1   7:netral   7:netral          0      0      0      0      0      0     *1    
+     2   7:netral   7:netral          0      0      0      0      0      0     *1    
+     3   7:netral   7:netral          0      0      0      0      0      0     *1    
+     4   7:netral   7:netral          0      0      0      0      0      0     *1    
+     5   7:netral   7:netral          0      0      0      0      0      0     *1    
+     6   7:netral   7:netral          0      0      0      0      0      0     *1    
+     7    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     8    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     9    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    10    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    11    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    12    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    13    5:sedih    1:marah      +  *1      0      0      0      0      0      0    
+    14    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    15    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    16    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    17    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    18    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    19    3:takut    1:marah      +  *1      0      0      0      0      0      0    
+    20    3:takut    3:takut          0      0     *1      0      0      0      0    
+    21    3:takut    1:marah      +  *1      0      0      0      0      0      0    
+    22    3:takut    3:takut          0      0     *1      0      0      0      0    
+    23    3:takut    3:takut          0      0     *1      0      0      0      0    
+    24    3:takut    3:takut          0      0     *1      0      0      0      0    
+    25    3:takut    5:sedih      +   0      0      0      0     *1      0      0    
+    26   4:senang    5:sedih      +   0      0      0      0     *1      0      0    
+    27   4:senang    3:takut      +   0      0     *1      0      0      0      0    
+    28   4:senang    5:sedih      +   0      0      0      0     *1      0      0    
+    29   4:senang   4:senang          0      0      0     *1      0      0      0    
+    30   4:senang   4:senang          0      0      0     *1      0      0      0    
+    31    1:marah    5:sedih      +   0      0      0      0     *0.682  0      0.318
+    32    1:marah    1:marah         *1      0      0      0      0      0      0    
+    33    1:marah    1:marah         *1      0      0      0      0      0      0    
+    34    1:marah    1:marah         *1      0      0      0      0      0      0    
+    35    1:marah    6:kaget      +   0      0      0      0      0     *1      0    
+    36    1:marah    1:marah         *1      0      0      0      0      0      0    
+    37    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    38    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    39    6:kaget    5:sedih      +   0      0      0      0     *0.885  0.115  0    
+    40    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    41    6:kaget    5:sedih      +   0      0      0      0     *0.885  0.115  0    
+    42    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    43    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+     1   7:netral   7:netral          0      0      0      0      0      0     *1    
+     2   7:netral   7:netral          0      0      0      0      0      0     *1    
+     3   7:netral    6:kaget      +   0      0      0      0      0     *1      0    
+     4   7:netral   7:netral          0      0      0      0      0      0     *1    
+     5   7:netral   7:netral          0      0      0      0      0      0     *1    
+     6   7:netral    6:kaget      +   0      0      0      0      0     *1      0    
+     7    5:sedih    6:kaget      +   0      0      0      0.333  0     *0.667  0    
+     8    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     9    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    10    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    11    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    12    5:sedih    6:kaget      +   0      0      0      0.333  0     *0.667  0    
+    13    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    14    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    15    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    16    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    17    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    18    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    19    3:takut    3:takut          0      0     *1      0      0      0      0    
+    20    3:takut   4:senang      +   0.001  0      0.003 *0.675  0.001  0.32   0.001
+    21    3:takut   4:senang      +   0      0      0     *1      0      0      0    
+    22    3:takut    6:kaget      +   0      0      0      0.333  0     *0.667  0    
+    23    3:takut    3:takut          0      0     *1      0      0      0      0    
+    24    3:takut    3:takut          0      0     *1      0      0      0      0    
+    25    3:takut    3:takut          0      0     *1      0      0      0      0    
+    26   4:senang    6:kaget      +   0      0      0      0.203  0     *0.797  0    
+    27   4:senang    5:sedih      +   0      0      0      0     *1      0      0    
+    28   4:senang   4:senang          0      0      0     *1      0      0      0    
+    29   4:senang   4:senang          0      0      0     *1      0      0      0    
+    30   4:senang   4:senang          0      0      0     *0.999  0.001  0      0    
+    31    1:marah    1:marah         *1      0      0      0      0      0      0    
+    32    1:marah    1:marah         *1      0      0      0      0      0      0    
+    33    1:marah    1:marah         *1      0      0      0      0      0      0    
+    34    1:marah    1:marah         *1      0      0      0      0      0      0    
+    35    1:marah    1:marah         *1      0      0      0      0      0      0    
+    36    1:marah    1:marah         *1      0      0      0      0      0      0    
+    37    6:kaget    6:kaget          0      0      0      0.333  0     *0.667  0    
+    38    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    39    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    40    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    41    6:kaget    3:takut      +   0      0     *0.974  0      0      0.026  0    
+    42    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    43    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+     1   7:netral   7:netral          0      0      0      0      0      0     *1    
+     2   7:netral   7:netral          0      0      0      0      0      0     *1    
+     3   7:netral   7:netral          0      0      0      0      0      0     *1    
+     4   7:netral    6:kaget      +   0      0      0      0      0     *1      0    
+     5   7:netral   7:netral          0      0      0      0      0      0     *1    
+     6   7:netral   7:netral          0      0      0      0      0      0     *1    
+     7    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     8    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     9    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    10    5:sedih   4:senang      +   0      0      0.041 *0.959  0      0      0    
+    11    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    12    5:sedih   4:senang      +   0      0      0     *1      0      0      0    
+    13    5:sedih    5:sedih          0      0      0      0     *0.994  0.006  0    
+    14    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    15    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    16    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    17    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    18    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    19    3:takut    3:takut          0      0     *0.969  0      0      0      0.031
+    20    3:takut    5:sedih      +   0      0      0      0     *1      0      0    
+    21    3:takut    3:takut          0      0     *1      0      0      0      0    
+    22    3:takut    3:takut          0      0     *1      0      0      0      0    
+    23    3:takut    3:takut          0      0     *1      0      0      0      0    
+    24    3:takut    6:kaget      +   0      0      0      0      0     *1      0    
+    25   4:senang   4:senang          0      0      0     *1      0      0      0    
+    26   4:senang   4:senang          0      0      0     *1      0      0      0    
+    27   4:senang    5:sedih      +   0      0      0      0     *1      0      0    
+    28   4:senang   4:senang          0      0      0     *1      0      0      0    
+    29   4:senang   4:senang          0      0      0     *1      0      0      0    
+    30   4:senang   4:senang          0      0      0     *1      0      0      0    
+    31    1:marah    1:marah         *1      0      0      0      0      0      0    
+    32    1:marah    1:marah         *1      0      0      0      0      0      0    
+    33    1:marah    5:sedih      +   0      0      0      0     *1      0      0    
+    34    1:marah    1:marah         *1      0      0      0      0      0      0    
+    35    1:marah    1:marah         *1      0      0      0      0      0      0    
+    36    1:marah    1:marah         *1      0      0      0      0      0      0    
+    37    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    38    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    39    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    40    6:kaget   4:senang      +   0      0      0     *1      0      0      0    
+    41    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    42    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    43    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+     1   7:netral   7:netral          0      0      0      0      0      0     *1    
+     2   7:netral    5:sedih      +   0      0      0      0     *1      0      0    
+     3   7:netral   7:netral          0      0      0      0      0      0     *1    
+     4   7:netral    6:kaget      +   0      0      0      0      0.005 *0.991  0.005
+     5   7:netral   7:netral          0      0      0      0      0      0     *1    
+     6   7:netral   7:netral          0      0      0      0      0      0     *1    
+     7    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     8    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     9    5:sedih    1:marah      +  *1      0      0      0      0      0      0    
+    10    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    11    5:sedih    1:marah      +  *0.992  0      0      0      0.008  0      0    
+    12    5:sedih    1:marah      +  *0.872  0      0      0      0      0.087  0.04 
+    13    5:sedih    3:takut      +   0      0     *1      0      0      0      0    
+    14    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    15    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    16    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    17    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    18    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    19    3:takut    3:takut          0      0     *1      0      0      0      0    
+    20    3:takut    3:takut          0      0     *1      0      0      0      0    
+    21    3:takut    3:takut          0      0     *1      0      0      0      0    
+    22    3:takut    6:kaget      +   0      0      0      0      0     *1      0    
+    23    3:takut    3:takut          0      0     *1      0      0      0      0    
+    24    3:takut    6:kaget      +   0      0      0      0      0     *1      0    
+    25   4:senang    5:sedih      +   0      0      0      0     *1      0      0    
+    26   4:senang   4:senang          0      0      0     *1      0      0      0    
+    27   4:senang    5:sedih      +   0      0      0      0     *0.86   0      0.14 
+    28   4:senang    6:kaget      +   0      0      0      0      0.187 *0.813  0    
+    29   4:senang    6:kaget      +   0      0      0.2    0      0.2   *0.6    0    
+    30   4:senang   4:senang          0      0      0     *0.999  0      0.001  0    
+    31    1:marah    3:takut      +   0      0     *1      0      0      0      0    
+    32    1:marah   4:senang      +   0.033  0      0     *0.967  0      0      0    
+    33    1:marah    1:marah         *1      0      0      0      0      0      0    
+    34    1:marah    1:marah         *1      0      0      0      0      0      0    
+    35    1:marah    6:kaget      +   0      0      0.2    0      0.2   *0.6    0    
+    36    1:marah    1:marah         *1      0      0      0      0      0      0    
+    37    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    38    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    39    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    40    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    41    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    42    6:kaget   4:senang      +   0      0      0     *1      0      0      0    
+    43    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+     1   7:netral   7:netral          0      0      0      0      0      0     *1    
+     2   7:netral   7:netral          0      0      0      0      0      0     *1    
+     3   7:netral    1:marah      +  *0.998  0      0      0.002  0      0      0    
+     4   7:netral    6:kaget      +   0      0      0      0      0     *1      0    
+     5   7:netral   7:netral          0      0      0      0      0      0     *1    
+     6   7:netral   7:netral          0      0      0      0      0      0     *1    
+     7    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     8    5:sedih    5:sedih          0.028  0      0      0     *0.972  0      0    
+     9    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    10    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    11    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    12    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    13    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    14    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    15    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    16    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    17    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    18    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    19    3:takut    3:takut          0      0     *1      0      0      0      0    
+    20    3:takut    3:takut          0      0     *1      0      0      0      0    
+    21    3:takut    6:kaget      +   0      0      0      0      0     *1      0    
+    22    3:takut    3:takut          0      0     *1      0      0      0      0    
+    23    3:takut    3:takut          0      0     *1      0      0      0      0    
+    24    3:takut    6:kaget      +   0      0      0      0      0     *1      0    
+    25   4:senang   4:senang          0      0      0     *1      0      0      0    
+    26   4:senang   4:senang          0      0      0     *1      0      0      0    
+    27   4:senang   4:senang          0      0      0     *1      0      0      0    
+    28   4:senang   4:senang          0      0      0     *1      0      0      0    
+    29   4:senang   4:senang          0      0      0     *1      0      0      0    
+    30    1:marah    1:marah         *1      0      0      0      0      0      0    
+    31    1:marah    1:marah         *1      0      0      0      0      0      0    
+    32    1:marah    1:marah         *1      0      0      0      0      0      0    
+    33    1:marah    1:marah         *1      0      0      0      0      0      0    
+    34    1:marah    5:sedih      +   0      0      0      0.122 *0.878  0      0    
+    35    1:marah    1:marah         *1      0      0      0      0      0      0    
+    36    1:marah    1:marah         *1      0      0      0      0      0      0    
+    37    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    38    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    39    6:kaget    6:kaget          0      0      0.2    0.2    0.2   *0.4    0    
+    40    6:kaget   4:senang      +   0      0      0     *1      0      0      0    
+    41    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    42    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    43    6:kaget    6:kaget          0      0      0.2    0.2    0.2   *0.4    0    
+     1   7:netral   7:netral          0      0      0      0      0      0     *1    
+     2   7:netral   7:netral          0      0      0      0      0      0     *1    
+     3   7:netral   7:netral          0      0      0.181  0      0      0     *0.819
+     4   7:netral   7:netral          0      0      0      0      0      0     *1    
+     5   7:netral   7:netral          0      0      0      0      0      0     *1    
+     6   7:netral   7:netral          0      0      0      0      0      0     *1    
+     7    5:sedih    6:kaget      +   0      0      0.167  0.167  0.167 *0.5    0    
+     8    5:sedih    1:marah      +  *1      0      0      0      0      0      0    
+     9    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    10    5:sedih    3:takut      +   0.296  0     *0.704  0      0      0      0    
+    11    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    12    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    13    5:sedih   4:senang      +   0      0      0     *1      0      0      0    
+    14    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    15    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    16    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    17    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    18    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    19    3:takut    3:takut          0      0     *1      0      0      0      0    
+    20    3:takut    3:takut          0      0     *1      0      0      0      0    
+    21    3:takut    3:takut          0      0     *1      0      0      0      0    
+    22    3:takut    3:takut          0      0     *1      0      0      0      0    
+    23    3:takut    3:takut          0      0     *1      0      0      0      0    
+    24    3:takut    3:takut          0      0     *1      0      0      0      0    
+    25   4:senang   4:senang          0      0      0     *1      0      0      0    
+    26   4:senang   4:senang          0      0      0     *1      0      0      0    
+    27   4:senang   4:senang          0      0      0     *1      0      0      0    
+    28   4:senang    3:takut      +   0      0     *0.981  0.019  0      0      0    
+    29   4:senang    1:marah      +  *1      0      0      0      0      0      0    
+    30    1:marah    1:marah         *1      0      0      0      0      0      0    
+    31    1:marah    1:marah         *1      0      0      0      0      0      0    
+    32    1:marah    1:marah         *1      0      0      0      0      0      0    
+    33    1:marah    1:marah         *1      0      0      0      0      0      0    
+    34    1:marah    1:marah         *1      0      0      0      0      0      0    
+    35    1:marah    1:marah         *1      0      0      0      0      0      0    
+    36    1:marah    1:marah         *1      0      0      0      0      0      0    
+    37    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    38    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    39    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    40    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    41    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    42    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    43    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+     1   7:netral   7:netral          0      0      0      0      0      0     *1    
+     2   7:netral   7:netral          0      0      0      0      0      0     *1    
+     3   7:netral   7:netral          0      0      0      0      0      0     *1    
+     4   7:netral   7:netral          0      0      0      0      0      0     *1    
+     5   7:netral   7:netral          0      0      0      0      0      0     *1    
+     6   7:netral    6:kaget      +   0      0      0.167  0.167  0.167 *0.5    0    
+     7    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     8    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     9    5:sedih   4:senang      +   0      0      0     *1      0      0      0    
+    10    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    11    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    12    5:sedih    3:takut      +   0      0     *1      0      0      0      0    
+    13    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    14    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    15    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    16    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    17    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    18    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    19    3:takut   4:senang      +   0      0      0     *1      0      0      0    
+    20    3:takut    6:kaget      +   0      0      0      0.002  0     *0.998  0    
+    21    3:takut    3:takut          0      0     *1      0      0      0      0    
+    22    3:takut    3:takut          0      0     *1      0      0      0      0    
+    23    3:takut    3:takut          0      0     *1      0      0      0      0    
+    24    3:takut    1:marah      +  *1      0      0      0      0      0      0    
+    25   4:senang   4:senang          0      0      0     *1      0      0      0    
+    26   4:senang   4:senang          0      0      0     *0.998  0      0.002  0    
+    27   4:senang   4:senang          0      0      0     *1      0      0      0    
+    28   4:senang    6:kaget      +   0      0      0      0      0.049 *0.951  0    
+    29   4:senang   4:senang          0      0      0     *1      0      0      0    
+    30    1:marah    1:marah         *1      0      0      0      0      0      0    
+    31    1:marah    1:marah         *1      0      0      0      0      0      0    
+    32    1:marah    1:marah         *1      0      0      0      0      0      0    
+    33    1:marah    1:marah         *1      0      0      0      0      0      0    
+    34    1:marah   4:senang      +   0      0      0     *1      0      0      0    
+    35    1:marah    1:marah         *1      0      0      0      0      0      0    
+    36    1:marah    1:marah         *1      0      0      0      0      0      0    
+    37    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    38    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    39    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    40    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    41    6:kaget    6:kaget          0      0      0      0.001  0     *0.999  0    
+    42    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+     1   7:netral   7:netral          0      0      0      0      0      0     *1    
+     2   7:netral   7:netral          0      0      0      0      0      0     *1    
+     3   7:netral   7:netral          0      0      0      0      0      0     *1    
+     4   7:netral    5:sedih      +   0      0      0      0     *1      0      0    
+     5   7:netral   7:netral          0      0      0      0      0      0     *1    
+     6   7:netral    5:sedih      +   0      0      0      0     *0.935  0.065  0    
+     7    5:sedih    5:sedih          0      0      0.211  0     *0.789  0      0    
+     8    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+     9    5:sedih    5:sedih          0      0      0      0     *1      0      0    
+    10    5:sedih    6:kaget      +   0      0      0      0      0     *1      0    
+    11    5:sedih    6:kaget      +   0      0      0      0      0.433 *0.567  0    
+    12    5:sedih   4:senang      +   0      0      0     *1      0      0      0    
+    13    5:sedih    1:marah      +  *1      0      0      0      0      0      0    
+    14    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    15    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    16    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    17    2:jijik    2:jijik          0     *1      0      0      0      0      0    
+    18    3:takut    3:takut          0      0     *1      0      0      0      0    
+    19    3:takut    3:takut          0      0     *1      0      0      0      0    
+    20    3:takut    3:takut          0      0     *1      0      0      0      0    
+    21    3:takut    1:marah      +  *1      0      0      0      0      0      0    
+    22    3:takut   4:senang      +   0      0      0     *1      0      0      0    
+    23    3:takut   4:senang      +   0      0      0     *1      0      0      0    
+    24    3:takut    3:takut          0      0     *1      0      0      0      0    
+    25   4:senang   7:netral      +   0      0      0      0.002  0      0     *0.998
+    26   4:senang    5:sedih      +   0      0      0      0     *1      0      0    
+    27   4:senang   4:senang          0      0      0     *1      0      0      0    
+    28   4:senang   4:senang          0      0      0     *1      0      0      0    
+    29   4:senang    6:kaget      +   0      0      0      0      0     *1      0    
+    30    1:marah    1:marah         *1      0      0      0      0      0      0    
+    31    1:marah    1:marah         *1      0      0      0      0      0      0    
+    32    1:marah    1:marah         *1      0      0      0      0      0      0    
+    33    1:marah    1:marah         *1      0      0      0      0      0      0    
+    34    1:marah    1:marah         *1      0      0      0      0      0      0    
+    35    1:marah   4:senang      +   0      0      0     *1      0      0      0    
+    36    1:marah    5:sedih      +   0.015  0      0      0     *0.985  0      0    
+    37    6:kaget    6:kaget          0      0      0      0      0     *1      0    
+    38    6:kaget    6:kaget          0      0      0.2    0.2    0.2   *0.4    0    
+    39    6:kaget    1:marah      +  *1      0      0      0      0      0      0    
+    40    6:kaget    1:marah      +  *1      0      0      0      0      0      0    
+    41    6:kaget    1:marah      +  *1      0      0      0      0      0      0    
+    42    6:kaget   4:senang      +   0.001  0      0     *0.999  0      0      0    

@@ -534,7 +534,7 @@ tengah
 berdentang-dentang
 menopang
 pukul
-malam,
+malam
 suasana
 yang
 mencekam
@@ -630,4 +630,3 @@ hujan
 telah
 redah
 tadi
-

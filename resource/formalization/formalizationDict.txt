@@ -401,6 +401,7 @@ hehe	he
 hellow	halo
 helo	halo
 helow	halo
+hembus	embus
 hay	hai
 hey	hai
 hi	hai
@@ -418,6 +419,7 @@ hubdar	perhubungan darat
 hubla	perhubungan laut
 huff	mengeluh
 huft	mengeluh
+hujam	hunjam
 hum	rumah
 humas	hubungan masyarakat
 humz	rumah
@@ -487,6 +489,7 @@ kanwil	kantor wilayah
 kapt	kapten
 karna	karena
 kasat	kepala satuan
+kasi	kasih
 kasubbag	kepala subbagian
 kasubbid	kepala subbidang
 katrok	kampungan
@@ -655,6 +658,9 @@ masukin	masukkan
 mba	mbak
 melu	ikut
 mending	lebih baik
+menghembuskan	mengembuskan
+menghujam	menghunjam
+menghujamkan	menghunjamkan
 mepet	dekat sekali
 mgkn	mungkin
 mgu	minggu
@@ -889,9 +895,12 @@ qt	kita
 rakor	rapat koordinasi
 rame	ramai
 ranmor	kendaraan bermotor
+rapor	rapor
+raport	rapor
 raskin	rakyat miskin
 re	reply
 red	redaksi
+redah	reda
 ref	referensi
 reg	register
 rehab	rehabilitasi
@@ -955,6 +964,7 @@ sidak	inspeksi mendadak
 siech	sih
 sieyh	sih
 sikon	situasi dan kondisi
+silahkan	silakan
 simpedes	simpanan pedesaan
 sinetron	sinema elektronik
 sip	ok

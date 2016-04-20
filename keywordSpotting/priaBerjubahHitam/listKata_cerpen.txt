@@ -463,7 +463,7 @@ lihat
 di
 samping
 ada
-orang.
+orang
 kami
 tidak
 tahu
@@ -700,4 +700,3 @@ jubah
 dan
 mengangkat
 pisaunya
-

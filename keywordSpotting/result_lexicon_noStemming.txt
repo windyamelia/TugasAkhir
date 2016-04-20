@@ -57,7 +57,7 @@ menimpa 0 0 1 0 1 0
 penderitaan 1 1 1 0 1 0
 kemakmuran 0 0 0 1 0 0
 penghinaan 1 1 1 0 1 1
-takut 1 0 1 0 1 1
+takut 1 0 1 0 0 0
 akibat 1 1 1 0 1 0
 efek 1 1 1 0 1 0
 diperburuk 1 1 0 0 1 0
@@ -233,7 +233,7 @@ kasar 1 1 1 0 1 0
 jahanam 1 1 1 0 0 0
 bangsat 1 1 1 0 0 0
 jijik 1 1 1 0 1 0
-pukul 1 0 1 0 1 0
+pukulan 1 0 1 0 1 0
 kecantikan 0 0 0 1 0 0
 indah 0 0 0 1 0 1
 mempercantik 0 0 0 1 0 0
@@ -515,7 +515,7 @@ pujian 0 0 0 1 0 1
 kompos 0 1 0 0 0 0
 kompres 1 0 0 0 0 0
 keharusan 1 0 0 0 0 0
-menyembunyikan 0 0 1 0 1 1
+menyembunyikan 0 1 1 0 1 1
 merahasiakan 0 0 1 0 1 1
 sembunyi 0 0 1 0 0 1
 penyembunyian 1 0 1 0 0 0
@@ -668,7 +668,7 @@ digelapkan 0 0 1 0 1 0
 sayang 0 0 0 1 0 0
 anak panah 0 0 1 0 0 0
 menerpa 1 0 1 0 1 0
-putri 0 0 0 1 0 0
+anak perempuan 0 0 0 1 0 0
 fajar 0 0 0 1 0 1
 mematikan 1 1 1 0 1 0
 berurusan 0 0 0 1 0 1
@@ -976,7 +976,7 @@ kelelahan 0 0 0 0 1 0
 pengusiran setan 0 0 1 0 1 0
 mengharapkan 0 0 0 0 0 1
 bijaksana 0 0 0 1 0 0
-mengeluarkan 1 1 1 0 1 0
+halau 1 1 1 0 1 0
 percobaan 0 0 0 0 0 1
 berakhir 0 0 0 0 1 0
 meledak 1 0 1 0 1 1
@@ -1756,7 +1756,7 @@ lamur 1 0 0 0 1 0
 rabun 1 0 0 0 1 0
 misterius 0 0 1 0 0 1
 misteri 0 0 0 0 0 1
-mengomel 1 1 1 0 1 0
+mengomel 1 0 0 0 0 0
 tanpa nama 0 1 0 0 0 0
 tidur sebentar 0 0 0 1 0 0
 serbet 0 0 0 0 1 0

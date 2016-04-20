@@ -1997,6 +1997,18 @@ menerima
 sebuah
 pesan
 .
+padahal
+supirku
+itu
+gila
+hp
+,
+gak
+pernah
+lepas
+dari
+hp
+.
 dan
 aku
 pun
@@ -3382,7 +3394,7 @@ tamu
 meletakkan
 tas
 dan
-mengelurkan
+mengeluarkan
 isinya
 .
 buku
@@ -4012,7 +4024,7 @@ apa
 salah
 saya
 ,
-jikajika
+jika
 kau
 ingin
 mengambil

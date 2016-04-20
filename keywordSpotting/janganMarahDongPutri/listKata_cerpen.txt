@@ -7,7 +7,7 @@ sekolah
 jam
 menunjukkan
 pukul
-wib.
+wib
 sial
 benar-benar
 sial
@@ -289,7 +289,7 @@ kalau
 kamu
 telat
 atau
-menit,
+menit
 tapi
 kamu
 selalu
@@ -916,4 +916,3 @@ mulai
 mengomel
 lagi
 nih
-

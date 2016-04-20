@@ -32,6 +32,6 @@ public class Formalization {
     
     public static void main (String[] args) throws IOException {
         Formalization frm = new Formalization();
-        System.out.println(frm.formalize("aduuhh"));
+        System.out.println(frm.formalize("ngerjain"));
     }
 }

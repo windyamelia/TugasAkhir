@@ -30,7 +30,7 @@ public class Stemming {
     }
     
     public static void main(String[] args) {
-        String str = "menghembuskan";
+        String str = "berkedip-kedip";
         Stemming stem = new Stemming();
         System.out.println(stem.stemWord(str));
         

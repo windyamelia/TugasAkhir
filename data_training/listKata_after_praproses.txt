@@ -73,7 +73,7 @@ iri
 teman
 teman
 ambil
-raport
+rapor
 damping
 ayah
 damping
@@ -191,7 +191,7 @@ kilat
 selamat
 malam
 nyonya
-silah
+sila
 masuk
 nan
 sopan
@@ -823,6 +823,11 @@ saku
 terima
 buah
 pesan
+supirku
+gila
+hp
+lepas
+hp
 pesan
 orang
 misterius
@@ -1309,7 +1314,6 @@ ruang
 tamu
 letak
 tas
-mengelurkan
 isi
 buku
 pena
@@ -1377,10 +1381,10 @@ senang
 lihat
 wajah
 ajarin
-kasi
+kasih
 coklat
 iya
-kasi
+kasih
 adik
 lirik
 arah
@@ -1534,14 +1538,13 @@ darah
 kucur
 pelipis
 salah
-jikajika
 ambil
 harta
 ambil
 ambil
 nyawa
 radit
-menghembuskan
+embus
 napas
 dengus
 sepel
@@ -1607,7 +1610,6 @@ darah
 cecer
 banjir
 cari
-ji
 cari
 uang
 radit
@@ -1778,7 +1780,7 @@ karat
 jatuh
 tang
 damar
-menghujamkan
+hunjam
 pisau
 perut
 damar
@@ -1803,7 +1805,7 @@ suara
 burung
 gagak
 hujan
-redah
+reda
 berangkat
 pagi
 tuju
@@ -1832,7 +1834,7 @@ main
 badminton
 kenal
 harum
-negerinya
+negeri
 cinta
 usia
 pudar
@@ -2071,7 +2073,7 @@ teman
 dukung
 tarik
 napas
-menghembuskan
+embus
 napas
 ikan
 tenang
