@@ -19,6 +19,7 @@ sore
 jelang
 sang
 surya
+tak
 salah
 kodrat
 pikir
@@ -49,6 +50,7 @@ kesal
 diam
 sayang
 oh
+tidak
 luap
 kasih
 bentuk

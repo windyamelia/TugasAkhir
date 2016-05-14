@@ -95,6 +95,12 @@ public class TugasAkhir {
         }
 //        String[] sentences = text.split("(?:\\s+)|([^“”\\.]*“[^”]*”[^\\.]*\\.)|([^“][^\\.“”]*\\.)");
 //        array_sentences.addAll(Arrays.asList(sentences));
+        for (int i=array_sentences.size()-1; i>=0; i--) {
+            String str_afterTrim = array_sentences.get(i).trim();
+            if (str_afterTrim.length()==0) {
+                array_sentences.remove(i);
+            }
+        }
         return array_sentences;
     }
     
@@ -291,43 +297,103 @@ public class TugasAkhir {
         return temp;
     }
     
+    public static String resultFileArff(ArrayList<String> features, boolean training, String fileSentenceCerpen) throws IOException {
+        String temp = "";
+//        temp = temp + "sentence,";
+        temp = temp + "@relation cerpen" + "\n" + "\n";
+        
+        for (String fitur : features) {
+            temp = temp + "@attribute '" + fitur + "' numeric" + "\n";
+        }
+        temp = temp + "@attribute emotion {marah, jijik, takut, senang, sedih, kaget, netral}" + "\n" + "\n";
+        temp = temp + "@data" + "\n";
+        
+        ArrayList<String> list_sentences = readTextPerLine(fileSentenceCerpen);
+        for (int i=0; i<list_sentences.size(); i++) {
+//            temp = temp + list_sentences.get(i) + ",";
+            IndonesianSentenceTokenizer tokenizer = new IndonesianSentenceTokenizer();
+            ArrayList<String> words_sentence = praprosesWords(tokenizer.tokenizeSentenceWithCompositeWords(list_sentences.get(i).toLowerCase()));
+//            int i=0;
+            if (!training) {
+                String words_notInFeatures = "";
+                for (int j=words_sentence.size()-1; j>=0; j--) {
+                    if (!isAvailableWordInList(words_sentence.get(j), features)) {
+                        System.out.println("kata-kata yang tidak ada di fitur: " + words_sentence.get(j));
+                        words_notInFeatures = words_notInFeatures + words_sentence.get(j) + "\n";
+                        words_sentence.remove(j);
+                    }
+                }
+//                Pattern pattern = Pattern.compile(".*/");
+//                String[] splitted_file_cerpen = pattern.split(fileSentenceCerpen);
+                String[] splitted_file_cerpen = fileSentenceCerpen.split("/");
+                System.out.println("splitted file cerpen: " + splitted_file_cerpen[1]);
+                String file_cerpen = splitted_file_cerpen[1];
+                writeToFile(words_notInFeatures, "data_test/" + file_cerpen + "/words_notInFeatures.txt");
+            }
+            int hitung = 0;
+            for (String str_feature : features) {
+                if (isAvailableWordInList(str_feature, words_sentence)) {
+                    temp = temp + "1,";
+                    hitung++;
+                } else {
+                    temp = temp + "0,";
+                    hitung++;
+                }
+            }
+            System.out.println("hitung: " + hitung);
+            
+            if (training) {
+                ArrayList<String> list_emotion = readTextPerLine("data_training/emotions-sentences.txt");
+                temp = temp + list_emotion.get(i).toLowerCase() + "\n";
+            } else {
+                temp = temp + "?" + "\n";
+            }
+        }
+        return temp;
+    }
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
         /** COBA HASILIN TEST DATA BERBEDA DARI TRAINING DATA **/
-//        IndonesianSentenceDetector isd = new IndonesianSentenceDetector();
-//        String text_cerpen = readText("cerpen/diTempatPembuanganAkhir.txt");
-////        ArrayList<String> list_sentences = splitTextIntoSentences(text_cerpen);
-//        ArrayList<String> list_sentences = isd.splitSentence(text_cerpen);
-//        for (String str : list_sentences) {
-//            System.out.println(str);
-//        }
-//        writeListToFile(list_sentences, "data_test/diTempatPembuanganAkhir/list_sentences.txt");
-//        
-//        ArrayList<String> features = featureExtraction("data_training/sentences-cerpen.txt");
-//        writeListToFile(features, "data_training/list_features.txt");
-//        System.out.println(resultFileArff(features, false, "data_test/diTempatPembuanganAkhir/list_sentences.txt"));
-//        writeToFile(resultFileArff(features, false, "data_test/diTempatPembuanganAkhir/list_sentences.txt"), "data_test/diTempatPembuanganAkhir/data_test_diTempatPembuanganAkhir.txt");
+//        ArrayList<String> features_awal = featureExtraction("data_training/sentences-cerpen.txt");
+//        writeListToFile(features_awal, "data_training/revisi_tidak/list_features.txt");
+        
+        ArrayList<String> features = readTextPerLine("data_training/revisi_tidak/list_features.txt");
+        
+        ArrayList<String> judul_cerpen = new ArrayList<>();
+        judul_cerpen.add("priaBerjubahHitam_ketinggalan");
+//        judul_cerpen.add("pohonBesar");
+//        judul_cerpen.add("mataSebeningKristal");
+//        judul_cerpen.add("menembusLangit");
+        
+        for (String str : judul_cerpen) {
+            String text_cerpen = readText("cerpen/"+ str +".txt");
+            ArrayList<String> list_sentences = splitTextIntoSentences(text_cerpen);
+            String file_dataTest = "data_test/"+ str +"/list_sentences.txt";
+            writeListToFile(list_sentences, file_dataTest);
+            writeToFile(resultFileArff(features, false, file_dataTest), "data_test/"+ str +"/data_test_"+ str + ".arff");
+        }
         
         /** MENGHASILKAN FILE ARFF **/
 //        ArrayList<String> features = featureExtraction("data_training/sentences-cerpen.txt");
 //        writeListToFile(features, "data_training/revisi/list_features.txt");
-        ArrayList<String> features = readTextPerLine("data_training/revisi_tidak/list_features.txt");
+//        ArrayList<String> features = readTextPerLine("data_training/revisi_tidak/list_features.txt");
 //        ArrayList<String> features = readTextPerLine("machine_learning/daftar_kata_bahasaIndonesia/daftar_kata_bahasaIndonesia_afterSW.txt");
-//        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt"), "data_test/revisi_tidak/data_test_full.arff");
+//        writeToFile(resultFileArff(features, true, "data_training/sentences-cerpen.txt"), "data_training/revisi_stopwords/data_training_full.arff");
 //        System.out.println(resultFileArff(features, false, "data_training/sentences-cerpen.txt"));
         
         /** result data test **/
-        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 0, 63), "data_test/revisi_tidak/data_test_hujanDalamGelap.arff"); 
-        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 64, 120), "data_test/revisi_tidak/data_test_keberuntunganRemi.arff"); 
-        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 121, 156), "data_test/revisi_tidak/data_test_lemariRahasia.arff");
-        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 157, 207), "data_test/revisi_tidak/data_test_priaBerjubahHitam.arff");
-        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 208, 281), "data_test/revisi_tidak/data_test_janganMarahDongPutri.arff");
-        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 282, 311), "data_test/revisi_tidak/data_test_pisauBerkarat.arff");
-        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 312, 383), "data_test/revisi_tidak/data_test_peluangEmasBerharga.arff");
-        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 384, 426), "data_test/revisi_tidak/data_test_kembalikanSenyumku.arff");
+//        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 0, 63), "data_test/revisi_tidak/data_test_hujanDalamGelap.arff"); 
+//        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 64, 120), "data_test/revisi_tidak/data_test_keberuntunganRemi.arff"); 
+//        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 121, 156), "data_test/revisi_tidak/data_test_lemariRahasia.arff");
+//        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 157, 207), "data_test/revisi_tidak/data_test_priaBerjubahHitam.arff");
+//        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 208, 281), "data_test/revisi_tidak/data_test_janganMarahDongPutri.arff");
+//        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 282, 311), "data_test/revisi_tidak/data_test_pisauBerkarat.arff");
+//        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 312, 383), "data_test/revisi_tidak/data_test_peluangEmasBerharga.arff");
+//        writeToFile(resultFileArff(features, false, "data_training/sentences-cerpen.txt", 384, 426), "data_test/revisi_tidak/data_test_kembalikanSenyumku.arff");
         
         
         /*** RAPIHIN ANTONIM ***/
@@ -389,6 +455,25 @@ public class TugasAkhir {
 //        System.out.println(result_temp);
 //        writeToFile(result_temp, "keywordSpotting/result_lexicon_noStemming.txt");
         
+        /*** ngecek lexicon ada yang double atau engga katanya ***/
+//        KeywordSpotting ks = new KeywordSpotting();
+//        ks.setHashMap(ks.readTextToHashmap("keywordSpotting/result_lexicon_noStemming.txt"));
+//        Object[] words = ks.getHashMap().keySet().toArray();
+//        ArrayList<String> array_word = new ArrayList<>();
+//        for (Object str : words) {
+//            array_word.add(str.toString());
+//        }
+////        ArrayList<String> array_new = array_word;
+////        int hitung = 0;
+//        for (int i=array_word.size()-1; i>=0; i--) {
+//            String temp = array_word.get(i);
+//            if (isAvailableWordInList(temp, array_word)) {
+//                array_word.remove(i);
+//            }
+//            if (isAvailableWordInList(temp, array_word)) {
+//                System.out.println(array_word.get(i));
+//            }
+//        }
         /**** INSERT KUTIP ****/
 //        ArrayList<String> sentences = readCsvFile("C:\\Users\\Windy Amelia\\Documents\\NetBeansProjects\\TugasAkhir\\data training\\sentences-cerpen.txt");
 //        ArrayList<String> sentencesWithKutip = insertKutip(sentences);

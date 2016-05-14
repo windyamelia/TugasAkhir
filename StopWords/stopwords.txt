@@ -7,8 +7,8 @@ ka
 deh
 ya
 ku
-ada
 si
+ada
 adalah
 adanya
 adapun
@@ -680,7 +680,6 @@ tadi
 tadinya
 tahu
 tahun
-tak
 tambah
 tambahnya
 tampak
@@ -733,7 +732,6 @@ tetapi
 tiap
 tiba
 tiba-tiba
-tidak
 tidakkah
 tidaklah
 tiga

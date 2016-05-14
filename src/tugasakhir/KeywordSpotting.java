@@ -240,7 +240,7 @@ public class KeywordSpotting {
         writeListToFile(list_kata_after_stopword, file);
 //        ArrayList<String> words_noNeed_stemming = readTextPerLine("keywordSpotting/no_need_stemming.txt");
         ArrayList<String> list_kataBerulang = readTextPerLine("keywordSpotting/kata_berulang.txt");
-        /** new **/
+        /** new: stemming kata mengandung "-" yang berarti jamak, ex: teman-teman **/
         ArrayList<String> listKata_after_stemming = new ArrayList<>();
         Stemming stemmer = new Stemming();
         for (String str : list_kata_after_stopword) {
@@ -270,43 +270,7 @@ public class KeywordSpotting {
 //            System.out.println("tes kata after stemming: " + str);
         }
         writeListToFile(listKata_after_stemming, "keywordSpotting/" + judul_cerpen + "/listKata_after_stemming.txt");
-        /** new **/
-//        ArrayList<String> listKata_after_stemming = new ArrayList<>();
-//        Stemming stemmer = new Stemming();
-//        for (String str : list_kata_after_stopword) {
-//            boolean found_noStem = false;
-//            for (String no_stem : words_noNeed_stemming) {
-//                if (no_stem.equals(str)) {
-//                    found_noStem = true;
-//                    break;
-//                }
-//            }
-//            
-//            boolean found_kataBerulang = false;
-//            for (String kataBerulang : list_kataBerulang) {
-//                if (kataBerulang.equals(str)) {
-//                    System.out.println("kataBerulang: " + str);
-//                    found_kataBerulang = true;
-//                    break;
-//                }
-//            }
-//            if ((!found_noStem) && (!found_kataBerulang)) {
-//                listKata_after_stemming.add(stemmer.stemWord(str));
-//            } else {
-//                listKata_after_stemming.add(str);
-//            }
-//        }
-//        
-//        System.out.println("listKata_after_stemming: ");
-//        for (String str : listKata_after_stemming) {
-//            System.out.println(str);
-//        }
         
-//        String text_cerpen_after_stemming = stemmer.stemSentences(text_cerpen.toLowerCase());
-//        System.out.println(text_cerpen_after_stemming);
-//        ArrayList<String> listKata_after_stemming = splitTextIntoWords(text_cerpen_after_stemming, "keywordSpotting/" + judul_cerpen + "/listKata_after_stemming.txt");
-//        ArrayList<String> listKata_after_stemming_dummy = readTextPerLine("keywordSpotting/hujanDalamGelap/listKata_after_stemming_dummy.txt");
-
         KeywordSpotting ks = new KeywordSpotting();
         ks.setHashMap(ks.readTextToHashmap("keywordSpotting/result_lexicon_noStemming.txt"));
         
@@ -460,8 +424,13 @@ public class KeywordSpotting {
         writeToFile(word_available_inLexicon, "keywordSpotting/" + judul_cerpen + "/word_available_inLexicon.txt");
         
         ks.setHasilNilaiEmosi(ks.getHasilEmosi(arrayWord_available_inLexicon));
+        
+        String temp_hasilEmosi = "";
         for (int nilai : ks.getHasilNilaiEmosi()) {
             System.out.println(nilai);
+            temp_hasilEmosi = temp_hasilEmosi + String.valueOf(nilai) + "\n";
         }
+        
+        writeToFile(temp_hasilEmosi, "keywordSpotting/" + judul_cerpen + "/hasil_emosi.txt");
     }
 }

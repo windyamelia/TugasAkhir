@@ -1,0 +1,36 @@
+/*** hasil_me_diTempatPembuanganAkhir.txt ***/
+jumlah emosi: 8
+jumlah emosi: 1
+jumlah emosi: 5
+jumlah emosi: 8
+jumlah emosi: 8
+jumlah emosi: 35
+jumlah emosi: 1
+
+/*** hasil_me_suaraAneh.txt ***/
+jumlah emosi: 1
+jumlah emosi: 1
+jumlah emosi: 10
+jumlah emosi: 5
+jumlah emosi: 1
+jumlah emosi: 21
+jumlah emosi: 0
+
+/*** hasil_me_liburanBersamaSahabat.txt ***/
+jumlah emosi: 7
+jumlah emosi: 0
+jumlah emosi: 4
+jumlah emosi: 9
+jumlah emosi: 9
+jumlah emosi: 36
+jumlah emosi: 1
+
+/*** hasil_me_menembusLangit.txt ***/
+jumlah emosi: 2
+jumlah emosi: 0
+jumlah emosi: 7
+jumlah emosi: 13
+jumlah emosi: 6
+jumlah emosi: 52
+jumlah emosi: 0
+

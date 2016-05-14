@@ -1,0 +1,37 @@
+SVM_LINEAR	SVM_RBF	Logistic	NaiveBayes
+/*** diTempatPembuanganAkhir ***/
+4	4	8	9	
+0	0	1	2	
+2	18	5	2	
+2	1	8	1	
+26	3	8	45	
+4	40	35	4	
+2	0	1	3	
+
+/*** suaraAneh ***/
+3	1	1	1	
+0	0	1	3	
+9	14	10	8	
+0	0	5	0	
+2	1	1	23	
+24	23	21	1	
+1	0	0	3	
+
+/*** liburanBersamaSahabat ***/
+13	6	7	7	
+0	0	0	1	
+2	16	4	4	
+2	3	9	3	
+6	3	9	43	
+38	38	36	5	
+5	0	1	3	
+
+/*** menembusLangit ***/
+5	0	2	2	
+0	0	0	0	
+5	15	7	7	
+4	2	13	8	
+12	5	6	57	
+54	58	52	4	
+0	0	0	2	
+

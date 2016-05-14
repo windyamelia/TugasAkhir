@@ -138,12 +138,12 @@ public class Test {
 //        }
         
         /*** SPLIT TEXT INTO SENTENCES DARI INTERNET ***/
-        ArrayList<String> list_sentences = splitTextIntoSentences(readText("cerpen/priaBerjubahHitam.txt"));
-        System.out.println("length list sentences: " + list_sentences.size());
-        for (String str : list_sentences) {
+//        ArrayList<String> list_sentences = splitTextIntoSentences(readText("cerpen/priaBerjubahHitam.txt"));
+//        System.out.println("length list sentences: " + list_sentences.size());
+//        for (String str : list_sentences) {
 //            System.out.println("tes");
 //            System.out.println("masuk: " + str);
-        }
+//        }
         
         /*** COBA TOKENIZER BU AYU KE TEXT CERPEN (HASIL: LIST KATA) ***/
 //        IndonesianSentenceTokenizer tokenizer = new IndonesianSentenceTokenizer();
@@ -156,55 +156,88 @@ public class Test {
 //        sw.removePunctuation();
 //        writeListToFile(sw.getWordList(), "keywordSpotting/hujanDalamGelap/listKata_cerpen_tokenizer.txt");
         
-        /** NULIS HASIL EMOSI SEMUA CERPEN DARI METODE ML **/
+        /** GABUNGIN --> HYBRID METHOD **/
+//        ArrayList<String> features_awal = featureExtraction("data_training/sentences-cerpen.txt");
+//        writeListToFile(features_awal, "data_training/revisi_tidak/list_features.txt");
+        
+//        ArrayList<String> features = readTextPerLine("data_training/revisi_tidak/list_features.txt");
+        
+        ArrayList<String> judul_cerpen = new ArrayList<>();
+        judul_cerpen.add("diTempatPembuanganAkhir");
+        judul_cerpen.add("suaraAneh");
+        judul_cerpen.add("liburanBersamaSahabat");
+        judul_cerpen.add("menembusLangit");
+        
+//        for (String str : judul_cerpen) {
+//            String text_cerpen = readText("cerpen/"+ str +".txt");
+//            ArrayList<String> list_sentences = splitTextIntoSentences(text_cerpen);
+//            String file_dataTest = "data_test/"+ str +"/list_sentences.txt";
+//            writeListToFile(list_sentences, file_dataTest);
+//            writeToFile(resultFileArff(features, false, file_dataTest), "data_test/"+ str +"/data_test_diTempatPembuanganAkhir.arff");
+//        }
+        
 //        Scanner scanner = new Scanner (System.in);
 //        System.out.print("algoritma: ");
 //        String algoritma = scanner.nextLine();
-//        ArrayList<String> judul_cerpen = new ArrayList<>();
-//        judul_cerpen.add("hasil_" + algoritma + "_hujanDalamGelap.txt");
-//        judul_cerpen.add("hasil_" + algoritma + "_keberuntunganRemi.txt");
-//        judul_cerpen.add("hasil_" + algoritma + "_lemariRahasia.txt");
-//        judul_cerpen.add("hasil_" + algoritma + "_priaBerjubahHitam.txt");
+        
+        ArrayList<String> algorithms = new ArrayList<>();
+        algorithms.add("libsvm");
+        algorithms.add("libsvm_rbf");
+        algorithms.add("me");
+        algorithms.add("nbm");
+        
 //        judul_cerpen.add("hasil_" + algoritma + "_janganMarahDongPutri.txt");
 //        judul_cerpen.add("hasil_" + algoritma + "_pisauBerkarat.txt");
 //        judul_cerpen.add("hasil_" + algoritma + "_peluangEmasBerharga.txt");
 //        judul_cerpen.add("hasil_" + algoritma + "_kembalikanSenyumku.txt");
-//        
-//        String temp_emotion = "";
-//        for (String title : judul_cerpen) {
-//            ArrayList<String> hasil_prediksi = readTextPerLine("machine_learning/hasil_prediksi/Naive_Bayes_Multinomial/revisi_tidak/" + title);
-//            int[] nilai_emosi = new int[7];
-//            for (int n : nilai_emosi) {
-//                n = 0;
-//            }
-//            for (String str : hasil_prediksi) {
-//                if (str.equals("marah")) {
-//                    nilai_emosi[0]++;
-//                } else if (str.equals("jijik")) {
-//                    nilai_emosi[1]++;
-//                } else if (str.equals("takut")) {
-//                    nilai_emosi[2]++;
-//                } else if (str.equals("senang")) {
-//                    nilai_emosi[3]++;
-//                } else if (str.equals("sedih")) {
-//                    nilai_emosi[4]++;
-//                } else if (str.equals("kaget"))  {
-//                    nilai_emosi[5]++;
-//                } else if (str.equals("netral"))  {
-//                    nilai_emosi[6]++;
-//                } else {
-//                    System.out.println("ada typo");
-//                    break;
-//                }
-//            }
-//            
-//            temp_emotion = temp_emotion + "/*** " + title + " ***/" + "\n";
-//            for (int n : nilai_emosi) {
-//                System.out.println("nilai emosi: " + n);
-//                temp_emotion = temp_emotion + "jumlah emosi: " + n + "\n";
-//            }
-//            temp_emotion = temp_emotion + "\n";
-//        }
-//        writeToFile(temp_emotion, "machine_learning/hasil_emosi_tiap_cerpen/Naive_Bayes_Multinomial/revisi_tidak/hasil_emosi_" + algoritma + ".txt");
+        
+        String temp_emotion = "";
+        temp_emotion = temp_emotion + "SVM_LINEAR" + "\t" + "SVM_RBF" + "\t" + "Logistic" + "\t" + "NaiveBayes" + "\n" + "\n";
+        for (int i=0; i<judul_cerpen.size(); i++) {
+            temp_emotion = temp_emotion + "/*** " + judul_cerpen.get(i) + " ***/" + "\n";
+            int[][] matrix = new int[7][algorithms.size()];
+            for (int j=0; j<algorithms.size(); j++) {
+                ArrayList<String> hasil_prediksi = readTextPerLine("machine_learning/hasil_prediksi/"+ algorithms.get(j) + "/revisi_tidak/hasil_" + algorithms.get(j) + "_" + judul_cerpen.get(i) + ".txt");
+                int[] nilai_emosi = new int[7];
+                for (int n : nilai_emosi) {
+                    n = 0;
+                }
+                for (String str : hasil_prediksi) {
+                    if (str.equals("marah")) {
+                        nilai_emosi[0]++;
+                    } else if (str.equals("jijik")) {
+                        nilai_emosi[1]++;
+                    } else if (str.equals("takut")) {
+                        nilai_emosi[2]++;
+                    } else if (str.equals("senang")) {
+                        nilai_emosi[3]++;
+                    } else if (str.equals("sedih")) {
+                        nilai_emosi[4]++;
+                    } else if (str.equals("kaget"))  {
+                        nilai_emosi[5]++;
+                    } else if (str.equals("netral"))  {
+                        nilai_emosi[6]++;
+                    } else {
+                        System.out.println("ada typo");
+                        break;
+                    }
+                }
+                for (int n=0; n<nilai_emosi.length; n++) {
+                    System.out.println("nilai emosi: " + n);
+                    matrix[n][j] = nilai_emosi[n];
+//                    temp_emotion = temp_emotion + "jumlah emosi: " + n + "\n";
+                }
+//                temp_emotion = temp_emotion + "\n";
+            }
+            for (int i_matrix=0; i_matrix<7; i_matrix++) {
+                for (int j_matrix=0; j_matrix<algorithms.size(); j_matrix++) {
+                    temp_emotion = temp_emotion + matrix[i_matrix][j_matrix] + "\t";
+                }
+                temp_emotion = temp_emotion + "\n";
+            }
+            
+            temp_emotion = temp_emotion + "\n";
+        }
+        writeToFile(temp_emotion, "machine_learning/hasil_emosi_tiap_cerpen/dataTes_new_11Mei/hasil_emosi_gabungan_dataTes_new_11Mei.txt");
     }
 }

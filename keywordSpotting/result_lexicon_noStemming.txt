@@ -1,8 +1,8 @@
 meninggalkan 1 0 1 0 1 1
 ditinggalkan 1 0 1 0 1 0
-culik 0 1 1 0 1 1
+penculikan 0 1 1 0 1 1
 benci 1 1 1 0 1 0
-mengerikan 1 1 1 0 1 0
+mengerikan 1 1 1 0 1 1
 hina 1 1 1 0 1 1
 abnormal 0 1 0 0 0 0
 menghapuskan 1 0 0 0 0 0
@@ -34,7 +34,7 @@ mencapai 0 0 0 1 0 0
 prestasi 0 0 0 1 0 0
 akrobat 0 0 1 1 0 0
 ditindaklanjuti 1 1 0 0 0 0
-adil 0 1 1 0 0 0
+mengadili 0 1 1 0 0 0
 terpuji 0 0 0 1 0 1
 kekaguman 0 0 0 1 0 0
 peringatan 1 0 1 0 0 0
@@ -88,7 +88,7 @@ mengagumkan 0 0 0 1 0 1
 luar biasa 0 0 1 1 0 1
 ambisi 0 0 0 1 0 0
 ambulans 0 0 1 0 0 0
-sergap 1 0 1 0 0 1
+penyergapan 1 0 1 0 0 1
 amin 0 0 0 1 0 0
 ramah 0 0 0 1 0 0
 amonia 0 1 0 0 0 0
@@ -340,7 +340,7 @@ penyuapan 0 1 0 0 0 0
 penyogokan 0 1 0 0 0 0
 pengantin 0 0 0 1 0 0
 mempelai 0 0 0 1 0 0
-gadis iring pengantin 0 0 0 1 0 0
+gadis pengiring pengantin 0 0 0 1 0 0
 brigade 0 0 1 0 0 0
 menerangi 0 0 0 1 0 1
 cemerlang 0 0 0 1 0 0
@@ -516,7 +516,7 @@ kompos 0 1 0 0 0 0
 kompres 1 0 0 0 0 0
 keharusan 1 0 0 0 0 0
 menyembunyikan 0 1 1 0 1 1
-merahasiakan 0 0 1 0 1 1
+merahasiakan 0 1 1 0 1 1
 sembunyi 0 0 1 0 0 1
 penyembunyian 1 0 1 0 0 0
 perahasaiaan 1 0 1 0 0 0
@@ -562,7 +562,7 @@ dikontaminasi 0 1 1 0 1 0
 kontaminasi 0 1 0 0 0 0
 puas 0 0 0 1 0 1
 kontensius 1 1 1 0 0 0
-barang selundup 1 1 1 0 0 0
+barang selundupan 1 1 1 0 0 0
 barang gelap 1 1 1 0 0 0
 kontroversial 1 0 0 0 0 0
 narapidana 1 1 1 0 1 0
@@ -981,8 +981,9 @@ percobaan 0 0 0 0 0 1
 berakhir 0 0 0 0 1 0
 meledak 1 0 1 0 1 1
 eksplosif 1 0 1 0 0 1
+mengekspos 0 0 1 0 0 0
 membuka 0 0 1 0 0 0
-pembeberan 0 0 1 0 0 0
+membeberkan 0 0 1 0 0 0
 membongkar 0 0 1 0 0 0
 memusnahkan 0 0 1 0 1 0
 memberantas 0 0 1 0 1 0
@@ -1930,7 +1931,6 @@ janji 0 0 0 1 0 0
 merampas 1 1 1 0 1 1
 pneumonia 0 0 1 0 0 0
 merebus 1 1 1 0 1 0
-tak arti 0 0 0 0 1 0
 meracuni 1 1 1 0 1 0
 keracunan 1 1 1 0 1 0
 peracunan 0 1 0 0 0 0
@@ -2563,8 +2563,9 @@ ketidakadilan 1 0 0 0 1 0
 tak baik 0 1 0 0 1 0
 tak kenal ampun 1 0 0 0 1 0
 tak terpenuhi 1 0 0 0 1 1
-tak iman 0 0 0 0 1 0
-tak lindung 0 0 0 0 0 1
+tak beriman 0 0 0 0 1 0
+tak dilindungi 0 0 0 0 0 1
+lengah 0 0 0 0 0 1
 ketidakbahagiaan 0 0 0 0 1 0
 tak bahagia 1 1 0 0 1 0
 keterlaluan 0 0 1 0 0 0

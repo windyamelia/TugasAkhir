@@ -111,6 +111,7 @@ biru
 laju
 tuju
 gembira
+pukul
 delapan
 buruk
 tekan
@@ -196,7 +197,6 @@ julur
 lidah
 pesan
 gugup
-sedkit
 ambilah
 suara
 parau
@@ -757,6 +757,7 @@ tunai
 lomba
 peluk
 bahagia
+masalah
 sorak
 gemar
 ceria

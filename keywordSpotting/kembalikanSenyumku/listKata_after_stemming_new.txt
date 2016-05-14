@@ -17,7 +17,6 @@ merasa
 mudah
 lelah
 mual
-pusing
 kehilangan
 napas
 kesadaran
@@ -125,12 +124,10 @@ tengah
 semester
 hari
 langsung
-dibawa
 diperiksa
 divonis
 mengidap
 komplikasi
-dirawat
 minum
 obat
 enam

@@ -9,12 +9,12 @@ ditinggalkan	1	0	1	0	1	0
 						
 						
 						
-culik	0	1	1	0	1	1
+penculikan	0	1	1	0	1	1
 						
 						
 						
 benci	1	1	1	0	1	0
-mengerikan	1	1	1	0	1	0
+mengerikan	1	1	1	0	1	1
 						
 						
 hina	1	1	1	0	1	1
@@ -186,7 +186,7 @@ ditindaklanjuti	1	1	0	0	0	0
 						
 						
 						
-adil	0	1	1	0	0	0
+mengadili	0	1	1	0	0	0
 						
 						
 						
@@ -285,7 +285,7 @@ penghinaan	1	1	1	0	1	1
 						
 						
 						
-takut	1	0	1	0	1	1
+takut	1	0	1	0	0	0
 						
 						
 akibat, efek	1	1	1	0	1	0
@@ -441,7 +441,7 @@ luar biasa	0	0	1	1	0	1
 ambisi	0	0	0	1	0	0
 						
 ambulans	0	0	1	0	0	0
-sergap	1	0	1	0	0	1
+penyergapan	1	0	1	0	0	1
 						
 amin	0	0	0	1	0	0
 						
@@ -1130,7 +1130,7 @@ kasar	1	1	1	0	1	0
 jahanam, bangsat	1	1	1	0	0	0
 jijik	1	1	1	0	1	0
 						
-pukul	1	0	1	0	1	0
+pukulan	1	0	1	0	1	0
 						
 kecantikan	0	0	0	1	0	0
 indah	0	0	0	1	0	1
@@ -1526,7 +1526,7 @@ penyuapan, penyogokan	0	1	0	0	0	0
 pengantin	0	0	0	1	0	0
 						
 mempelai	0	0	0	1	0	0
-gadis iring pengantin	0	0	0	1	0	0
+gadis pengiring pengantin	0	0	0	1	0	0
 						
 						
 						
@@ -2482,7 +2482,7 @@ keharusan	1	0	0	0	0	0
 						
 						
 						
-menyembunyikan, merahasiakan	0	0	1	0	1	1
+menyembunyikan, merahasiakan	0	1	1	0	1	1
 sembunyi	0	0	1	0	0	1
 penyembunyian, perahasaiaan	1	0	1	0	0	0
 						
@@ -2698,7 +2698,7 @@ kontensius	1	1	1	0	0	0
 						
 						
 						
-barang selundup, barang gelap	1	1	1	0	0	0
+barang selundupan, barang gelap	1	1	1	0	0	0
 						
 						
 						
@@ -3159,7 +3159,7 @@ menerpa	1	0	1	0	1	0
 						
 						
 						
-putri	0	0	0	1	0	0
+anak perempuan	0	0	0	1	0	0
 fajar	0	0	0	1	0	1
 						
 						
@@ -4601,7 +4601,7 @@ bijaksana	0	0	0	1	0	0
 						
 						
 						
-mengeluarkan	1	1	1	0	1	0
+halau	1	1	1	0	1	0
 						
 						
 						
@@ -8266,7 +8266,7 @@ misteri	0	0	0	0	0	1
 						
 						
 						
-mengomel	1	1	1	0	1	0
+mengomel	1	0	0	0	0	0
 						
 						
 						
@@ -9449,7 +9449,6 @@ merebus	1	1	1	0	1	0
 						
 						
 						
-tak arti	0	0	0	0	1	0
 						
 meracuni	1	1	1	0	1	0
 keracunan	1	1	1	0	1	0
@@ -13329,9 +13328,9 @@ tak kenal ampun	1	0	0	0	1	0
 						
 tak terpenuhi	1	0	0	0	1	1
 						
-tak iman	0	0	0	0	1	0
+tak beriman	0	0	0	0	1	0
 						
-tak lindung	0	0	0	0	0	1
+tak dilindungi, lengah	0	0	0	0	0	1
 ketidakbahagiaan	0	0	0	0	1	0
 tak bahagia	1	1	0	0	1	0
 						
@@ -13866,7 +13865,7 @@ kutil	0	1	0	0	0	0
 limbah	0	1	0	0	0	0
 terbuang	1	1	0	0	0	0
 buar, royal, boros	1	1	0	0	1	0
-menyia-nyiakakan	0	1	1	0	1	0
+menyia-nyiakan	0	1	1	0	1	0
 nonton, menonton	0	0	1	0	0	0
 						
 						

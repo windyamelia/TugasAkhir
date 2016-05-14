@@ -1,0 +1,36 @@
+/*** hasil_nbm_diTempatPembuanganAkhir.txt ***/
+jumlah emosi: 9
+jumlah emosi: 2
+jumlah emosi: 2
+jumlah emosi: 1
+jumlah emosi: 45
+jumlah emosi: 4
+jumlah emosi: 3
+
+/*** hasil_nbm_suaraAneh.txt ***/
+jumlah emosi: 1
+jumlah emosi: 3
+jumlah emosi: 8
+jumlah emosi: 0
+jumlah emosi: 23
+jumlah emosi: 1
+jumlah emosi: 3
+
+/*** hasil_nbm_liburanBersamaSahabat.txt ***/
+jumlah emosi: 7
+jumlah emosi: 1
+jumlah emosi: 4
+jumlah emosi: 3
+jumlah emosi: 43
+jumlah emosi: 5
+jumlah emosi: 3
+
+/*** hasil_nbm_menembusLangit.txt ***/
+jumlah emosi: 2
+jumlah emosi: 0
+jumlah emosi: 7
+jumlah emosi: 8
+jumlah emosi: 57
+jumlah emosi: 4
+jumlah emosi: 2
+

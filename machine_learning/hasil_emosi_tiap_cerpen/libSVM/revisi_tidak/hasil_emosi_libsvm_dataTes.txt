@@ -1,0 +1,36 @@
+/*** hasil_libsvm_diTempatPembuanganAkhir.txt ***/
+jumlah emosi: 4
+jumlah emosi: 0
+jumlah emosi: 2
+jumlah emosi: 2
+jumlah emosi: 26
+jumlah emosi: 4
+jumlah emosi: 2
+
+/*** hasil_libsvm_suaraAneh.txt ***/
+jumlah emosi: 3
+jumlah emosi: 0
+jumlah emosi: 9
+jumlah emosi: 0
+jumlah emosi: 2
+jumlah emosi: 24
+jumlah emosi: 1
+
+/*** hasil_libsvm_liburanBersamaSahabat.txt ***/
+jumlah emosi: 13
+jumlah emosi: 0
+jumlah emosi: 2
+jumlah emosi: 2
+jumlah emosi: 6
+jumlah emosi: 38
+jumlah emosi: 5
+
+/*** hasil_libsvm_menembusLangit.txt ***/
+jumlah emosi: 5
+jumlah emosi: 0
+jumlah emosi: 5
+jumlah emosi: 4
+jumlah emosi: 12
+jumlah emosi: 54
+jumlah emosi: 0
+

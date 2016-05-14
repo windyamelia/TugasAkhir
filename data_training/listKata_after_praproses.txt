@@ -24,15 +24,18 @@ sore
 jelang
 sang
 surya
+tak
 salah
 kodrat
 pikir
 semu
+tak
 arah
 keluarga
 karir
 orang
 tua
+tak
 erti
 kali
 kumpul
@@ -59,8 +62,10 @@ diam
 pikir
 orang
 tua
+tak
 sayang
 oh
+tidak
 luap
 kasih
 sayang
@@ -68,6 +73,7 @@ bentuk
 main
 barbie
 boneka
+tak
 adil
 iri
 teman
@@ -82,6 +88,7 @@ nan
 ayah
 dengar
 seru
+tak
 dusta
 sepi
 pulang
@@ -103,6 +110,7 @@ bilang
 orang
 tua
 kerja
+tidak
 nan
 erti
 anak
@@ -122,6 +130,7 @@ ayah
 ajar
 pr
 matematika
+tak
 damba
 tuhan
 rela
@@ -142,7 +151,9 @@ ah
 sadar
 kejam
 nan
+tak
 peduli
+tak
 erti
 harap
 kumpul
@@ -217,6 +228,7 @@ sembab
 perah
 air
 mata
+tidak
 arti
 ayah
 rumah
@@ -234,6 +246,7 @@ hujan
 gelap
 air
 mata
+tidak
 arti
 gelap
 hati
@@ -255,6 +268,7 @@ yatim
 hidup
 batang
 kara
+tidak
 keluarga
 tinggal
 tahan
@@ -271,6 +285,7 @@ tuju
 jual
 upah
 terima
+tidak
 makan
 remi
 malam
@@ -289,6 +304,7 @@ remi
 langsung
 lahap
 makan
+tak
 remang
 lampu
 jalan
@@ -395,6 +411,7 @@ tanggap
 bicara
 remi
 sepi
+tak
 erti
 bicara
 remi
@@ -442,9 +459,11 @@ sentak
 kaget
 anjing
 shitzu
+tak
 remi
 cari
 keliling
+tidak
 temu
 remi
 dengar
@@ -513,6 +532,7 @@ wanita
 jalan
 sang
 wanita
+tak
 henti
 terima
 kasih
@@ -534,6 +554,7 @@ tanggap
 remi
 iya
 salah
+tidak
 kabur
 rumah
 remi
@@ -559,8 +580,10 @@ tolak
 nama
 remi
 bu
+tidak
 tinggal
 keluarga
+tidak
 tahan
 hidup
 kerja
@@ -623,11 +646,13 @@ tokyo
 gadis
 cantik
 rumah
+tak
 sewa
 rumah
 lewati
 penasaran
 puncak
+tidak
 nyaman
 buka
 lemari
@@ -655,11 +680,13 @@ semenjak
 hasil
 laptop
 rusak
+tak
 duga
 nyata
 cinta
 resmi
 pacar
+tidak
 kencan
 rumah
 misuka
@@ -765,6 +792,7 @@ sadar
 tubuh
 perempuan
 misuka
+tak
 nyawa
 leher
 tusuk
@@ -774,6 +802,7 @@ gantung
 tangis
 misuka
 misuka
+tidak
 pintu
 buka
 orang
@@ -804,6 +833,7 @@ satuan pengamanan
 satuan pengamanan
 sepi
 banget
+tidak
 iya
 adik
 libur
@@ -826,11 +856,13 @@ pesan
 supirku
 gila
 hp
+tidak
 lepas
 hp
 pesan
 orang
 misterius
+tidak
 sesal
 umur
 hidup
@@ -843,6 +875,7 @@ sekolah
 lihat
 satuan pengamanan
 pos
+tidak
 masuk
 pintu
 hall
@@ -909,6 +942,7 @@ hati
 jaga
 suara
 napas
+tidak
 curiga
 pikir
 tolak
@@ -943,9 +977,12 @@ dengar
 bisik
 riki
 sekolah
+tidak
 libur
 kemarin
 sekolah
+tidak
+tidak
 tap
 tap
 kali
@@ -975,6 +1012,7 @@ orang
 lihat
 samping
 orang
+tidak
 mayat
 satuan pengamanan
 geletak
@@ -1008,6 +1046,7 @@ lutut
 tangis
 lihat
 riki
+tidak
 samping
 dengar
 suara
@@ -1055,6 +1094,7 @@ teman
 kelas
 lihat
 satuan pengamanan
+tidak
 bangun
 lihat
 darah
@@ -1064,6 +1104,7 @@ teman
 lihat
 orang
 kerumun
+tidak
 buka
 jubah
 angkat
@@ -1077,6 +1118,7 @@ jam
 wib
 kali
 putri
+tidak
 maaf
 cepat
 jalan
@@ -1133,6 +1175,7 @@ tatap
 alih
 pandang
 buku
+tidak
 sapa
 sapa
 kali
@@ -1158,6 +1201,7 @@ tas
 heran
 lho
 put
+tidak
 ajar
 ajar
 ketus
@@ -1193,6 +1237,7 @@ bilang
 maafin
 putri
 nyata
+tidak
 ubah
 maklum
 lambat
@@ -1205,13 +1250,16 @@ usaha
 tingkat
 nilai
 usaha
+tidak
 usaha
 aktifitas
+tidak
 main
 ps
 futsal
 basket
 nilai
+tidak
 juang
 muak
 lihat
@@ -1220,6 +1268,7 @@ tante
 maya
 nyuruh
 ngubah
+tidak
 capek
 capek
 lihat
@@ -1229,6 +1278,7 @@ napas
 kasihan
 lihat
 susah
+tidak
 erti
 usaha
 oke
@@ -1262,6 +1312,7 @@ maaf
 coklat
 marah
 putri
+tidak
 tolak
 coklat
 coklat
@@ -1320,6 +1371,7 @@ pena
 tipe
 garis
 pensil
+tidak
 lupa
 coklat
 coklat
@@ -1361,15 +1413,18 @@ marah
 cenung
 aduh
 putri
+tidak
 erti
 maksud
 sambung
 ajar
+tidak
 segitu
 ajarin
 ayo
 putri
 bilang
+tidak
 pakai
 buka
 tas
@@ -1383,6 +1438,7 @@ wajah
 ajarin
 kasih
 coklat
+tidak
 iya
 kasih
 adik
@@ -1414,6 +1470,7 @@ coklat
 makan
 tatap
 oke
+tidak
 erti
 sodor
 buku
@@ -1439,6 +1496,7 @@ tas
 cari
 cari
 biar
+tidak
 benda
 pribadi
 kaget
@@ -1452,6 +1510,7 @@ buruk
 nilai
 serius
 ngajar
+tidak
 serius
 tutup
 telinga
@@ -1490,6 +1549,7 @@ radit
 sengal
 sengal
 napas
+tak
 atur
 duduk
 sandar
@@ -1522,6 +1582,7 @@ kijang
 patah
 kaki
 radit
+tak
 daya
 diam
 malaikat
@@ -1537,6 +1598,7 @@ campur
 darah
 kucur
 pelipis
+tak
 salah
 ambil
 harta
@@ -1618,6 +1680,7 @@ volume
 suara
 rendah
 lelaki
+tidak
 singgung
 lelaki
 genggam
@@ -1630,6 +1693,7 @@ malang
 monyong
 tuli
 cundang
+tak
 butuh
 uang
 emas
@@ -1637,6 +1701,7 @@ baju
 celana
 bekas
 kurap
+tak
 butuh
 ambil
 nyawa
@@ -1687,6 +1752,7 @@ lamat
 lamat
 lambat
 radit
+tak
 perawan
 adik
 nyawa
@@ -1824,6 +1890,7 @@ orang
 main
 badminton
 kenal
+tidak
 patah
 semangat
 serah
@@ -1837,6 +1904,7 @@ harum
 negeri
 cinta
 usia
+tidak
 pudar
 tanam
 percaya
@@ -1845,9 +1913,12 @@ orang
 masuk
 orang
 tua
+tidak
 dukung
 eh
+tidak
 santai
+tidak
 serah
 iya
 rini
@@ -1882,9 +1953,11 @@ teman
 eh
 main
 tinggal
+tidak
 pergi
 teriak
 rifa
+tidak
 hirau
 pergi
 tuju
@@ -1910,6 +1983,7 @@ mudah
 lelah
 main
 badminton
+tidak
 serah
 patah
 semangat
@@ -1925,6 +1999,7 @@ dewasa
 pegang
 teguh
 hadap
+tidak
 lupa
 luang
 latih
@@ -1998,8 +2073,10 @@ hebat
 dik
 kontrol
 tenaga
+tidak
 khawatir
 fisik
+tidak
 kepala
 latih
 iya
@@ -2055,6 +2132,7 @@ tonton
 kompetisi
 masuk
 teman
+tidak
 takut
 rusli
 kompetisi
@@ -2116,6 +2194,7 @@ balas
 lawan
 lawan
 sulit
+tidak
 lawan
 lawan
 hadap
@@ -2191,6 +2270,7 @@ badminton
 lihat
 orang
 orang
+tidak
 percaya
 masuk
 teman
@@ -2255,7 +2335,10 @@ dengar
 suara
 sayup
 tita
+tak
+tak
 sadar
+tak
 sadar
 jaga
 lihat
@@ -2273,10 +2356,12 @@ napas
 sengal
 ujung
 koridor
+tak
 jalan
 habis
 napas
 hubung
+tidak
 selamat
 sekolah
 telepon
@@ -2285,6 +2370,7 @@ tua
 bawa
 pulang
 alhasil
+tidak
 ulang
 semester
 langsung
@@ -2327,6 +2413,7 @@ mama
 sabar
 pulang
 sembuh
+tidak
 kuat
 jalan
 bentar
@@ -2341,16 +2428,20 @@ maju
 tuhan
 harap
 tubuh
+tidak
 ubah
 lemah
 dev
+tidak
 tita
 jenguk
+tidak
 ulas
 senyum
 mama
 selang
 oksigen
+tidak
 lepas
 takut
 dev
@@ -2373,6 +2464,7 @@ dengar
 beban
 cakap
 tita
+tidak
 sakit
 hebat
 kejap
