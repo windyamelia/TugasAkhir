@@ -1,0 +1,43 @@
+=== Predictions on test set ===
+
+inst#,    actual, predicted, error, probability distribution
+     1          ?    5:sedih      +   0      0      0      0     *1      0      0    
+     2          ?    5:sedih      +   0      0      0      0     *1      0      0    
+     3          ?   7:netral      +   0      0      0      0      0      0     *1    
+     4          ?    5:sedih      +   0      0      0      0     *1      0      0    
+     5          ?    5:sedih      +   0      0      0      0     *1      0      0    
+     6          ?    3:takut      +   0      0     *1      0      0      0      0    
+     7          ?    5:sedih      +   0      0      0      0     *1      0      0    
+     8          ?    1:marah      +  *1      0      0      0      0      0      0    
+     9          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    10          ?    1:marah      +  *1      0      0      0      0      0      0    
+    11          ?    3:takut      +   0      0     *1      0      0      0      0    
+    12          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    13          ?   7:netral      +   0      0      0      0      0      0     *1    
+    14          ?    3:takut      +   0      0     *1      0      0      0      0    
+    15          ?   4:senang      +   0      0      0     *1      0      0      0    
+    16          ?    1:marah      +  *1      0      0      0      0      0      0    
+    17          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    18          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    19          ?   4:senang      +   0      0      0     *1      0      0      0    
+    20          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    21          ?   4:senang      +   0      0      0     *1      0      0      0    
+    22          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    23          ?   7:netral      +   0      0      0      0      0      0     *1    
+    24          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    25          ?    3:takut      +   0      0     *1      0      0      0      0    
+    26          ?    1:marah      +  *1      0      0      0      0      0      0    
+    27          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    28          ?   4:senang      +   0      0      0     *1      0      0      0    
+    29          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    30          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    31          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    32          ?    1:marah      +  *1      0      0      0      0      0      0    
+    33          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    34          ?   4:senang      +   0      0      0     *1      0      0      0    
+    35          ?    1:marah      +  *1      0      0      0      0      0      0    
+    36          ?   4:senang      +   0      0      0     *1      0      0      0    
+    37          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    38          ?   7:netral      +   0      0      0      0      0      0     *1    
+    39          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    40          ?    5:sedih      +   0      0      0      0     *1      0      0    

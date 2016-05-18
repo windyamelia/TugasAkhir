@@ -1,11 +1,9 @@
 tempat bermain
 anak
 keras
-ibu
 uang
 bekas
 akhirnya
-matahari
 perjuangan
 hidup
 berbeda
@@ -13,7 +11,6 @@ kotoran
 goresan
 sampah
 hidup
-matahari
 sumber
 hidup
 sampah
@@ -33,7 +30,6 @@ beristirahat
 tumpukan
 cepat
 sampah
-matahari
 bawah
 sampah
 tumpukan
@@ -53,5 +49,4 @@ salah
 pembuangan
 kulit
 menyengat
-matahari
 bawah

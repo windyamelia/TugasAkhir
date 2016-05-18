@@ -87,7 +87,8 @@ public class TugasAkhir {
         ArrayList<String> array_sentences = new ArrayList<>();
         
 //        Pattern re = Pattern.compile("[^.!?\\s][^.!?]*(?:[.!?](?!['\"]?\\s|$)[^.!?]*)*[.!?]?['\"]?(?=\\s|$)", Pattern.MULTILINE | Pattern.COMMENTS);
-        Pattern re = Pattern.compile("(?:\\s+)|([^“”\\.]*“[^”]*”[^\\.]*\\.)|([^“][^\\.“”]*\\.)", Pattern.MULTILINE | Pattern.COMMENTS);
+//        Pattern re = Pattern.compile("(?:\\s+)|([^“”\\.]*“[^”]*”[^\\.]*\\.)|([^“][^\\.“”]*\\.)"); // regex ilmi
+        Pattern re = Pattern.compile("\\s+|(?:((?:[^“”\\.]*“[^”]*”)+[^“”\\.]*\\.)|([^“”\\.]*(?:\\.[^\\s][^“”\\.]*)*\\.))\\s");
         Matcher reMatcher = re.matcher(text);
         while (reMatcher.find()) {
             System.out.println(reMatcher.group());
@@ -101,6 +102,10 @@ public class TugasAkhir {
                 array_sentences.remove(i);
             }
         }
+        for (String str : array_sentences) {
+            System.out.println("kalimat: " + str);
+        }
+        System.out.println("length array sentence: " + array_sentences.size());
         return array_sentences;
     }
     
@@ -364,15 +369,19 @@ public class TugasAkhir {
         ArrayList<String> features = readTextPerLine("data_training/revisi_tidak/list_features.txt");
         
         ArrayList<String> judul_cerpen = new ArrayList<>();
-        judul_cerpen.add("priaBerjubahHitam_ketinggalan");
+//        judul_cerpen.add("diTempatPembuanganAkhir");
+//        judul_cerpen.add("suaraAneh");
+//        judul_cerpen.add("menembusLangit");
+//        judul_cerpen.add("liburanBersamaSahabat");
+        judul_cerpen.add("ballerina");
 //        judul_cerpen.add("pohonBesar");
 //        judul_cerpen.add("mataSebeningKristal");
-//        judul_cerpen.add("menembusLangit");
         
         for (String str : judul_cerpen) {
             String text_cerpen = readText("cerpen/"+ str +".txt");
             ArrayList<String> list_sentences = splitTextIntoSentences(text_cerpen);
             String file_dataTest = "data_test/"+ str +"/list_sentences.txt";
+//            ArrayList<String> list_sentences = readTextPerLine(file_dataTest); //baca sentences seteleah dibenerin
             writeListToFile(list_sentences, file_dataTest);
             writeToFile(resultFileArff(features, false, file_dataTest), "data_test/"+ str +"/data_test_"+ str + ".arff");
         }

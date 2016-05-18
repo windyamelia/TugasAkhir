@@ -156,6 +156,28 @@ public class Test {
 //        sw.removePunctuation();
 //        writeListToFile(sw.getWordList(), "keywordSpotting/hujanDalamGelap/listKata_cerpen_tokenizer.txt");
         
+        /** VOTING **/
+//        ArrayList<String> judul_cerpen = new ArrayList<>();
+//        judul_cerpen.add("diTempatPembuanganAkhir");
+//        judul_cerpen.add("suaraAneh");
+//        judul_cerpen.add("menembusLangit");
+//        judul_cerpen.add("liburanBersamaSahabat");
+//        judul_cerpen.add("ballerina");
+//        judul_cerpen.add("pohonBesar");
+//        judul_cerpen.add("mataSebeningKristal");
+//        
+//        ArrayList<String> algorithms = new ArrayList<>();
+//        algorithms.add("me");
+//        algorithms.add("libsvm");
+//        algorithms.add("nbm");
+//        
+//        for (int i=0; i<judul_cerpen.size(); i++) {
+//            ArrayList<String> hasil_prediksi_me = readTextPerLine("machine_learning/hasil_prediksi/"+ algorithms.get(0) + "/revisi_tidak/hasil_" + algorithms.get(0) + "_" + judul_cerpen.get(i) + ".txt");
+//            ArrayList<String> hasil_prediksi_libsvm = readTextPerLine("machine_learning/hasil_prediksi/"+ algorithms.get(1) + "/revisi_tidak/hasil_" + algorithms.get(1) + "_" + judul_cerpen.get(i) + ".txt");
+//            ArrayList<String> hasil_prediksi_nbm = readTextPerLine("machine_learning/hasil_prediksi/"+ algorithms.get(2) + "/revisi_tidak/hasil_" + algorithms.get(2) + "_" + judul_cerpen.get(i) + ".txt");
+//            
+//        }
+        
         /** GABUNGIN --> HYBRID METHOD **/
 //        ArrayList<String> features_awal = featureExtraction("data_training/sentences-cerpen.txt");
 //        writeListToFile(features_awal, "data_training/revisi_tidak/list_features.txt");
@@ -165,8 +187,19 @@ public class Test {
         ArrayList<String> judul_cerpen = new ArrayList<>();
         judul_cerpen.add("diTempatPembuanganAkhir");
         judul_cerpen.add("suaraAneh");
-        judul_cerpen.add("liburanBersamaSahabat");
         judul_cerpen.add("menembusLangit");
+        judul_cerpen.add("liburanBersamaSahabat");
+        judul_cerpen.add("ballerina");
+        judul_cerpen.add("pohonBesar");
+        judul_cerpen.add("mataSebeningKristal");
+//        judul_cerpen.add("hujanDalamGelap");
+//        judul_cerpen.add("keberuntunganRemi");
+//        judul_cerpen.add("lemariRahasia");
+//        judul_cerpen.add("priaBerjubahHitam");
+//        judul_cerpen.add("janganMarahDongPutri");
+//        judul_cerpen.add("pisauBerkarat");
+//        judul_cerpen.add("peluangEmasBerharga");
+//        judul_cerpen.add("kembalikanSenyumku");
         
 //        for (String str : judul_cerpen) {
 //            String text_cerpen = readText("cerpen/"+ str +".txt");
@@ -181,9 +214,9 @@ public class Test {
 //        String algoritma = scanner.nextLine();
         
         ArrayList<String> algorithms = new ArrayList<>();
-        algorithms.add("libsvm");
-        algorithms.add("libsvm_rbf");
         algorithms.add("me");
+        algorithms.add("libsvm");
+//        algorithms.add("libsvm_rbf");
         algorithms.add("nbm");
         
 //        judul_cerpen.add("hasil_" + algoritma + "_janganMarahDongPutri.txt");
@@ -192,12 +225,12 @@ public class Test {
 //        judul_cerpen.add("hasil_" + algoritma + "_kembalikanSenyumku.txt");
         
         String temp_emotion = "";
-        temp_emotion = temp_emotion + "SVM_LINEAR" + "\t" + "SVM_RBF" + "\t" + "Logistic" + "\t" + "NaiveBayes" + "\n" + "\n";
+        temp_emotion = temp_emotion + "Logistic" + "\t" + "SVM_LINEAR" + "\t" + "NaiveBayes" + "\n" + "\n";
         for (int i=0; i<judul_cerpen.size(); i++) {
             temp_emotion = temp_emotion + "/*** " + judul_cerpen.get(i) + " ***/" + "\n";
             int[][] matrix = new int[7][algorithms.size()];
             for (int j=0; j<algorithms.size(); j++) {
-                ArrayList<String> hasil_prediksi = readTextPerLine("machine_learning/hasil_prediksi/"+ algorithms.get(j) + "/revisi_tidak/hasil_" + algorithms.get(j) + "_" + judul_cerpen.get(i) + ".txt");
+                ArrayList<String> hasil_prediksi = readTextPerLine("machine_learning/hasil_prediksi/Resample_555/"+ algorithms.get(j) + "/revisi_tidak/hasil_" + algorithms.get(j) + "_" + judul_cerpen.get(i) + ".txt");
                 int[] nilai_emosi = new int[7];
                 for (int n : nilai_emosi) {
                     n = 0;
@@ -223,7 +256,7 @@ public class Test {
                     }
                 }
                 for (int n=0; n<nilai_emosi.length; n++) {
-                    System.out.println("nilai emosi: " + n);
+//                    System.out.println("nilai emosi: " + n);
                     matrix[n][j] = nilai_emosi[n];
 //                    temp_emotion = temp_emotion + "jumlah emosi: " + n + "\n";
                 }
@@ -231,13 +264,15 @@ public class Test {
             }
             for (int i_matrix=0; i_matrix<7; i_matrix++) {
                 for (int j_matrix=0; j_matrix<algorithms.size(); j_matrix++) {
+//                    System.out.println("matrix- " + i_matrix + "-" + j_matrix + ": " + matrix[i_matrix][j_matrix]);
                     temp_emotion = temp_emotion + matrix[i_matrix][j_matrix] + "\t";
+//                    System.out.println("temp_emotion: " + temp_emotion);
                 }
                 temp_emotion = temp_emotion + "\n";
             }
             
             temp_emotion = temp_emotion + "\n";
         }
-        writeToFile(temp_emotion, "machine_learning/hasil_emosi_tiap_cerpen/dataTes_new_11Mei/hasil_emosi_gabungan_dataTes_new_11Mei.txt");
+        writeToFile(temp_emotion, "machine_learning/hasil_emosi_tiap_cerpen/Resample_555/hasil_emosi_gabungan_7dataTesting.txt");
     }
 }

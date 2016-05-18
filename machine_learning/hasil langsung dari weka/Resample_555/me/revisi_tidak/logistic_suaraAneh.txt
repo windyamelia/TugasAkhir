@@ -1,0 +1,21 @@
+=== Predictions on test set ===
+
+inst#,    actual, predicted, error, probability distribution
+     1          ?    5:sedih      +   0      0      0.063  0     *0.631  0.305  0    
+     2          ?    6:kaget      +   0      0.028  0      0      0.019 *0.939  0.014
+     3          ?    3:takut      +   0      0     *1      0      0      0      0    
+     4          ?    3:takut      +   0      0     *0.999  0      0.001  0      0    
+     5          ?   4:senang      +   0      0      0     *1      0      0      0    
+     6          ?   4:senang      +   0      0      0     *1      0      0      0    
+     7          ?    3:takut      +   0      0     *1      0      0      0      0    
+     8          ?    3:takut      +   0      0     *0.81   0.19   0      0      0    
+     9          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    10          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    11          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    12          ?   4:senang      +   0      0      0     *1      0      0      0    
+    13          ?    5:sedih      +   0      0      0.017  0     *0.965  0.018  0    
+    14          ?    3:takut      +   0.161  0     *0.839  0      0      0      0    
+    15          ?    1:marah      +  *1      0      0      0      0      0      0    
+    16          ?   4:senang      +   0      0      0     *1      0      0      0    
+    17          ?   4:senang      +   0      0      0     *1      0      0      0    
+    18          ?   4:senang      +   0      0      0     *1      0      0      0  

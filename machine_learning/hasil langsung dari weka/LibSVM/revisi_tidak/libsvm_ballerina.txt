@@ -1,0 +1,32 @@
+=== Predictions on test set ===
+
+inst#,    actual, predicted, error, probability distribution
+     1          ?    5:sedih      +   0      0      0      0     *1      0      0    
+     2          ?    1:marah      +  *1      0      0      0      0      0      0    
+     3          ?    5:sedih      +   0      0      0      0     *1      0      0    
+     4          ?    3:takut      +   0      0     *1      0      0      0      0    
+     5          ?    1:marah      +  *1      0      0      0      0      0      0    
+     6          ?   4:senang      +   0      0      0     *1      0      0      0    
+     7          ?    5:sedih      +   0      0      0      0     *1      0      0    
+     8          ?    1:marah      +  *1      0      0      0      0      0      0    
+     9          ?    6:kaget      +   0      0      0      0      0     *1      0    
+    10          ?    1:marah      +  *1      0      0      0      0      0      0    
+    11          ?    6:kaget      +   0      0      0      0      0     *1      0    
+    12          ?    6:kaget      +   0      0      0      0      0     *1      0    
+    13          ?    6:kaget      +   0      0      0      0      0     *1      0    
+    14          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    15          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    16          ?   4:senang      +   0      0      0     *1      0      0      0    
+    17          ?    3:takut      +   0      0     *1      0      0      0      0    
+    18          ?    3:takut      +   0      0     *1      0      0      0      0    
+    19          ?    6:kaget      +   0      0      0      0      0     *1      0    
+    20          ?    3:takut      +   0      0     *1      0      0      0      0    
+    21          ?    6:kaget      +   0      0      0      0      0     *1      0    
+    22          ?    3:takut      +   0      0     *1      0      0      0      0    
+    23          ?    3:takut      +   0      0     *1      0      0      0      0    
+    24          ?    6:kaget      +   0      0      0      0      0     *1      0    
+    25          ?    6:kaget      +   0      0      0      0      0     *1      0    
+    26          ?    6:kaget      +   0      0      0      0      0     *1      0    
+    27          ?    3:takut      +   0      0     *1      0      0      0      0    
+    28          ?    6:kaget      +   0      0      0      0      0     *1      0    
+    29          ?    3:takut      +   0      0     *1      0      0      0      0 

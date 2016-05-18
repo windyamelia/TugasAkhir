@@ -272,7 +272,7 @@ public class KeywordSpotting {
         writeListToFile(listKata_after_stemming, "keywordSpotting/" + judul_cerpen + "/listKata_after_stemming.txt");
         
         KeywordSpotting ks = new KeywordSpotting();
-        ks.setHashMap(ks.readTextToHashmap("keywordSpotting/result_lexicon_noStemming.txt"));
+        ks.setHashMap(ks.readTextToHashmap("keywordSpotting/result_lexicon_noStemming_new.txt"));
         
         System.out.println("hashmap: \n");
 //        ks.printHashMap();

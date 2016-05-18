@@ -1,0 +1,29 @@
+=== Predictions on test set ===
+
+inst#,    actual, predicted, error, probability distribution
+     1          ?    5:sedih      +   0      0      0      0     *1      0      0    
+     2          ?    6:kaget      +   0      0      0      0      0     *1      0    
+     3          ?    5:sedih      +   0      0      0      0     *1      0      0    
+     4          ?    3:takut      +   0      0     *1      0      0      0      0    
+     5          ?    1:marah      +  *1      0      0      0      0      0      0    
+     6          ?   4:senang      +   0      0      0     *1      0      0      0    
+     7          ?    5:sedih      +   0      0      0      0     *1      0      0    
+     8          ?    3:takut      +   0      0     *1      0      0      0      0    
+     9          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    10          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    11          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    12          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    13          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    14          ?   4:senang      +   0      0      0     *1      0      0      0    
+    15          ?    3:takut      +   0      0     *1      0      0      0      0    
+    16          ?    3:takut      +   0      0     *1      0      0      0      0    
+    17          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    18          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    19          ?    6:kaget      +   0      0      0      0      0     *1      0    
+    20          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    21          ?    3:takut      +   0      0     *1      0      0      0      0    
+    22          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    23          ?    5:sedih      +   0      0      0      0     *1      0      0    
+    24          ?   4:senang      +   0      0      0     *1      0      0      0    
+    25          ?    3:takut      +   0      0     *1      0      0      0      0    
+    26          ?    3:takut      +   0      0     *1      0      0      0      0    

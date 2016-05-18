@@ -1,0 +1,2690 @@
+meninggalkan 1 0 1 0 1 1
+ditinggalkan 1 0 1 0 1 0
+penculikan 0 1 1 0 1 1
+benci 1 1 1 0 1 0
+mengerikan 1 1 1 0 1 1
+hina 1 1 1 0 1 1
+abnormal 0 1 0 0 0 0
+menghapuskan 1 0 0 0 0 0
+aborsi 0 1 1 0 1 0
+gagal 1 1 1 0 1 0
+mendadak 0 0 0 0 0 1
+bengkak 0 0 1 0 1 0
+bisul nanah 0 0 1 0 1 0
+tiada 0 0 1 0 1 0
+absen 0 0 0 0 1 0
+pembolos 0 0 0 0 1 0
+absolusi 0 0 0 1 0 0
+kelimpahan 0 1 0 1 0 0
+berlimpah-limpah 0 0 0 1 0 0
+salah guna 1 1 1 0 1 0
+bukan kepalang 0 0 0 0 1 0
+bukan main 0 0 0 0 1 0
+neraka 1 1 1 0 1 0
+celaka 1 1 1 0 1 1
+kebetulan 0 0 1 0 0 1
+penghargaan 0 0 0 1 0 1
+iringan 0 0 0 1 0 0
+menyelesaikan 0 0 0 1 0 0
+kesampaian 0 0 0 1 0 0
+terkutuk 1 0 1 0 1 0
+tuduhan 1 1 0 0 0 0
+sakit 1 1 1 0 1 0
+mencapai 0 0 0 1 0 0
+prestasi 0 0 0 1 0 0
+akrobat 0 0 1 1 0 0
+ditindaklanjuti 1 1 0 0 0 0
+mengadili 0 1 1 0 0 0
+terpuji 0 0 0 1 0 1
+kekaguman 0 0 0 1 0 0
+peringatan 1 0 1 0 0 0
+menarik 0 0 0 1 0 0
+pemujaan 0 0 0 1 0 0
+cinta 0 0 0 1 0 0
+terapung-apung 0 0 1 0 1 0
+zina 0 1 0 0 1 0
+maju 0 0 1 1 0 1
+muka 0 0 1 1 0 1
+kedatangan 0 0 0 1 0 0
+musuh 1 1 1 0 1 0
+merugikan 1 1 1 0 1 0
+kesulitan 1 1 1 0 1 1
+pembelaan 1 0 0 1 0 0
+advokasi 1 0 0 1 0 0
+estetika 0 0 0 1 0 0
+kasih sayang 0 0 0 1 0 0
+menimpa 0 0 1 0 1 0
+penderitaan 1 1 1 0 1 0
+kemakmuran 0 0 0 1 0 0
+penghinaan 1 1 1 0 1 1
+takut 1 0 1 0 0 0
+akibat 1 1 1 0 1 0
+efek 1 1 1 0 1 0
+diperburuk 1 1 0 0 1 0
+kejengkelan 1 1 0 0 0 0
+agresi 1 0 1 0 0 0
+agresif 1 0 1 0 0 0
+penyerang 1 0 1 0 0 0
+terperanjat 0 1 1 0 0 1
+gelisah 1 1 1 0 1 1
+agitasi 1 0 0 0 0 0
+menyiksa 0 0 1 0 0 0
+alarm 0 0 1 0 0 1
+alkoholisme 1 1 1 0 1 0
+kewaspadaan 0 0 1 0 0 1
+siaga 0 0 1 0 0 1
+asing 0 1 1 0 0 0
+menjauhkan 1 1 0 0 0 0
+terasing 0 0 0 0 1 0
+pengasingan 1 1 1 0 1 0
+hidup 0 0 1 1 0 1
+dugaan 1 0 0 0 0 0
+daya tarik 0 0 0 1 0 1
+memikat 0 0 0 1 0 1
+aloha 0 0 0 1 0 0
+pertengkaran 1 0 0 0 0 0
+menakjubkan 0 0 0 1 0 1
+mengagumkan 0 0 0 1 0 1
+luar biasa 0 0 1 1 0 1
+ambisi 0 0 0 1 0 0
+ambulans 0 0 1 0 0 0
+penyergapan 1 0 1 0 0 1
+amin 0 0 0 1 0 0
+ramah 0 0 0 1 0 0
+amonia 0 1 0 0 0 0
+amnesti 0 0 0 1 0 0
+pengampunan 0 0 0 1 0 0
+asmara 0 0 0 1 0 0
+amfetamin 0 1 0 0 0 0
+menghibur 0 0 0 1 0 0
+senang 0 0 0 1 0 0
+lucu 0 1 0 1 0 0
+kocak 0 1 0 1 0 0
+anaconda 0 1 1 0 0 0
+anarkisme 1 0 1 0 0 0
+anarkis 1 0 1 0 0 0
+anarki 1 0 1 0 0 0
+laknat 1 1 1 0 1 0
+pelabuhan 0 0 0 0 1 0
+malaikat 0 0 0 1 0 1
+suci 0 0 0 1 0 1
+kemarahan 1 0 0 0 0 0
+angina 0 0 1 0 0 0
+bersemangat 0 0 0 1 0 0
+dendam 1 1 1 0 1 1
+membinasakan 1 0 1 0 1 0
+menghancurkan 1 0 1 0 1 0
+musnah 1 0 1 0 1 0
+mengganggu 1 1 0 0 0 0
+menjengkelkan 1 1 0 0 0 0
+pembatalan 0 0 0 0 1 0
+anomali 0 0 1 0 0 1
+antagonisme 1 0 0 0 0 0
+antagonis 1 0 0 0 0 0
+antikristus 1 1 1 0 0 0
+antipati 1 1 0 0 0 0
+antisosial 1 1 1 0 1 0
+pertentangan 1 0 0 0 1 0
+cemas 1 0 1 0 1 1
+apatis 0 0 0 0 1 0
+kutu 0 1 1 0 0 0
+minta maaf 0 0 0 0 1 0
+hantu 0 0 1 0 0 1
+radang usus buntu 0 0 1 0 1 0
+tepuk tangan 0 0 0 1 0 1
+apresiasi 0 0 0 1 0 0
+menangkap 0 0 1 0 0 1
+penangkapan 0 0 1 0 0 0
+menyetujui 0 0 0 1 0 0
+sangat rajin 0 0 0 1 0 0
+memperdebatkan 1 0 0 0 0 0
+argumen 1 0 0 0 0 0
+kering 0 0 0 0 1 0
+gersang 0 0 0 0 1 0
+persenjataan 1 0 1 0 0 0
+baja 0 0 1 0 0 0
+dakwaan 1 0 1 0 1 0
+sombong 1 1 0 0 0 0
+arsenikum 0 1 1 0 1 0
+seni 0 0 0 1 1 1
+artileri 0 0 1 0 0 0
+malu 0 1 1 0 1 0
+abu 0 0 0 0 1 0
+aspirasi 0 0 0 1 0 1
+bercita-cita 0 0 0 1 0 0
+menyerang 1 0 1 0 0 1
+penyerang 1 0 1 0 1 0
+pembunuh 1 1 1 0 1 1
+membunuh 1 0 1 0 1 0
+penilaian 1 0 1 0 1 1
+bajingan 1 1 1 0 1 0
+mengherankan 0 0 0 0 0 1
+tersesat 0 0 1 0 0 0
+kesasar 0 0 1 0 0 0
+rumah sakit jiwa 0 0 1 0 0 0
+kesenjangan 0 1 0 0 0 0
+asimetri 0 1 0 0 0 0
+aterosklerosis 0 0 1 0 1 0
+menebus 0 0 0 1 0 0
+bertobat 0 0 0 1 0 0
+kekejaman 1 1 1 0 1 0
+redaman 0 0 0 0 1 0
+pengacara 1 1 1 0 0 0
+akuntan 0 0 1 0 0 0
+penuh harapan 0 0 0 1 0 0
+tegang 0 0 1 0 1 0
+autentik 0 0 0 1 0 0
+autopsi 0 1 1 0 1 0
+salju longsor 0 0 1 0 1 1
+ketamakan 1 1 0 0 0 0
+pembalas 1 0 0 0 0 0
+enggan 1 1 1 0 0 0
+menghindari 1 1 1 0 0 0
+penghindaran 0 0 1 0 1 0
+menghadiahkan 0 0 0 1 0 1
+kejanggalan 0 1 0 0 0 0
+babon 0 1 0 0 0 0
+yakis 0 1 0 0 0 0
+bayi 0 0 1 1 0 1
+tulang punggung 1 0 0 0 0 0
+ke belakang 0 1 0 0 0 0
+mundur 0 0 0 0 1 0
+bakteri 0 1 1 0 1 1
+buruk 1 1 1 0 1 0
+kejahatan 1 1 1 0 0 0
+juru sita 0 0 1 0 0 0
+umpan 0 0 1 0 0 0
+balsem 0 0 0 1 0 0
+kutukan 1 1 1 0 0 0
+letusan 1 1 1 0 1 1
+membuang 1 1 1 0 1 0
+dibuang 1 0 1 0 1 0
+pembuangan 1 1 0 0 1 0
+bangkrut 1 1 1 0 1 0
+perjamuan 0 0 0 1 0 0
+pembaptisan 0 0 0 1 0 0
+duri 1 0 1 0 0 0
+biadab 1 1 1 0 1 0
+muntah 0 1 0 0 0 0
+gonggong 1 0 0 0 0 0
+mandul 0 0 0 0 1 0
+barikade 1 1 1 0 1 0
+pembatas 1 0 1 0 1 0
+rintangan 1 0 1 0 1 0
+gerobak dorong 0 1 0 0 0 0
+bola basket 0 0 0 1 0 0
+basket 0 0 0 1 0 0
+benteng pertahanan 1 0 0 0 0 0
+batalion 1 0 0 0 0 0
+memukul berulang-ulang 1 0 1 0 0 0
+belur 0 0 1 0 1 0
+baterai 1 0 0 0 0 0
+pertempuran 1 0 0 0 0 0
+berjuang 1 0 1 0 1 0
+medan perang 0 0 1 0 0 0
+kawasan tempur 0 0 1 0 0 0
+bayonet 1 0 1 0 0 0
+sangkur 1 0 1 0 0 0
+pantai 0 0 0 1 0 0
+sorotan 0 0 0 1 0 0
+berseri-seri 0 0 0 1 0 0
+menanggung 1 0 1 0 0 0
+kasar 1 1 1 0 1 0
+jahanam 1 1 1 0 0 0
+bangsat 1 1 1 0 0 0
+jijik 1 1 1 0 1 0
+pukulan 1 0 1 0 1 0
+kecantikan 0 0 0 1 0 0
+indah 0 0 0 1 0 1
+mempercantik 0 0 0 1 0 0
+keindahan 0 0 0 1 0 0
+lebah 1 0 1 0 0 0
+tawon 1 0 1 0 0 0
+bir 0 0 0 1 0 0
+melindungi 0 0 0 1 0 0
+mengemis 0 0 0 0 1 0
+pengemis 0 0 0 0 1 0
+raksasa binatang 0 0 1 0 0 0
+meremehkan 1 1 1 0 1 1
+berperang 1 0 1 0 1 0
+puputan 1 0 0 0 0 0
+embusan 1 0 0 0 0 0
+sabuk 1 0 1 0 0 0
+ikat pinggang 1 0 1 0 0 0
+kebajikan 0 0 0 1 0 0
+jinak 0 0 0 1 0 0
+berduka 0 0 0 0 1 0
+kehilangan 1 0 1 0 1 0
+pengamuk 1 0 0 0 0 0
+bengis 1 1 1 0 1 0
+mengkhianati 1 1 0 0 1 1
+bertunangan 0 0 0 1 0 0
+awas 0 0 1 0 0 0
+limbung 0 0 1 0 0 1
+kebingungan 1 0 1 0 1 1
+prasangka 1 0 0 0 0 0
+bercekcok 1 1 0 0 0 0
+usung jenazah 0 0 1 0 1 0
+fanatik 1 1 1 0 1 1
+keras pendirian 1 1 1 0 1 0
+biopsi 0 0 1 0 0 0
+kelahiran 0 0 1 1 0 0
+ulang tahun 0 0 0 1 0 1
+tempat lahir 1 0 0 0 0 0
+gerutu 1 1 1 0 1 0
+perempuan jalang 1 1 1 0 1 0
+lacur 1 1 1 0 1 0
+pahit 1 1 0 0 1 0
+kepahitan 1 1 0 0 1 0
+aneh 0 1 1 0 1 1
+hitam 0 0 0 0 1 0
+pemerasan 1 0 1 0 0 0
+santase 1 0 1 0 0 0
+kegelapan 1 0 1 0 1 0
+menyalahkan 1 1 0 0 0 0
+menghujat 1 1 0 0 0 0
+penghujatan 1 0 0 0 0 0
+ledakan 1 0 1 1 1 1
+menyolok mata 1 1 0 0 0 0
+menyolok 1 1 0 0 0 0
+jolakan 1 0 0 0 0 0
+suram 1 1 1 0 1 0
+pendarahan 0 1 1 0 1 0
+perdarahan 0 1 1 0 1 0
+cacat 1 1 1 0 1 0
+memberkati 0 0 0 1 0 0
+diberkati 0 0 0 1 0 0
+berkat 0 0 0 1 0 1
+hawar 0 1 1 0 1 0
+merusakkan 0 1 0 0 1 0
+menutup mata 0 0 1 0 0 1
+membabi buta 0 0 0 0 1 0
+kebutaan 0 0 0 0 1 0
+kebahagiaan 0 0 0 1 0 0
+melepuh 0 1 0 0 0 0
+membombardir 1 0 1 0 0 1
+bengkak 0 1 0 0 0 0
+gumpal 0 1 1 0 0 0
+blokade 1 0 1 0 1 0
+pertumpahan darah 1 1 1 0 1 1
+haus darah 1 1 1 0 0 0
+berdarah 1 1 1 0 1 0
+berkembang 0 0 0 1 0 0
+mekar 0 0 0 1 0 0
+murung 1 0 0 0 1 0
+kekeliruan 0 1 0 0 1 0
+palsu 1 1 0 0 0 0
+bisul 0 1 0 0 0 0
+riuh 1 0 0 1 0 0
+bom 1 0 1 0 1 1
+sumber keuntungan 0 0 0 1 0 0
+perbudakan 1 1 1 0 1 0
+bonus 0 0 0 1 0 1
+kebosanan 0 0 0 0 1 0
+kibul 0 0 0 0 1 0
+jurang 0 1 1 0 0 0
+dermawan 0 0 0 1 0 1
+murah hati 0 0 0 1 0 1
+karunia 0 0 0 1 0 0
+buket 0 0 0 1 0 0
+karangan bunga 0 0 0 1 0 0
+usus 0 1 0 0 0 0
+tinju 1 0 1 0 1 1
+anak laki-laki 0 1 0 0 0 0
+dedak 0 1 0 0 0 0
+ribut 1 1 1 0 0 1
+kurang ajar 1 1 1 0 1 0
+putus 0 0 1 0 1 1
+pisah 1 1 0 0 1 0
+penyuapan 0 1 0 0 0 0
+penyogokan 0 1 0 0 0 0
+pengantin 0 0 0 1 0 0
+mempelai 0 0 0 1 0 0
+gadis pengiring pengantin 0 0 0 1 0 0
+brigade 0 0 1 0 0 0
+menerangi 0 0 0 1 0 1
+cemerlang 0 0 0 1 0 0
+belerang 1 0 1 0 0 0
+memanggang 1 0 0 1 0 0
+pecah 1 0 1 0 1 1
+bokek 1 0 1 0 1 1
+bordil 0 1 0 0 0 0
+rumah pelacur 0 1 0 0 0 0
+ikhwan 0 0 0 1 0 0
+beban 1 0 1 0 1 0
+brutal 1 0 1 0 0 0
+kebrutalan 1 0 1 0 0 0
+kasar 1 0 1 0 1 0
+sobat 0 0 0 1 0 0
+salah 0 1 1 0 0 0
+momok 1 0 1 0 1 0
+menggertak 1 0 1 0 0 0
+gelandangan 1 1 1 0 1 0
+lubang perlindungan 0 0 1 0 0 0
+berat 1 1 1 1 1 1
+birokrat 0 1 0 0 0 0
+pencuri 1 1 1 0 1 1
+pemakaman 1 0 1 0 1 0
+dikuburkan 0 0 1 0 1 0
+menutup perkara 1 1 1 0 1 0
+olok-olok 0 0 0 0 0 1
+olokan 0 0 0 0 0 1
+dibakar 0 1 0 0 0 0
+gosong 0 1 0 0 0 0
+ciuman 0 0 0 1 0 1
+pembantai 1 1 1 0 0 0
+berdengung 0 0 1 0 0 0
+komplotan rahasia 0 0 1 0 0 0
+kabel 0 0 0 0 0 1
+bunyi hiruk-pikuk 1 1 0 0 0 0
+mayat 0 1 1 0 1 1
+kandang 0 1 0 0 1 0
+sangkar 0 1 0 0 1 0
+bencana 1 1 1 0 1 1
+kapalan 1 1 0 0 0 0
+kamuflase 0 0 0 0 0 1
+penyamaran 0 0 0 0 0 1
+disamarkan 0 0 0 0 0 1
+kampanye 1 0 1 0 0 0
+membatalkan 0 0 0 0 1 1
+kanker 1 1 1 0 1 0
+mala 1 1 1 0 1 0
+jujur 1 1 1 1 0 1
+memukul tongkat 1 0 1 0 0 0
+karat 1 1 0 0 0 0
+kanibal 0 1 1 0 0 0
+kanibalisme 0 1 0 0 0 0
+meriam 1 0 1 0 0 0
+kanon 1 0 1 0 0 0
+memikat hati 0 0 0 1 0 1
+tahanan 1 0 1 0 1 0
+penahan 0 0 1 0 0 0
+bangkai  0 1 1 0 1 0
+bisul kanker 0 0 1 0 1 0
+kecerobohan 1 1 0 0 0 0
+karies 0 1 0 0 0 0
+pembunuhan massal 1 1 1 0 1 1
+karnivora 0 0 1 0 0 0
+nyanyi gembira 0 0 0 1 0 0
+peluru 0 0 1 0 0 0
+kasus 0 0 1 0 1 0
+kas 1 0 1 1 0 0
+peti mati 0 0 1 0 1 0
+korban kecelakaan 1 0 1 0 1 0
+orang tewas 1 0 1 0 1 0
+katarak 0 0 1 0 1 0
+malapetaka 1 1 1 0 1 0
+katekese 0 1 0 0 0 0
+katedral 0 0 0 1 0 0
+waspada 0 0 1 0 0 0
+hati-hati 0 0 1 0 0 0
+terkenal 0 0 0 1 0 0
+merayakan 0 0 0 1 0 1
+selebriti 1 1 0 1 0 1
+angkasa 0 0 0 1 0 0
+sensor 1 1 1 0 0 0
+upacara 0 0 0 1 0 1
+pajak 0 1 0 0 1 0
+sekam 1 0 1 0 0 0
+mengecewakan 1 1 0 0 1 0
+tantangan 1 1 1 0 0 0
+juara 0 0 0 1 0 0
+kesempatan 0 0 0 0 0 1
+perubahan 1 1 1 0 0 0
+luntur 0 0 0 0 0 1
+berubah-ubah 0 0 0 0 0 1
+lagu gereja 1 0 0 1 0 1
+kacau 1 1 1 0 1 1
+semrawut 1 0 0 0 0 0
+dibebankan 0 0 1 0 1 0
+sosial 0 0 0 1 0 0
+amal 0 0 0 1 0 0
+bahagia 0 0 0 1 0 0
+mencontek 1 1 0 0 0 0
+bersorak 0 0 0 1 0 1
+riang 0 0 0 1 0 1
+kegembiraan 0 0 0 1 0 0
+sorak-sorai 0 0 0 1 0 0
+menghargai 0 0 0 1 1 1
+bohong 1 1 0 0 1 1
+anak 0 0 0 1 0 0
+masa kecil 0 0 0 1 0 0
+masa kanak-kanak 0 0 0 1 0 0
+angan-angan 0 0 1 0 0 1
+kicauan 0 0 0 1 0 0
+cokelat 0 0 0 1 0 0
+paduan suara 0 0 0 1 0 0
+tersedak 1 0 0 0 1 0
+kolera 0 1 1 0 1 0
+kronis 0 0 0 0 1 0
+tertawa kecil 0 0 0 1 0 1
+tergelak-gelak 0 0 0 1 0 1
+cekikikan 0 0 0 1 0 1
+gereja 0 0 0 1 0 0
+beradab 0 0 0 1 0 0
+sopan 0 0 0 1 0 0
+penuntut 1 1 0 0 0 0
+keributan  1 1 0 0 0 1
+tepuk tangan 0 0 0 1 0 0
+bentrokan 1 0 0 0 0 0
+bentrok 1 0 1 0 0 0
+klasik 0 0 0 1 0 0
+cakar 1 0 1 0 0 0
+bersih 0 0 0 1 0 0
+menggantungkan diri 0 0 1 0 0 0
+klimaks 0 0 0 1 0 1
+keeratan 0 0 0 1 0 0
+penutupan 0 0 0 1 1 0
+mendung 0 0 0 0 1 0
+berawan 0 0 0 0 1 0
+badut 0 0 0 1 0 1
+canggung 0 1 0 0 0 0
+kobra 0 0 1 0 0 0
+kokain 0 0 0 0 1 0
+memaksa 1 1 1 0 0 0
+paksaan 1 1 1 0 1 0
+kedinginan 1 1 1 0 1 0
+runtuh 1 1 1 0 1 0
+roboh 1 1 1 0 1 0
+tabrakan 1 0 1 0 1 1
+kongkalikong 1 1 1 0 1 0
+koma 0 0 1 0 1 0
+pingsan 0 0 1 0 1 1
+pejuang 1 0 1 0 0 0
+agresif 1 0 1 0 0 0
+kenyamanan 0 0 0 1 0 0
+memperingati 0 0 0 1 1 0
+mengenangi 0 0 0 1 1 0
+perayaan 0 0 0 1 0 0
+penguburan 0 0 0 0 1 0
+komuni 0 0 0 1 0 0
+komunisme 1 0 1 0 1 0
+teman 0 0 0 1 0 0
+iba 0 0 1 0 0 0
+megimbangi 0 0 0 1 0 1
+mengeluh 1 0 0 0 1 0
+keluhan 1 1 0 0 1 0
+melengkapi 0 0 0 1 0 1
+komplemen 0 0 0 1 0 1
+penyelesaian 0 0 0 1 0 0
+menyulitkan 1 0 0 0 0 0
+merumitkan 1 0 0 0 0 0
+meruwetkan 1 0 0 0 0 0
+mempersusah 1 0 0 0 0 0
+pujian 0 0 0 1 0 1
+kompos 0 1 0 0 0 0
+kompres 1 0 0 0 0 0
+keharusan 1 0 0 0 0 0
+menyembunyikan 0 1 1 0 1 1
+merahasiakan 0 1 1 0 1 1
+sembunyi 0 0 1 0 0 1
+penyembunyian 1 0 1 0 0 0
+perahasaiaan 1 0 1 0 0 0
+prihatin 0 0 1 0 1 0
+perdamaian 0 0 0 1 0 0
+gegar 1 0 0 0 1 0
+mengutuk 1 0 0 0 0 0
+penghukuman 1 1 1 0 1 0
+belasungkawa 0 0 0 0 1 0
+pengakuan 0 0 1 0 1 1
+kepercayaan 0 0 1 1 0 0
+keyakinan 0 0 1 1 0 0
+konfidensi 0 0 1 1 0 0
+membatasi 1 1 1 0 1 0
+mengurung 1 1 1 0 1 0
+terbatas 1 1 1 0 1 0
+kurungan 1 0 1 0 1 0
+menyita 1 0 1 0 1 0
+membeslah 1 0 1 0 1 0
+kebakaran besar 1 0 1 0 0 0
+konflik 1 0 1 0 1 0
+menghadapi 1 0 0 0 0 0
+persetubuhan 0 1 0 0 0 0
+menyulap 0 0 0 0 0 1
+penaklukan 1 1 1 0 1 0
+konsekrasi 0 0 0 1 1 0
+melipur 0 0 0 0 1 0
+konspirasi 0 0 1 0 0 0
+konspirator 1 1 1 0 0 0
+bersekongkol 0 0 1 0 0 0
+berkomplot 0 0 1 0 0 0
+kekhawatiran 1 0 1 0 0 0
+sembelit 0 1 0 0 0 0
+konstipasi 0 1 0 0 0 0
+ketidakleluasaan 1 0 1 0 1 0
+penularan 0 1 1 0 1 0
+berjangkit 0 1 1 0 1 0
+mencemari 0 1 0 0 0 0
+mencemarkan 0 1 0 0 0 0
+kejangkitan 0 1 1 0 1 0
+ketularan 0 1 1 0 1 0
+dikontaminasi 0 1 1 0 1 0
+kontaminasi 0 1 0 0 0 0
+puas 0 0 0 1 0 1
+kontensius 1 1 1 0 0 0
+barang selundupan 1 1 1 0 0 0
+barang gelap 1 1 1 0 0 0
+kontroversial 1 0 0 0 0 0
+narapidana 1 1 1 0 1 0
+polisi 0 0 1 0 0 0
+peniru 1 1 0 0 0 0
+pemahkotaan 0 0 0 1 0 0
+penabalan 0 0 0 1 0 0
+jenazah 0 1 0 0 1 0
+korosif 0 0 1 0 0 0
+merusak 1 1 1 0 1 0
+korupsi 0 1 0 0 0 0
+dipan 0 0 0 0 1 0
+ranjang 0 0 0 0 1 0
+batuk 0 1 0 0 0 0
+konselor 1 0 1 0 0 0
+kup 1 0 0 0 0 1
+pukulan mendadak 1 0 0 0 0 1
+perwira 0 0 1 0 0 0
+pengadilan 1 1 1 0 0 0
+mahkamah 1 1 1 0 0 0
+pacaran 0 0 0 1 0 0
+teluk kecil 0 1 1 1 0 0
+pengecut 1 1 1 0 1 0
+kekecutan 0 0 1 0 0 0
+malu sipu 0 0 1 0 0 0
+anjing hutan 0 0 1 0 0 0
+pemarah 1 1 0 0 1 0
+retak 1 0 1 0 0 0
+membuai 0 0 0 1 0 0
+buaian 0 0 0 1 0 0
+dondangan 0 0 0 1 0 0
+ngambek 1 0 0 0 0 0
+dongkol 1 0 0 0 0 0
+sampah 0 1 0 0 1 0
+menabrak 1 0 1 0 1 1
+menumbuk 1 0 1 0 1 1
+bertabrakan 1 0 1 0 1 1
+merangkak 0 1 0 0 0 0
+gila 1 1 1 0 1 0
+krim 0 0 0 1 0 1
+membuat 0 0 0 1 0 0
+menciptakan 0 0 0 1 0 0
+makhluk 0 1 1 0 0 0
+kremasi 0 0 0 0 1 0
+pembakaran mayat 0 0 0 0 1 0
+crescendo 0 0 0 1 0 1
+kriminal 1 1 1 0 1 0
+pidana 1 1 1 0 1 0
+kriminalitas 1 1 1 0 0 0
+ngeri 0 1 1 0 1 0
+melumpuhkan 1 0 1 0 1 0
+memincangkan 1 0 1 0 1 0
+kudung 0 0 0 0 1 0
+kritik 1 0 0 0 1 0
+kritikan 1 0 0 0 1 0
+kecam 1 0 0 0 1 0
+mengkritik 1 1 1 0 1 0
+buaya 0 0 1 0 0 0
+menyilangkan 1 0 1 0 1 0
+menyebrang 1 0 1 0 1 0
+mendekam 0 0 1 0 0 0
+berjongkok 0 0 1 0 0 0
+mirip mahkota 0 0 0 1 0 1
+penyaliban 1 1 1 0 1 0
+mentah 0 1 0 0 0 0
+ambruk 0 0 0 0 1 0
+kegentingan 1 0 0 0 0 0
+perang salib 1 0 1 0 0 0
+hancur 1 1 1 0 1 0
+tertumbuk 1 1 1 0 1 0
+penumpasan 1 1 1 0 0 0
+keras 1 1 1 0 1 0
+menangis 0 0 0 0 1 0
+ruang bawah tanah 0 0 1 0 1 0
+suami istri tidak setia 0 1 0 0 0 0
+pelukan 0 0 0 1 0 0
+mengemong 0 0 0 1 0 0
+kultus 0 0 1 0 0 0
+bagong 0 0 0 0 1 0
+menangkupkan 0 1 1 0 1 0
+melikukkan 0 1 1 0 1 0
+bekam 0 1 1 0 1 0
+keingintahuan 0 0 0 0 0 1
+kutuk 1 1 0 0 0 0
+degil 1 0 0 0 0 0
+pemotong 0 0 1 0 0 0
+kejam 1 1 1 0 1 0
+sianida 0 0 1 0 0 0
+topan 0 0 1 0 0 1
+kista 0 0 1 0 1 0
+berkecimpung 1 1 0 0 0 1
+pisau belati 0 0 1 0 0 0
+kerusakan 1 1 0 0 1 0
+ganti rugi 0 0 0 0 1 0
+menari 0 0 0 1 0 0
+pesolek 0 1 0 0 0 0
+bahaya 0 0 1 0 1 0
+berbahaya 1 1 1 0 0 0
+lembab 0 1 0 0 0 0
+gelap 0 0 0 0 1 0
+menggelapkan 0 0 1 0 1 0
+digelapkan 0 0 1 0 1 0
+sayang 0 0 0 1 0 0
+anak panah 0 0 1 0 0 0
+menerpa 1 0 1 0 1 0
+anak perempuan 0 0 0 1 0 0
+fajar 0 0 0 1 0 1
+mematikan 1 1 1 0 1 0
+berurusan 0 0 0 1 0 1
+kematian 1 1 1 0 1 1
+penyelewengan 0 1 1 0 0 0
+puing 0 1 1 0 1 0
+hutang 1 1 1 0 1 0
+kebusukan 0 0 1 0 1 0
+busuk 0 1 0 0 1 0
+mendiang 0 0 0 0 1 0
+penipuan 1 1 1 0 1 1
+culas 0 1 0 0 1 0
+tipu 1 1 0 0 1 1
+membusuk 0 1 1 0 1 0
+penguraian 0 1 1 0 1 0
+umpan 0 0 0 0 1 0
+pemikat 0 0 0 0 1 0
+perbuatan 0 0 0 0 0 1
+fitnah 1 1 1 0 0 0
+dikalahkan 0 0 0 0 1 0
+membela 0 0 1 0 0 0
+terdakwa 1 0 1 0 1 0
+pertahanan 1 0 1 0 0 0
+tidak daya 0 0 1 0 1 0
+menantang 1 0 0 0 0 0
+menggemboskan 1 0 0 0 1 0
+mengempiskan 1 0 0 0 1 0
+deflasi 0 0 1 0 0 0
+merusak bentuk 0 1 0 0 0 0
+kelainan bentuk 0 1 1 0 1 0
+menggelapkan uang 1 1 0 0 0 0
+menentang 1 0 1 0 1 1
+degenerasi 1 1 0 0 1 0
+menurunkan 0 1 0 0 1 0
+menghinakan 0 1 1 0 1 0
+menunda 1 1 1 0 1 0
+lezat 0 0 0 1 0 0
+enak 0 0 0 1 0 0
+menyenangkan 0 0 0 1 0 0
+gembira 0 0 0 1 0 1
+badung 1 1 0 0 0 0
+nakal 1 1 0 0 0 0
+mengigau 0 0 0 0 1 0
+igauan 0 1 0 0 1 0
+pembebasan 1 1 0 1 0 1
+pelepasan 1 1 0 1 0 1
+penyelamatan 1 1 0 1 0 1
+membanjiri 0 0 1 0 1 1
+khayalan 1 0 1 0 1 0
+berkhayal 1 0 1 0 0 0
+permintaan 1 0 0 0 0 0
+singkat akal 0 0 1 0 1 0
+menggempurkan 1 0 0 0 1 0
+setan 1 1 1 0 1 0
+jahat 1 1 1 0 1 0
+demonstratif 0 0 0 1 1 0
+demoralisasi 0 0 1 0 1 0
+membantah 0 0 0 0 1 0
+mencela 1 1 1 0 1 0
+kedokteran gigi 0 0 1 0 0 0
+pengaduan 1 1 1 0 0 0
+menyangkal 1 1 0 0 0 0
+berangkat 0 0 0 0 1 0
+ketergantungan 0 0 1 0 1 0
+tercela 1 1 1 0 1 0
+menyesalkan 1 1 0 0 1 0
+mengusir 1 0 1 0 1 0
+deportasi 1 0 1 0 1 0
+bejat 1 1 1 0 1 0
+jatuh harga 1 1 0 0 0 0
+disusutkan 1 1 1 0 1 0
+penyusutan 0 0 1 0 0 0
+menekan 1 0 1 0 1 0
+murung 1 0 1 0 1 0
+muram 0 1 0 0 1 0
+depresi 0 0 0 0 1 0
+depresif 0 0 0 0 1 0
+perampasan 1 1 1 0 1 1
+ejekan 1 1 0 0 0 0
+cemooh 1 1 0 0 0 0
+cerca 1 1 0 0 0 0
+keturunan 0 0 1 0 1 0
+penodaan 1 1 1 0 1 0
+penajisan 1 1 1 0 1 0
+gurun 1 1 1 0 1 0
+sepi 1 1 1 0 1 0
+pantas menerima 1 0 0 0 0 0
+berhenti 1 1 0 0 0 0
+kesedihan 0 0 1 0 1 0
+putus asa 1 1 1 0 1 0
+berputus asa 0 0 1 0 1 0
+memandang rendah 1 1 0 0 0 0
+memandang hina 1 1 0 0 0 0
+despotisme 1 1 1 0 1 0
+tujuan 0 0 1 1 1 1
+miskin 1 1 1 0 1 0
+perusak 1 0 1 0 0 0
+pengrusakan 1 0 0 0 0 0
+destruktif 1 1 1 0 0 0
+penahanan 1 1 1 0 1 0
+memburuk 0 0 1 0 1 0
+merosotkan 0 0 1 0 1 0
+kemerosotan 1 1 1 0 1 0
+meledakkan 0 0 1 0 0 1
+mengurangi 1 0 1 0 1 0
+penghancuran 1 0 1 0 1 1
+taat 0 0 1 1 0 0
+diagnosa 0 0 1 0 0 0
+berlian 0 0 0 1 0 0
+popok 0 1 0 0 0 0
+diare 0 1 0 0 0 0
+buku harian 0 0 0 1 0 0
+cacian 1 1 0 0 0 0
+diktator 0 0 1 0 0 0
+diktatoris 1 0 0 0 0 0
+adikara 1 0 0 0 0 0
+kediktatoran 1 1 1 0 1 0
+berbeda 0 0 0 0 0 1
+sulit 0 0 1 0 0 0
+tanggul 0 0 1 0 0 0
+bobrok 0 1 0 0 1 0
+dinosaurus 0 0 1 0 0 0
+kotor 0 1 0 0 0 0
+kotoran 0 1 0 0 0 0
+berselisih 1 0 0 0 0 0
+dianulir 1 1 1 0 1 0
+menghilang 0 0 1 0 0 0
+kecewa 1 1 0 0 1 0
+kekecewaan 1 1 0 0 1 0
+celaan 0 0 0 0 1 0
+pencelaan 0 0 0 0 1 0
+ditolak 1 0 0 0 1 0
+disiplin 0 0 1 0 0 0
+melepaskan 1 1 0 0 0 0
+perubahan warna 0 1 0 0 0 0
+dihitamkan 0 1 0 0 1 0
+kegelisahan 0 0 0 0 1 0
+memutuskan 0 0 0 0 1 0
+terputus 0 0 0 0 1 0
+rungutan 1 1 1 0 1 0
+pemegatan 0 1 1 0 1 0
+perselisihan 1 1 0 0 0 0
+mengecilkan hati 0 0 1 0 1 0
+mendiskriminasikan 1 0 0 0 1 0
+diskriminatif 0 1 0 0 0 0
+diskriminasi 1 1 1 0 1 0
+penyakit 1 1 1 0 1 0
+aib 1 1 0 0 1 0
+ternoda 1 1 0 0 1 0
+memalukan 1 1 0 0 1 0
+menjijikkan 1 1 1 0 1 0
+berkecil hati 0 0 0 0 1 0
+disinformasi 1 0 1 0 0 0
+kecemasan 1 0 1 0 1 1
+pemotongan 0 1 1 0 1 0
+pemecatan 1 1 1 0 1 1
+pembangkangan 1 1 0 0 0 0
+bandel 1 0 0 0 0 0
+menginjak-injak 1 1 0 0 0 0
+kekacauan 1 1 1 0 1 0
+disparitas 1 1 0 0 1 0
+menghilangkan 0 0 0 0 1 0
+terlantar 1 1 1 0 1 0
+kepedaran 1 1 1 0 1 0
+direbut 1 0 1 0 1 0
+percekcokan 1 0 0 0 0 0
+diskualifikasi 1 1 0 0 1 0
+diabaikan 0 1 0 0 0 0
+jelek 1 1 1 0 1 0
+gangguan 1 0 1 0 1 1
+pembedahan 0 1 0 0 0 0
+pertikaian 1 0 0 0 0 0
+pembubaran 1 0 1 0 1 1
+disonansi 1 0 0 0 0 0
+kebencian 0 1 0 0 0 0
+piuh 0 1 0 0 0 0
+terdistraksi 1 0 0 0 0 0
+kesukaran 1 1 1 0 1 1
+tertekan 0 0 1 0 0 0
+ketidakpercayaan 1 1 1 0 0 0
+terganggu 1 0 0 0 1 0
+bekas 1 0 0 0 0 0
+lagu pendek 0 0 0 1 0 0
+pengalihan 0 0 0 0 0 1
+perceraian 1 1 1 0 1 1
+keputusasaan 0 0 0 0 1 0
+sedekah 0 0 0 0 1 0
+boneka 0 0 0 1 0 0
+lumba-lumba 0 0 0 1 0 1
+dominan 0 0 1 0 0 0
+mendominasi 1 0 1 0 0 0
+dominasi 1 0 1 0 1 0
+kekuasaan 0 0 1 0 0 0
+keledai 0 1 0 0 0 0
+ajal 0 0 1 0 0 0
+ditakdirkan 0 0 1 0 1 0
+kiamat 1 1 1 0 1 0
+keraguan 0 0 1 0 1 0
+merpati 0 0 0 1 0 0
+kejatuhan 0 0 1 0 1 0
+menjemukan 0 0 0 0 1 0
+naga 0 0 1 0 0 0
+ketakutan 0 0 1 0 1 1
+liur 0 1 0 0 0 0
+menenggelamkan 0 0 1 0 1 0
+dibius 0 0 0 0 1 0
+ragu-ragu 0 0 1 0 0 0
+duel 1 0 1 0 0 0
+kusam 0 0 0 0 1 0
+pudar 0 0 0 0 1 0
+penjara gelap bawah tanah 0 0 1 0 0 0
+menipu 1 0 0 0 0 0
+muka dua 1 0 0 0 0 0
+dikerdilkan 0 0 1 0 1 0
+sekarat 1 1 1 0 1 0
+dinamis 0 0 0 0 0 1
+disentri 0 1 0 0 1 0
+hasrat 0 0 0 1 0 1
+asik 0 0 0 1 0 1
+keinginan 0 0 0 1 0 0
+gempa bumi 1 0 1 0 1 1
+pendidikan 0 0 0 1 0 0
+belut 0 0 1 0 0 0
+patung 1 0 0 0 0 0
+ejakulasi 0 0 0 1 0 1
+penyemburan 0 0 0 1 0 1
+sikut 1 0 0 0 0 0
+elektrik 0 0 0 1 0 1
+keanggunan 0 0 0 1 0 0
+kemolekan 0 0 0 1 0 0
+anggun 0 0 0 1 0 0
+elevasi 0 0 1 1 0 0
+penyisihan 1 1 1 0 1 0
+eliminasi 1 1 1 0 1 0
+elit 0 0 0 1 0 0
+sukar paham 0 0 0 0 0 1
+kurus 0 0 1 0 1 0
+emansipasi 0 0 0 1 0 0
+emboli 0 0 1 0 1 0
+merangkul 0 0 0 1 0 1
+menganut 0 0 0 1 0 1
+merangkum 0 0 0 1 0 1
+darurat 0 1 1 0 1 1
+kekosongan 0 0 0 0 1 0
+kehampaan 0 0 0 0 1 0
+mempesona 0 0 0 1 0 1
+terpesona 0 0 0 1 0 0
+mendorong 1 0 0 1 0 0
+halangan 1 0 1 0 1 0
+membahayakan 0 0 1 0 0 0
+terancam punah 0 0 1 0 0 0
+endemis 0 1 1 0 1 0
+tak berujung 1 0 1 1 1 0
+melaksanakan 1 0 1 0 0 0
+menikmati 0 0 0 1 0 0
+menerangkan 0 0 0 1 0 0
+penerangan 0 0 0 1 0 0
+pencerahan 0 0 0 1 0 0
+memeriahkan 0 0 0 1 0 1
+permusuhan 1 1 1 0 1 0
+diperbudak 1 1 1 0 1 0
+terjerat 1 1 1 0 1 0
+hiburan 0 0 0 1 0 1
+antusiasme 0 0 0 1 0 1
+penggemar 0 0 0 1 0 1
+antusias 0 0 0 1 0 1
+isi perut 0 1 0 0 0 0
+persamaan 0 0 0 1 0 0
+membasmi 1 0 1 0 1 0
+pemberantasan 1 1 1 0 1 0
+menghapus 0 0 1 0 0 0
+erotis 0 0 0 1 0 1
+tak menentu 1 1 1 0 0 1
+eror 0 0 0 0 1 0
+meletus 1 0 0 0 0 1
+memperluas 1 0 0 0 0 0
+meningkatkan 1 0 0 0 0 0
+melarikan diri 0 0 1 0 0 0
+menjauhkan diri 1 0 0 0 1 0
+mapan 0 0 0 1 0 0
+mati ringan 0 0 1 0 1 0
+mengungsi 0 0 1 0 0 0
+evakuasi 0 0 1 0 0 0
+kemungkinan 0 0 1 0 0 0
+pengusiran 1 1 1 0 1 0
+kekesalan 1 0 1 0 0 0
+berlebihan 1 0 0 0 0 0
+mengagungkan 0 0 0 1 0 1
+memuliakan 0 0 0 1 0 1
+pemeriksaan 0 0 1 0 0 1
+ujian 0 0 1 0 0 1
+penggalian 0 0 0 0 0 1
+ekskavasi 0 0 0 0 0 1
+melampaui 0 0 0 1 0 0
+unggul 0 0 0 1 0 1
+keunggulan 0 1 0 1 0 0
+perangsangan 1 0 1 1 0 1
+merangsang 1 0 1 1 0 1
+berseru 0 0 0 0 0 1
+mengecualikan 0 0 0 0 1 0
+pengecualian 0 1 1 0 1 0
+ekskresi 0 1 0 0 0 0
+eksekusi 1 0 1 0 1 0
+kelelahan 0 0 0 0 1 0
+pengusiran setan 0 0 1 0 1 0
+mengharapkan 0 0 0 0 0 1
+bijaksana 0 0 0 1 0 0
+halau 1 1 1 0 1 0
+percobaan 0 0 0 0 0 1
+berakhir 0 0 0 0 1 0
+meledak 1 0 1 0 1 1
+eksplosif 1 0 1 0 0 1
+mengekspos 0 0 1 0 0 0
+membuka 0 0 1 0 0 0
+membeberkan 0 0 1 0 0 0
+membongkar 0 0 1 0 0 0
+memusnahkan 0 0 1 0 1 0
+memberantas 0 0 1 0 1 0
+pemusnahan 1 0 1 0 0 0
+memadamkan 1 1 0 0 0 0
+kegagalan 1 1 1 0 1 0
+iman 0 0 0 1 0 0
+tanpa iman 0 0 0 0 1 0
+dusta 1 0 0 0 0 0
+pemalsuan 1 0 0 0 0 0
+memalsukan 0 1 0 0 0 0
+kepalsuan 0 1 0 0 0 0
+bimbang 0 0 1 0 0 0
+keakraban 0 0 0 1 0 0
+paceklik 0 0 0 0 1 0
+fanatisme 0 0 1 0 0 0
+menyukai 0 0 0 1 0 0
+gigi taring 0 0 1 0 0 0
+puasa 0 0 0 0 1 0
+lemak 0 1 0 0 1 0
+fatal 1 0 1 0 1 0
+kepenatan 0 0 0 0 1 0
+berlemak 0 1 0 0 1 0
+kesalahan 0 0 0 0 1 0
+favorit 0 0 0 1 0 0
+prestasi 0 0 0 1 0 1
+biaya 1 0 0 0 0 0
+lemah 1 1 1 0 1 0
+perasaan 1 1 1 1 1 1
+bakat 0 0 0 1 0 0
+keademan 0 0 0 1 0 0
+menjatuhkan 1 0 0 0 1 1
+penjahat 0 0 1 0 0 0
+berpagar 1 0 0 0 0 0
+ganas 1 1 1 0 1 0
+garang 1 1 1 0 1 0
+buas 1 1 1 0 1 0
+keganasan 1 0 0 0 0 0
+semangat 1 0 0 1 0 0
+festival 0 0 0 1 0 1
+bergembira 0 0 0 1 0 0
+pesta 0 0 0 1 0 1
+bermusuhan 1 0 0 0 1 0
+feodalisme 1 0 0 0 1 0
+demam 0 0 1 0 0 0
+bikin 1 0 0 0 0 0
+kesetiaan 0 0 0 1 0 0
+iblis 1 1 1 0 0 0
+sengit 1 1 1 0 0 0
+pertarungan 1 0 1 0 0 0
+laga 1 0 1 0 0 0
+akhirnya 0 1 0 1 0 1
+api 1 0 1 0 0 0
+senjata api 1 0 1 0 0 0
+sulung 0 0 0 1 0 0
+cocok 1 0 0 0 0 0
+pas 1 0 0 0 0 0
+tepat 0 0 0 1 0 0
+sesuai 0 0 0 1 0 0
+lembek 0 1 0 0 0 0
+kopek 0 0 0 0 1 0
+menyanjung 0 0 0 1 0 0
+perut kembung 0 1 0 0 0 0
+kutu 0 1 0 0 0 0
+minggat 0 0 1 0 0 0
+bulu domba 1 1 0 0 1 0
+daging 0 1 0 0 0 0
+menyentak 0 1 1 0 1 1
+main mata 0 0 0 1 0 1
+mencambuk 1 1 1 0 1 0
+mencemeti 1 1 1 0 1 0
+memecut 1 1 1 0 1 0
+banjir 0 0 1 0 0 0
+menggelepar 0 0 1 0 1 0
+flu 0 0 1 0 0 0
+pilek 0 0 1 0 0 0
+fluktuasi 1 0 1 0 0 0
+gejolak 1 0 1 0 0 0
+penerbangan 0 0 1 0 0 0
+kesukaan 0 0 0 1 0 0
+makanan 0 0 0 1 0 0
+pangan 0 0 0 1 0 0
+membodohi 0 1 0 0 0 0
+sepak bola 0 0 0 1 0 0
+perampokan 1 1 1 0 1 0
+melarang 0 0 0 0 1 0
+terpaksa 0 0 1 0 0 0
+paksa 1 0 1 0 0 0
+lengan bawah 1 0 0 0 0 0
+firasat 0 0 1 0 0 0
+nenek moyang 0 0 0 1 0 0
+orang asing 0 0 1 0 0 0
+meramalkan 0 0 0 0 0 1
+memperingatkan 0 0 1 0 0 0
+terlupakan 0 0 1 0 1 0
+sedih 0 0 0 0 1 0
+hebat 0 0 0 1 0 0
+mengabaikan 0 0 0 0 1 0
+ketabahan 0 0 0 1 0 0
+benteng 1 1 1 0 1 0
+nasib 0 0 0 1 0 1
+ditemukan 0 0 0 1 0 0
+rapuh 0 0 1 0 1 0
+kelemahan 0 0 0 0 1 0
+keringkihan 0 0 0 0 1 0
+gila-gilaan 0 1 1 0 0 1
+seperti saudara 0 0 0 1 0 0
+curang 1 1 1 0 0 0
+penuh 0 0 1 1 1 1
+genting 0 0 0 0 1 0
+kebebasan 0 0 0 1 0 1
+hingar-bingar 1 0 1 0 0 0
+resah 0 1 1 0 0 0
+rewel 0 1 1 0 0 0
+gesekan 1 0 0 0 0 0
+friksi 1 0 0 0 0 0
+keramahan 0 0 0 1 0 0
+persahabatan 0 0 0 1 0 0
+pergat 0 0 1 0 0 0
+menakuti 0 0 1 0 1 1
+lincah 0 0 0 1 0 1
+cekatan 0 0 0 1 0 1
+bersenda gurau 0 0 0 1 0 1
+mengerut 0 0 0 0 1 0
+cemberut 1 1 0 0 1 0
+sia-sia 0 1 1 0 1 0
+mengandaskan 1 1 0 0 1 0
+frustrasi 1 0 0 0 0 0
+buronan 1 1 1 0 1 0
+memenuhi 0 0 0 1 0 0
+pemenuhan 0 0 0 1 0 0
+kesenangan 0 0 0 1 0 0
+jamur 0 1 0 0 0 0
+cendawan 0 1 0 0 0 0
+geram 1 1 1 0 0 0
+mati-matian 1 0 0 0 0 0
+perapian 1 0 0 0 0 0
+kehebohan 1 0 0 0 0 0
+alur 0 0 0 0 1 0
+parit 0 0 0 0 1 0
+galur 0 0 0 0 1 0
+kernyit 0 0 0 0 1 0
+kerunyut 0 0 0 0 1 0
+kemurkaan 1 0 1 0 1 0
+kegeraman 1 0 1 0 1 0
+kerewelan 1 0 0 0 1 0
+cingcong 1 0 0 0 1 0
+kerecokan 1 0 0 0 1 0
+rewel 0 1 0 0 0 0
+orang bodoh 0 1 0 0 0 0
+tercekik 0 1 0 0 0 0
+menyumbat 0 1 0 0 0 0
+mendapatkan 0 0 0 1 1 0
+empedu 1 1 0 0 0 0
+tiang gantungan 1 0 1 0 1 0
+penjudi 0 0 0 0 0 1
+perjudian 0 0 0 0 0 1
+gang 1 0 1 0 0 1
+gerombolan 1 0 1 0 0 1
+melongo 0 0 0 0 0 1
+menganga 0 0 0 0 0 1
+taman 0 0 0 1 0 0
+berkilat 0 1 0 0 0 1
+luka parah 0 0 1 0 0 0
+megap-megap 0 0 0 0 0 1
+hembusan nafas 0 0 0 0 0 1
+melenguh 0 0 1 0 0 0
+terengah 0 0 1 0 0 0
+gelatin 0 1 0 0 0 0
+batu permata 0 0 0 1 0 0
+permata 0 0 0 1 0 0
+kemurahan hati 0 0 0 1 0 1
+kedermawanan 0 0 0 1 0 1
+ramping 1 1 1 0 0 0
+geriatrik 0 0 0 0 1 0
+kuman 0 1 0 0 0 0
+remang 0 0 1 0 0 0
+raksasa 0 1 1 0 0 0
+omong kosong 1 1 0 0 1 0
+girang 0 0 0 1 0 0
+budak 1 0 1 0 1 0
+kesilauan 1 0 1 0 0 0
+kerlap 1 0 1 0 0 0
+lagu 0 0 0 1 0 0
+meluncur 0 0 0 1 0 0
+cahaya redup 0 0 0 1 0 1
+berkilau 0 1 0 1 0 1
+kesuraman 0 0 0 0 1 0
+kejayaan 0 0 0 1 0 0
+cahaya 0 0 0 1 0 0
+masam 0 0 0 0 1 0
+kekenyangan 0 1 0 0 0 0
+kerakusan 0 1 0 0 0 0
+kelahapan 0 1 0 0 0 0
+jembalang 1 1 1 0 0 0
+kurcaci 1 1 1 0 0 0
+gumpal 0 1 0 0 0 0
+jin 0 1 1 0 0 0
+Allah 0 0 1 1 0 0
+Tuhan 0 0 1 1 0 0
+murtad 1 0 0 0 0 0
+saleh 0 0 0 1 0 0
+beriman 0 0 0 1 0 0
+rahmat 0 0 0 1 0 1
+gonorea 1 1 1 0 1 0
+kencing nanah 1 1 1 0 1 0
+baik 0 0 0 1 0 1
+kebaikan 0 0 0 1 0 1
+menanduk 1 1 1 0 1 0
+cantik 0 0 0 1 0 0
+pemerintah 0 0 1 0 0 0
+mengambil 1 0 0 0 0 0
+wisuda 0 0 1 1 0 1
+cucu 0 0 0 1 0 0
+hibah 0 0 0 1 0 0
+parut 1 0 0 0 0 0
+memuaskan 0 0 0 1 0 1
+kisi 1 1 0 0 0 0
+jeruji 1 1 0 0 0 0
+terima kasih 0 0 0 1 0 0
+serampangan 0 1 0 0 0 0
+perdeo 0 1 0 0 0 0
+percuma 0 1 0 0 0 0
+kuburan 0 0 1 0 1 0
+kelabu 0 1 0 0 1 0
+berminyak 0 1 0 0 0 0
+kebesaran 0 0 0 1 0 1
+keserakahan 1 1 0 0 0 0
+serakah 0 1 0 0 0 0
+hijau 0 0 0 1 0 0
+salam 0 0 0 0 0 1
+sapaan 0 0 0 0 0 1
+granat 0 0 1 0 0 0
+bersedih 0 0 1 0 1 0
+pedih 1 0 1 0 1 0
+menyeringai 0 0 0 1 0 1
+beruban 0 0 1 0 1 0
+mengerang 0 1 0 0 1 0
+merintih 0 1 0 0 1 0
+merogoh 1 1 1 0 0 0
+bruto 0 1 0 0 0 0
+fantastis 0 0 1 0 0 0
+membumi 0 0 1 0 1 0
+tumbuh 0 0 0 1 0 0
+menggeram 1 1 1 0 0 0
+kereng 1 1 0 0 0 0
+ngomel 1 1 0 0 0 0
+menjaga 0 0 1 0 0 0
+mengawal 0 0 1 0 0 0
+gerilya 0 0 1 0 0 0
+kira 0 0 0 0 0 1
+menerka 0 0 0 0 0 1
+alat pemenggal kepala 1 1 1 0 1 0
+kesalahan 0 1 0 0 1 0
+berdosa 1 0 0 0 1 0
+mudah tertipu 0 0 0 0 1 0
+meneguk 0 0 1 0 0 1
+pistol 1 0 1 0 1 0
+bubuk mesiu 0 0 1 0 0 0
+membesut 0 1 0 1 0 0
+menyembur 0 1 0 1 0 0
+selokan 0 1 0 0 0 0
+got 0 1 0 0 0 0
+tukang sihir wanita 0 1 1 0 0 0
+berbulu 0 1 0 0 0 0
+ramus 0 1 0 0 0 0
+halusinasi 0 0 1 0 0 0
+maya 0 0 1 0 0 0
+kutang 1 0 1 0 1 0
+tertegun-tegun 0 0 1 0 1 0
+mengenting 1 0 0 0 1 0
+gantung 1 1 1 0 1 0
+algojo 1 0 1 0 1 0
+terjadi 0 0 0 0 1 1
+mengusik 1 1 0 0 0 0
+melecehkan 1 0 0 0 0 0
+pelopor 1 0 1 0 0 0
+mengeras 1 1 1 0 0 0
+kuat 1 0 1 1 0 0
+pelacur 0 1 0 0 0 0
+harmonis 0 0 0 1 0 0
+harmoni 0 0 0 1 0 0
+menyerobot 1 0 0 0 1 0
+kekerasan 1 0 1 0 0 0
+panen 0 0 0 1 0 0
+membenci 1 0 0 0 0 0
+angkuh 1 1 0 0 0 0
+menghantui 0 0 1 0 0 0
+angker 0 0 1 0 1 0
+elang 0 0 1 0 0 0
+rajawali 0 0 1 0 0 0
+embun 0 0 1 0 0 0
+menyembuhkan 0 0 0 1 0 0
+penyembuhan 0 0 0 1 0 0
+sehat 0 1 0 1 0 0
+pendengaran 0 0 1 0 0 0
+mobil jenazah 0 0 1 0 1 0
+kepiluan 0 0 0 0 1 0
+tulus 0 0 0 1 1 0
+sungguh-sungguh 0 0 0 1 0 0
+kafir 1 1 1 0 0 0
+surgawi 0 0 0 1 0 0
+langit 0 0 0 1 0 0
+hedonisme 0 0 0 1 0 0
+mempertinggi 0 0 1 0 0 0
+ketopong 0 0 1 0 0 0
+bermanfaat 0 0 0 1 0 0
+ketidakberdayaan 0 0 1 0 1 0
+sesat 0 1 0 0 0 0
+zindik 0 1 0 0 0 0
+banci 0 0 0 0 0 1
+kedi 0 0 0 0 0 1
+wadam 0 0 0 0 0 1
+pertapa 0 0 0 0 1 0
+pahlawan 0 0 0 1 0 1
+kepahlawanan 0 0 0 1 0 1
+herpes 0 1 0 0 0 0
+masa kejayaan 0 0 0 1 0 0
+menyeramkan 0 1 1 0 1 0
+persembunyian 0 0 1 0 0 0
+paling tinggi 0 0 1 1 0 1
+menghalangi 1 0 1 0 1 0
+menyewa 0 0 0 1 0 0
+mempekerjakan 0 0 0 1 0 0
+menggaji 0 0 0 1 0 0
+mengupahi 0 0 0 1 0 0
+menambangkan 0 0 0 1 0 0
+mendesis 1 0 1 0 0 0
+memukul 1 0 0 0 0 0
+hoax 1 1 0 0 1 1
+berita palsu 1 1 0 0 1 1
+hobi 0 0 0 1 0 0
+babi 0 1 0 0 0 0
+liburan 0 0 0 1 0 0
+kekudusan 0 0 1 1 0 1
+berongga 0 0 0 0 1 0
+tuna wisma 1 1 1 0 1 0
+rindu 0 0 0 1 1 0
+kerja rumah 0 0 1 0 0 0
+pembunuhan 1 1 1 0 1 0
+bulan madu 0 0 0 1 0 1
+kap 1 1 1 0 0 0
+berkerudung 0 0 1 0 0 0
+tiupan 1 1 0 0 0 0
+berharap 0 0 0 1 0 1
+penuh pengharapan 0 0 0 1 0 1
+keputusasan 1 1 1 0 1 0
+kengerian 1 1 1 0 1 1
+rumah sakit 0 0 1 0 1 0
+sandera 1 0 1 0 0 0
+berseteru 1 1 1 0 0 0
+panas 1 0 0 0 0 0
+melolong 1 1 1 0 1 1
+kegusaran 1 1 0 0 0 0
+memengkalkan 1 1 0 0 0 0
+memeluk 0 0 0 1 0 0
+badan kapal 0 1 0 0 0 0
+kemanusiaan 0 0 0 1 0 1
+rendah hati 0 1 0 0 1 0
+direndahkan 0 0 0 0 1 0
+menghina 1 0 0 0 1 0
+pemburu 0 0 1 0 1 0
+pemburuan 1 0 1 0 0 0
+hore 0 0 0 1 0 0
+badai 1 0 1 0 1 1
+menyakiti 1 0 1 0 1 0
+menyakitkan 1 1 1 0 1 0
+pondok 0 1 0 0 1 0
+gubuk 0 1 0 0 1 0
+rompok 0 1 0 0 1 0
+ular naga 0 0 1 0 0 0
+hidrosefalus 0 1 1 0 1 0
+nyanyi puji 0 0 0 1 1 0
+hipertrofi 0 1 1 0 0 1
+munafik 0 1 0 0 0 0
+hipokrit 0 1 0 0 0 0
+hipotetis 0 0 0 0 0 1
+histeris 1 0 1 0 0 0
+ketololan 1 1 0 0 1 0
+kepandiran 1 1 0 0 1 0
+pemujaan berhala 0 1 1 0 0 0
+jahil 0 1 0 0 0 0
+bebal 0 1 0 0 0 0
+ilegal 1 1 1 0 1 0
+ketidaksahan 1 1 1 0 0 0
+haram 1 1 1 0 1 1
+buta huruf 0 1 0 0 0 0
+menyinari 0 0 0 1 0 1
+iluminasi 0 0 0 1 0 1
+ilusi 0 0 0 0 0 1
+sempurna 0 0 0 1 0 1
+ketidakdewasaan 1 0 0 0 0 0
+kesegeraan 0 0 0 0 0 1
+membenamkan 0 0 1 1 0 1
+imigran 0 0 1 0 0 0
+asusila 1 1 1 0 1 0
+sundal 1 1 1 0 1 0
+ketidaksusilaan 1 1 0 0 0 0
+mendakwa 1 1 1 0 0 0
+mendatang 0 0 1 0 0 0
+kedap 1 0 1 0 0 0
+melibatkan 1 0 0 0 0 0
+mustahil 0 0 0 0 1 0
+ketidakmampuan 1 0 1 0 1 0
+terkurung 1 1 1 0 1 0
+hukuman penjara 1 1 1 0 1 0
+memperbaiki 0 0 0 1 0 0
+perbaikan 0 0 0 1 0 0
+improvisasi 0 0 0 0 0 1
+berimprovisasi 0 0 0 0 0 1
+lalai 0 0 0 0 1 0
+najis 0 1 0 0 0 0
+ketidakmurnian 0 1 0 0 0 0
+ketidaksanggupan 0 0 0 0 1 0
+kepalang 0 0 0 0 1 0
+kekurangan perhatian 1 0 0 0 0 0
+pelantikan 0 0 0 1 0 0
+pembakar 1 0 1 0 0 1
+dupa 1 0 0 0 0 0
+kemenyan 1 0 0 0 0 0
+sumbang 0 1 0 0 0 0
+insiden 0 0 0 0 0 1
+menghasut 1 0 1 0 0 0
+pendapatan 0 0 0 1 1 0
+penghasilan 0 0 0 1 1 0
+pemasukan 0 0 0 1 1 0
+konyol 1 0 0 0 1 0
+ngawur 0 0 0 0 1 0
+ugal-ugalan 1 1 0 0 1 0
+sukar 1 1 0 0 1 0
+demon 0 1 1 0 0 0
+tak sembuh 1 1 1 0 1 0
+serbuan 0 0 1 0 0 0
+ketidaksenonohan 1 1 0 0 0 0
+saru 0 1 0 0 0 0
+kemerdekaan 0 0 0 1 0 1
+pengabaian 1 1 1 0 1 0
+indoktrinasi 1 0 1 0 0 0
+gigih 0 0 1 0 0 0
+ketidakefisienan 0 1 0 0 1 0
+janggal 1 1 0 0 0 0
+tindakan bodoh 0 1 1 0 1 0
+ketidaksamaan 1 0 1 0 1 0
+kekejian 0 0 0 0 1 0
+pembunuhan anak 1 1 1 0 1 0
+kanak 1 1 0 0 0 0
+menulari 0 1 0 0 0 0
+menjangkitkan 0 1 0 0 0 0
+infeksi 0 0 1 0 0 0
+rendah mutunya 0 0 0 0 1 0
+infertilitas 0 0 0 0 1 0
+ketidaksetiaan 1 1 1 0 1 0
+tak terbatas 0 0 0 1 0 0
+kelemahan 0 0 1 0 0 0
+inflasi 0 0 1 0 0 0
+menimbulkan 1 0 1 0 1 0
+pelanggaran 1 1 1 0 1 1
+jarang 0 0 0 0 0 1
+warisan 0 0 0 1 0 1
+mencegah 1 1 1 0 1 0
+kebiadaban 1 1 0 0 1 0
+ketidakadilan 1 1 0 0 0 0
+injeksi 0 0 1 0 0 0
+suntikan 0 0 1 0 0 0
+melukai 1 0 1 0 1 0
+terluka 0 0 1 0 1 0
+cedera 1 0 1 0 1 0
+penyakit gila 1 1 1 0 1 0
+ketidakamanan 0 0 1 0 0 0
+berakal busuk 1 1 1 0 0 0
+sepele 1 0 0 0 1 0
+inspirasi 0 0 0 1 0 0
+mengilhami 0 0 0 1 0 0
+terinspirasi 0 0 0 1 0 1
+ketidakstabilan 0 1 1 0 0 0
+naluriah 1 1 1 0 0 0
+ketidakcukupan 1 0 0 0 0 0
+menista 1 1 0 0 1 1
+pemberontakan 1 1 1 0 0 1
+intelijen 0 0 1 1 0 0
+kecerdasan 0 0 1 1 0 0
+intens 1 1 1 1 0 1
+menguburkan 0 0 0 0 1 0
+menengahi 0 0 1 0 1 0
+menjadi perantara 0 0 1 0 1 0
+tertarik 0 1 0 0 1 0
+interior 0 1 0 0 0 0
+interogasi 0 0 1 0 0 0
+intervensi 0 0 0 0 1 0
+pewawancara 0 0 1 0 0 0
+intim 0 0 0 1 0 0
+mesra 0 0 0 1 0 0
+mengancam 1 1 1 0 0 0
+intimidasi 1 0 1 0 0 0
+tak tertahankan 1 0 0 0 0 0
+ketidaktoleranan 1 1 1 0 0 0
+intoleran 1 1 1 0 1 0
+mabuk 0 1 0 0 0 0
+teler 0 1 0 0 0 0
+keras kepala 1 0 0 0 0 0
+degil 1 0 0 0 0 0
+intrik 0 0 1 0 0 1
+pengacau 1 0 1 0 0 1
+intrusi 0 0 1 0 0 0
+membosankan 1 1 1 0 0 1
+menyerbu 1 0 1 0 1 1
+penyerbu 1 0 1 0 1 0
+invasi 1 0 0 0 0 0
+mengundang 0 0 0 1 0 1
+kerumitan 1 0 0 0 0 0
+iris 0 0 1 0 0 0
+irasional 0 1 1 0 0 0
+tak terdamaikan 1 0 1 0 1 0
+rongseng 1 0 0 0 0 0
+iritasi 1 1 0 0 1 0
+mengisolasikan 0 0 0 0 1 0
+terpencil 0 0 1 0 1 0
+isolasi 0 0 0 0 1 0
+tusukan 1 1 1 0 0 1
+penjara 1 0 1 0 1 0
+pesuruh 0 1 0 0 0 0
+menggelegar 0 0 1 0 1 0
+penyakit kuning 0 0 1 0 0 0
+mulut 0 0 1 0 0 0
+cemburu 1 1 0 0 0 0
+kecemburuan 1 1 1 0 1 0
+gugat 1 0 0 0 0 1
+menyentakkan 1 0 0 0 0 1
+wc 0 1 0 0 0 0
+kakus 0 1 0 0 0 0
+pelawak 0 0 0 1 0 1
+sentakan 0 0 0 0 0 1
+perjalanan 0 0 1 1 0 1
+periang 0 0 0 1 0 0
+keputusan 0 0 0 0 0 1
+melompat 0 0 0 1 0 0
+rimba 0 0 1 0 0 0
+belantara 0 0 1 0 0 0
+yurisprudensi 0 0 0 0 1 0
+kandang anjing 0 0 0 0 1 0
+minyak tanah 0 1 1 0 0 0
+kerosin 0 1 1 0 0 0
+raja 0 0 1 0 0 0
+tendangan 1 0 0 0 0 0
+sepakan 1 0 0 0 0 0
+menculik 1 1 1 0 1 1
+keluarga 0 0 0 1 0 0
+layang-layang 0 1 0 0 0 0
+anak kucing 0 0 0 1 0 0
+tanda buruk 0 0 1 0 1 0
+tenaga kerja 0 0 0 1 0 1
+renda 1 0 1 0 1 0
+tertinggal 1 1 0 0 1 0
+ketinggalan 1 1 0 0 1 0
+meratapi 0 1 1 0 1 0
+longsor 0 0 1 0 1 0
+lembut 0 0 1 1 1 0
+pencurian 1 1 1 0 1 0
+lebih besar 0 1 0 0 0 1
+bulu mata 1 0 1 0 0 0
+terlambat 0 0 0 0 1 1
+terpendam 1 1 0 0 0 1
+kakus 0 1 0 0 0 0
+jamban 0 1 0 0 0 0
+tertawa 0 0 0 1 0 1
+menertawakan 0 1 0 0 0 0
+tawa 0 0 0 1 0 1
+lava 1 0 1 0 0 0
+lahar 1 0 1 0 0 0
+WC 0 1 0 0 0 0
+pelanggaran hukum 1 0 1 0 0 0
+perkara hukum 1 1 1 0 1 1
+longgar 0 0 0 0 1 0
+pencahar 0 1 1 0 0 0
+lintah 0 1 1 0 0 0
+lirik 0 1 0 0 0 0
+kerlingan 0 1 0 0 0 0
+curiga 0 0 1 0 0 1
+disahkan 1 0 1 1 0 0
+waktu luang 0 0 0 1 0 1
+jeruk nipis 0 1 0 0 0 0
+lemon 0 1 0 0 0 0
+kusta 0 1 1 0 1 0
+lepra 0 1 1 0 1 0
+lesbian 0 1 0 0 1 0
+lebih rendah 0 1 0 0 0 0
+letal 0 1 1 0 1 0
+kelesuan 0 0 0 0 1 0
+leukemia 1 0 1 0 1 0
+cabul 0 1 0 0 0 0
+pembohong 0 1 0 0 0 0
+fitnah 1 0 1 0 0 0
+membebaskan 1 0 0 1 0 1
+memerdekakan 1 0 0 1 0 1
+menjilat 0 1 0 0 0 0
+berbohong 1 1 0 0 1 0
+tak bernyawa 0 0 1 0 1 0
+petir 1 0 1 0 0 1
+baris 0 0 1 0 0 0
+singa 0 0 1 0 0 0
+minuman keras 1 0 0 1 1 0
+lesu 0 0 0 0 1 0
+mengajukan perkara 1 1 1 0 1 0
+suka beperkara 1 1 0 0 0 0
+lebam 1 1 0 0 0 0
+pucat kelabu 1 1 0 0 0 0
+muak 1 1 1 0 1 0
+cengis 1 1 0 0 0 0
+terkunci 0 0 1 0 1 0
+menyekap 0 0 1 0 1 0
+belalang 0 0 1 0 0 0
+sendirian 0 0 0 0 1 0
+kesendirian 0 0 1 0 1 0
+kesepian 1 1 1 0 1 0
+kerinduan 0 0 0 0 1 0
+raja 0 1 0 0 0 0
+kalah 1 1 1 0 1 1
+kekalahan 1 0 0 0 1 0
+kerugian 1 0 1 0 1 0
+caplak 0 1 0 0 0 0
+tuma 0 1 0 0 0 0
+manis 0 0 0 1 0 1
+juita 0 0 0 1 1 1
+bercinta 0 0 0 1 0 0
+kekasih 0 0 0 1 0 0
+penuh kasih 0 0 0 1 0 0
+terendah 0 0 0 0 1 0
+loyal 0 0 1 1 0 1
+keberuntungan 0 0 0 1 0 1
+beruntung 0 0 0 1 0 1
+kental 0 1 0 0 0 0
+kegilaan 1 1 1 0 1 0
+terjang 0 0 0 0 0 1
+menyergap 0 0 0 0 0 1
+seram 0 0 1 0 0 0
+subur 0 1 0 0 1 0
+rimbun 0 1 0 0 1 0
+kilau 0 0 0 1 0 0
+mewah 0 0 0 1 0 0
+kemewahan 0 0 0 1 0 0
+kecapi 0 0 0 1 0 0
+liris 0 0 0 1 0 0
+bunga pala 0 0 1 0 0 0
+lawang 0 0 1 0 0 0
+orang gila 1 0 1 0 0 0
+mafia 0 0 1 0 0 0
+orang budiman 0 0 1 0 0 0
+belatung 0 1 0 0 0 0
+tempayak 0 1 0 0 0 0
+gaib 0 1 1 1 0 1
+tukang sulap 0 0 0 0 0 1
+megah 0 0 0 1 0 1
+mayoritas 0 0 0 1 0 0
+malaria 0 1 1 0 1 0
+kejahatan jabatan 0 1 0 0 0 0
+kedengkian 1 0 1 0 0 0
+dengki 1 1 1 0 1 0
+memfitnah 1 1 0 0 0 0
+malpraktik 1 0 0 0 0 0
+mandamus 0 0 1 0 0 0
+kudis 0 1 1 0 0 0
+mengoyakkan 1 1 1 0 1 0
+maniak 1 0 1 0 0 0
+manifestasi 0 0 1 0 0 0
+manipulasi 1 0 1 0 0 0
+pembunuhan orang 1 1 1 0 1 1
+pupuk 0 1 0 0 0 0
+rabuk 0 1 0 0 0 0
+batas 0 0 0 0 1 0
+pernikahan 0 0 0 1 0 0
+sumsum 0 0 0 1 0 0
+kawin 0 0 1 1 0 1
+bela diri 1 0 0 0 0 0
+martir 0 0 1 0 1 0
+syahid 0 0 1 0 1 0
+syuhada 0 0 1 0 1 0
+kesyahidan 0 0 1 0 1 0
+keajaiban 0 0 0 1 0 1
+kesenangan karena menderita 1 1 1 0 0 0
+pembunuhan masal 1 1 1 0 1 0
+pijat 0 0 0 1 0 0
+hasil karya 0 0 0 1 0 0
+penguasaan 1 0 0 1 0 0
+materialis 0 1 0 0 0 0
+perkawinan 0 0 0 1 0 0
+makam 0 0 0 0 1 0
+tak berarti 0 0 0 0 1 0
+campak 0 1 1 0 1 0
+medali 0 0 0 1 0 1
+mencampuri 1 0 0 0 0 0
+medis 0 0 1 0 0 0
+meditasi 0 0 0 1 0 0
+merenungkan 0 0 0 1 0 0
+patih 0 0 0 0 1 0
+melankolis 0 0 0 0 1 0
+pilu 0 0 0 0 1 0
+perkelahian 1 0 1 0 0 0
+larut 0 0 0 0 1 0
+krisis 0 0 0 0 1 0
+kenangan 0 0 0 1 1 1
+ancaman 1 0 1 0 0 0
+mata duitan 0 0 1 0 0 0
+tanpa belas kasih 0 0 1 0 0 0
+berfaedah 0 0 0 1 0 0
+keriaan 0 0 0 1 0 1
+sukaria 0 0 0 1 0 0
+bidan 0 0 0 1 0 0
+lumut 0 1 0 0 0 0
+militer 0 0 1 0 0 0
+milisi 1 0 1 0 1 0
+peniruan 0 0 0 0 0 1
+kementerian 0 0 0 1 0 0
+ajaib 0 0 0 1 0 1
+lumpur 0 1 0 0 0 0
+kelakuan buruk 1 1 0 0 0 1
+keguguran 0 0 1 0 1 0
+kesalahpahaman 1 1 1 0 0 0
+kemalangan 0 0 1 0 1 0
+kecelakaan 0 1 1 0 1 1
+menyesatkan 1 1 1 0 0 0
+salah menaruhkan 1 1 0 0 0 0
+keliru 1 0 0 0 1 0
+disalahpahami 1 0 0 0 0 0
+misil 0 0 1 0 0 0
+hilang 0 0 1 0 1 0
+nyata salah 1 1 0 0 0 0
+silap 0 0 1 0 0 0
+nyonya 1 1 0 0 0 0
+ketidakpercayaan 0 1 1 0 0 0
+salah paham 1 0 0 0 1 0
+tungau 0 1 0 0 0 0
+mengerang 0 0 1 0 1 0
+massa 1 0 1 0 0 0
+mengejek 1 1 1 0 1 0
+memodifikasi 0 0 0 0 0 1
+penganiayaan 1 1 1 0 1 0
+uang 1 0 0 1 0 1
+satu warna 0 1 0 0 0 0
+muson 0 0 0 0 1 0
+moral 1 0 0 0 0 0
+akhlak 1 1 0 1 0 1
+morbiditas 1 1 1 0 1 0
+rumah mayat 0 1 1 0 1 0
+hampir mati 0 0 0 0 1 0
+hipotek 0 0 1 0 0 0
+gadai 0 0 1 0 0 0
+kamar mayat 0 0 1 0 1 0
+masjid 1 0 0 0 0 0
+nyamuk 1 1 0 0 0 0
+keibuan 0 0 0 1 0 0
+berkabung 0 0 0 0 1 0
+berduka cita 1 0 1 0 1 0
+mulut 0 0 0 0 0 1
+suap 0 1 0 0 0 0
+lendir 0 1 0 0 0 0
+berlumpur 0 1 0 0 0 0
+mangkok 1 0 1 0 1 0
+bagal 1 0 0 0 0 0
+bungkam 0 0 1 0 0 0
+musik 0 0 0 1 1 0
+musikal 1 0 0 1 1 1
+senapan 1 1 1 0 1 0
+apak 0 1 0 0 0 0
+apek 0 1 0 0 0 0
+kompong 0 1 0 0 0 0
+mutilasi 1 1 1 0 1 0
+bergumam 1 0 0 0 0 0
+moncong 0 0 1 0 0 0
+lamur 1 0 0 0 1 0
+rabun 1 0 0 0 1 0
+misterius 0 0 1 0 0 1
+misteri 0 0 0 0 0 1
+mengomel 1 0 0 0 0 0
+tanpa nama 0 1 0 0 0 0
+tidur sebentar 0 0 0 1 0 0
+serbet 0 0 0 0 1 0
+mesum 1 1 1 0 1 0
+mual 0 1 0 0 1 0
+kebutuhan 0 0 0 0 1 0
+penyangkalan 1 0 0 0 0 0
+negatif 0 0 0 0 1 0
+terbengkalai 1 1 0 0 1 0
+negro 0 0 0 0 1 0
+nepotisme 1 1 0 0 1 0
+gugup 0 0 1 0 0 0
+kegugupan 0 0 1 0 0 0
+bawah 1 0 1 0 1 0
+jelatang 1 1 0 0 0 0
+sakit saraf 0 1 1 0 1 0
+pendatang 0 0 1 0 0 1
+nikotin 0 1 0 0 0 0
+mimpi buruk 0 0 1 0 0 0
+bising 1 0 0 0 0 0
+berisik 1 0 0 0 0 0
+ketidakpatuhan 1 0 1 0 1 0
+jerat 1 1 1 0 1 0
+hidung 0 1 0 0 0 0
+penting 0 0 1 1 0 0
+ketiadaan 0 0 0 0 1 0
+kemasyhuran 1 1 1 0 0 0
+kebekenan 1 1 1 0 0 0
+berabe 1 0 0 0 0 0
+mati rasa 0 0 0 0 1 0
+kamar anak 0 0 0 1 0 0
+kebun bibit 0 0 0 1 0 0
+memelihara 1 1 1 1 0 0
+mengasuh 1 1 1 1 0 0
+bergizi 0 0 0 0 1 0
+wahah 0 0 0 1 0 0
+gendut 0 1 0 0 0 0
+gepuk 0 1 0 0 0 0
+kegemukan 0 1 0 0 1 0
+mematuhi 0 0 1 0 0 0
+obi 0 1 1 0 0 0
+tanggal kematian 0 0 0 0 1 1
+surat kematian 0 0 0 0 1 1
+berita kematian 0 0 0 0 1 0
+keberatan 1 0 0 0 0 0
+bersedia membantu 1 1 1 1 0 1
+melenyapkan 1 0 1 0 1 0
+dilenyapkan 1 0 1 0 0 0
+kemusnahan 0 0 1 0 1 0
+pelupaan 1 0 1 0 0 0
+cabul 0 1 0 0 0 0
+kecabulan 1 1 0 0 0 0
+hambatan 1 0 1 0 1 0
+diperoleh 0 0 0 1 0 0
+tertentu 0 0 0 0 0 1
+kadang-kadang 0 0 0 0 0 1
+gurita 0 1 0 0 0 0
+keanehan 0 1 0 0 1 1
+menyinggung 1 1 0 0 0 0
+tersinggung 1 0 0 0 1 0
+pelanggar 1 1 1 0 1 0
+serangan 1 1 0 0 0 0
+gergasi 0 1 1 0 0 0
+pertanda 0 0 1 0 0 0
+kemahakuasaan 0 0 1 0 0 0
+keluar 1 1 1 0 1 0
+opera 1 0 1 1 1 1
+operasi 0 0 1 0 1 0
+dogmatis 1 0 0 0 0 0
+candu 1 1 1 0 1 0
+madat 1 1 1 0 1 0
+lawan 1 1 1 0 0 0
+oposisi 1 0 0 0 0 0
+tindas 1 1 1 0 1 0
+penindasan 1 1 1 0 1 0
+penindas 1 0 1 0 1 0
+optimisme 0 0 0 1 0 1
+orc 1 1 1 0 0 0
+orkestra 1 0 0 1 1 0
+siksaan 1 0 0 0 0 1
+pentahbisan 0 0 0 1 0 0
+artileri 0 0 1 0 0 0
+organ 0 0 0 1 0 0
+organisasi 0 0 0 1 0 1
+syahwat 0 0 0 1 0 0
+keorisinalan 0 0 0 0 0 1
+anak yatim 0 0 1 0 1 0
+orang buangan 0 1 1 0 1 0
+teriakan 1 1 1 0 1 1
+jeritan 1 1 1 0 1 1
+pelopor 0 0 1 0 0 0
+orang luar 0 0 1 0 0 0
+terkemuka 0 0 0 1 0 0
+kelebihan 1 0 0 1 1 1
+sangat kuat 1 0 1 0 0 0
+terlalu mahal 1 1 0 0 1 0
+terbuka 0 0 1 0 0 0
+menggulingkan 0 0 1 0 0 0
+kewalahan 0 0 0 0 1 0
+terhutang 1 1 1 0 1 0
+jelas 0 0 0 0 0 1
+gamblang 0 0 0 0 0 1
+kelumpuhan 1 1 1 0 1 0
+pandemi 0 0 1 0 1 0
+panik 0 0 1 0 0 0
+parasut 0 0 1 0 0 0
+parade 0 0 1 1 0 1
+pawai 0 0 1 1 0 1
+suri teladan 0 0 0 1 0 0
+lumpuh 1 0 1 0 1 1
+paranoia 0 0 1 0 0 0
+parasit 0 1 1 0 0 0
+beo 0 1 0 0 0 0
+perpisahan 0 0 0 0 1 0
+gairah 0 0 0 1 0 0
+bergairah 0 0 0 1 0 0
+pendeta 0 0 0 1 1 0
+kue 0 0 0 1 0 0
+rintik 1 0 0 0 0 0
+derai 1 0 0 0 0 0
+kekurangan 1 1 1 0 1 0
+orang miskin 0 0 0 0 1 0
+membayar 0 0 0 1 0 0
+membalas 1 0 0 0 0 0
+tenang 0 0 0 1 0 1
+tenteram 0 0 0 1 0 1
+bersentosa 0 0 0 1 0 1
+penalti 1 0 1 0 1 0
+penebusan dosa 0 0 1 0 1 0
+penetrasi 1 0 1 0 0 0
+termenung 0 0 0 0 1 0
+barangkali 0 0 0 0 0 1
+keruntuhan 1 1 1 0 1 0
+kesempurnaan 0 0 0 1 0 1
+peri 1 1 1 0 0 1
+sumpah palsu 0 0 1 0 0 1
+pelaku kejahatan 1 1 1 0 1 0
+menganiaya 1 0 1 0 0 0
+keringat 0 1 1 0 0 0
+pemutarbalikan 1 1 0 0 1 0
+pesimis 0 0 1 0 1 0
+hama 1 1 1 0 0 0
+sampar 1 1 1 0 1 1
+wabah 1 1 1 0 1 1
+tulang jari 0 0 1 0 0 0
+dahak 0 1 0 0 0 0
+piket 1 0 1 0 0 0
+piknik 0 0 0 1 0 1
+tumpukan 0 1 0 0 0 0
+timbunan 0 1 0 0 0 0
+menjarah 1 1 1 0 1 1
+jerawat 0 1 0 0 0 0
+pinus 0 0 0 0 1 0
+sayap 0 0 1 0 0 0
+saleh 0 1 0 0 1 0
+soleh 0 1 0 0 1 0
+alim 0 1 0 0 1 0
+kesal 1 0 1 0 0 0
+bajak laut 1 0 0 0 0 0
+perompak 1 0 0 0 0 0
+jebakan 1 1 1 0 1 1
+kasihan 0 0 0 0 1 0
+plagiat 0 1 0 0 0 0
+sayu 0 0 0 0 1 0
+suka bermain 1 0 0 1 0 1
+tempat bermain 0 0 0 1 0 1
+permohonan 0 0 1 0 1 0
+nyaman 0 0 0 1 0 1
+ikrar 0 0 0 1 0 0
+janji 0 0 0 1 0 0
+merampas 1 1 1 0 1 1
+pneumonia 0 0 1 0 0 0
+merebus 1 1 1 0 1 0
+meracuni 1 1 1 0 1 0
+keracunan 1 1 1 0 1 0
+peracunan 0 1 0 0 0 0
+beracun 1 1 1 0 1 0
+polemik 1 1 0 0 0 0
+polio 0 0 1 0 1 0
+politik 0 1 0 0 0 0
+mengotori 0 1 0 0 0 0
+polusi 0 1 0 0 0 0
+poligami 0 1 0 0 0 0
+bermunculan 0 0 0 0 0 1
+menyerudukkan 0 0 0 0 0 1
+letupan 0 0 0 0 0 1
+porno 0 1 0 0 0 0
+pornografi 0 1 0 0 0 0
+pagar betis 0 0 1 0 0 0
+memiliki 0 0 0 1 0 0
+kerasukan 1 1 1 0 0 0
+kesurupan 1 1 1 0 0 0
+milik 1 1 1 0 0 0
+anumerta 0 0 0 0 1 0
+penundaan 0 0 0 0 0 1
+kemiskinan 1 1 1 0 1 0
+tak berdaya 1 1 1 0 1 0
+mahir 0 0 0 1 0 1
+memuji 0 0 0 1 0 0
+kelakar 0 0 0 0 0 1
+seloroh 0 0 0 0 0 1
+berdoa 0 0 1 1 1 1
+berharga 0 0 0 1 0 1
+kehamilan 0 1 0 0 0 0
+prasangka 1 1 1 0 0 0
+purbasangka 1 1 1 0 0 0
+berprasangka 0 1 1 0 0 0
+prematur 0 0 0 0 0 1
+terencana 0 0 1 0 0 0
+menyajikan 0 0 0 1 0 1
+pengawet 0 0 0 1 0 1
+gengsi 0 0 0 1 0 0
+presto 0 0 0 1 0 1
+lancang 1 1 0 0 0 0
+pongah 1 1 0 0 0 0
+berpura-pura 1 0 0 0 0 0
+mangsa 0 0 1 0 0 0
+kebanggaan 0 0 0 1 0 0
+kependetaan 0 0 0 1 1 0
+terungku 1 0 1 0 1 0
+tawanan 1 1 1 0 1 0
+istimewa 0 0 0 1 0 0
+masalah 0 0 1 0 1 0
+prosedur 0 0 1 0 0 0
+prosesi 0 0 0 1 1 1
+defile 0 0 0 1 1 1
+duniawi 1 0 0 0 0 0
+kata-kata kotor 1 0 0 0 0 0
+kecakapan 0 0 0 1 0 1
+ramalan 0 0 1 0 0 0
+kemajuan 0 0 0 1 0 0
+deret 0 0 0 1 1 0
+terlarang 1 1 1 0 0 0
+proyektil 0 0 1 0 0 0
+memperpanjang 0 1 0 0 0 0
+menuntut 1 0 1 0 1 0
+penuntutan 0 1 0 0 0 0
+makmur 0 0 0 1 0 0
+prostitusi 0 1 0 0 1 0
+protestan 0 0 1 0 0 0
+bangga 0 0 0 1 0 0
+menyediakan 0 0 0 1 0 0
+provokasi 1 0 0 0 0 0
+memprovokasi 1 1 0 0 0 0
+membongkar 1 0 1 0 0 0
+psikosis 1 0 1 0 1 0
+puma 0 0 1 0 0 1
+meninju 1 0 1 0 1 1
+tajam 1 1 0 0 0 0
+menghukum 1 0 1 0 1 0
+dihukum 1 1 1 0 1 0
+hukuman 1 1 1 0 0 0
+cuci dosa 0 1 1 0 0 0
+memurnikan 0 0 0 1 0 0
+menyucikan 0 0 0 1 0 0
+kemurnian 0 0 0 0 0 1
+dengung 0 0 0 1 0 0
+dengkur 0 0 0 1 0 0
+nanah 0 1 0 0 0 0
+dukun 0 1 0 0 0 0
+rawa 0 1 1 0 0 0
+burung puyuh 0 0 1 0 0 0
+pelik 0 0 0 1 0 0
+gempa 0 0 1 0 0 0
+dilema 1 0 1 0 0 0
+kebimbangan 1 0 1 0 0 0
+karantina 0 0 1 0 0 0
+bertengkar 1 0 0 0 0 0
+dipertanyakan 0 1 0 0 0 0
+kecepatan 0 0 0 0 0 1
+air raksa 0 0 0 0 0 1
+diam 0 0 0 0 1 0
+gemetar 0 0 1 0 0 0
+getar 0 0 1 0 0 0
+gemetaran 0 0 1 0 0 0
+kutipan 0 0 0 0 0 1
+rakyat jelata 1 0 1 0 0 0
+berseri 0 0 0 1 0 0
+radiasi 0 0 1 0 0 0
+radioaktif 0 0 1 0 0 0
+radon 0 0 1 0 0 0
+mengundi 0 0 0 0 0 1
+menghardik 1 1 1 0 0 0
+robekan 0 1 0 0 0 0
+penggerebekan 1 0 1 0 0 1
+jeruji 1 0 0 0 0 0
+hujan 0 0 0 0 1 0
+membenturkan 1 0 1 0 1 0
+menghantam 1 0 1 0 1 0
+mengamuk 1 0 1 0 0 0
+tengik 0 1 0 0 0 0
+perat 0 1 0 0 0 0
+acak 0 0 0 0 0 1
+tebusan 1 0 1 0 0 0
+memperkosa 1 1 1 0 1 0
+cepat 0 0 0 0 0 1
+kegairahan 0 0 0 1 0 0
+ruam 0 1 0 0 0 0
+tikus 0 1 1 0 0 0
+ular berbisa 1 1 1 0 1 0
+sambutan hangat 1 1 0 1 0 1
+sangat lapar 1 0 1 0 1 0
+rakus sekali 1 0 1 0 1 0
+ocehan 1 0 1 1 0 1
+pisau cukur 0 0 1 0 0 0
+bereaksi 1 0 1 0 0 0
+kesiapan 0 0 0 1 0 0
+muncul lagi 0 0 0 0 0 1
+pemberontak 1 0 1 0 0 0
+bandel 1 1 0 0 0 0
+menerima 0 0 0 1 0 1
+reses 0 0 1 0 0 0
+resesi 1 1 1 0 1 0
+residivis 1 1 0 0 1 0
+sembrono 1 0 1 0 0 0
+kenekatan 1 1 1 0 0 1
+rekonsiliasi 0 0 0 1 0 0
+rujuk 0 0 0 1 0 0
+rekreasi 0 0 0 1 0 0
+refleks 0 0 0 0 0 1
+surutnya 0 1 0 0 0 0
+pengungsi 0 0 0 0 1 0
+menolak 1 0 1 0 1 0
+sanggahan 0 0 1 0 0 0
+resimen 0 0 1 0 0 0
+penyesalan 0 0 0 0 1 0
+menyesali 0 0 0 0 1 0
+peraturan 0 0 1 0 0 0
+penolakan 1 1 1 0 1 0
+bersuka cita 0 0 0 1 0 1
+menghidupkan 0 0 1 1 0 1
+kambuh 0 0 1 0 1 0
+keramat 0 0 0 0 1 0
+barang peninggalan 0 0 0 0 1 0
+enggan 0 0 1 0 0 0
+sisa 0 1 1 0 0 0
+menahan kembali 1 0 0 0 0 0
+lalai 1 1 0 0 1 0
+menghapus 1 0 1 0 1 0
+pembelot 1 0 0 0 0 0
+renovasi 0 0 0 1 0 0
+perombakan 0 0 0 1 0 0
+membayar kembali 1 0 0 1 0 0
+basmi 1 1 1 0 1 0
+menahan 0 0 0 0 1 0
+represi 0 0 1 0 0 0
+teguran 1 0 0 0 0 0
+pembalasan 1 0 1 0 1 0
+reproduksi 0 0 0 1 0 0
+penangkalan 1 1 0 0 0 0
+keseganan 0 1 1 0 0 0
+menyelamatkan 0 0 0 1 0 1
+sebal 1 0 0 0 0 0
+mengundurkan diri 1 1 1 0 1 0
+pengunduran diri 0 0 0 0 1 1
+perlawanan 1 0 0 0 0 0
+sumber 0 0 0 1 0 0
+menghormati 0 0 0 1 0 0
+beristirahat 0 0 0 1 0 0
+gemerlap 0 0 0 1 0 0
+restitusi 1 0 0 0 0 0
+mengendalikan 1 0 1 0 0 0
+terkendali 0 0 1 0 0 0
+larangan 1 0 1 0 1 0
+segan 0 0 1 0 0 0
+mencabut kembali 1 0 0 0 0 0
+penghematan 0 1 1 0 0 0
+retribusi 1 0 1 0 1 0
+kesuka-riaan 0 0 0 1 0 0
+mentakzimkan 0 0 0 1 0 0
+lamunan 0 0 0 1 0 0
+pembalikan 1 1 0 0 0 1
+kebangkitan 0 0 0 1 0 0
+mencabut 1 1 1 0 1 0
+memberontak 1 0 0 0 0 1
+revolusi 1 0 1 0 1 1
+rematik 1 0 1 0 1 0
+berirama 0 0 0 1 0 1
+pita 1 0 0 1 0 0
+teka-teki 0 0 0 0 0 1
+menggelikan 1 1 0 0 0 0
+kekakuan 0 1 1 0 0 0
+dering 1 0 0 0 0 0
+kerusuhan 1 0 1 0 1 0
+liar 1 0 1 0 0 1
+terbitnya 0 0 0 1 0 0
+risiko 0 0 1 0 0 0
+berisiko 0 0 1 0 0 0
+persaingan 1 0 0 0 0 0
+merampok 1 1 1 0 1 0
+perampok 0 1 1 0 0 0
+roket 1 0 0 0 0 0
+batang 0 0 1 0 0 0
+bersuka ria 0 0 0 1 0 0
+roman 0 0 1 1 1 1
+romantis 0 0 0 1 0 0
+romantisme 0 0 0 1 0 0
+bergelut 0 0 0 1 0 0
+reruntuhan 0 0 1 0 1 0
+punah 1 1 1 0 1 1
+aturan 0 0 1 0 0 0
+isu 0 0 0 0 1 0
+pelarian 0 0 0 0 1 0
+pedang 1 0 1 0 0 0
+sabotase 1 1 1 0 1 1
+pengorbanan 0 1 1 0 1 0
+kurang sehat 0 1 1 0 1 0
+aman 0 0 0 1 0 0
+melengkung 1 0 1 0 1 0
+melentur 1 0 1 0 1 0
+santo 0 0 0 1 0 1
+gurauan 0 0 0 0 0 1
+bar 1 0 0 0 0 0
+menghormat 0 0 0 1 0 0
+samurai 0 0 1 0 0 0
+pengudusan 0 0 0 1 0 0
+menguduskan 0 0 0 1 1 1
+getah 0 0 0 0 1 0
+sarkasme 1 1 0 0 1 0
+jenuh 0 1 0 0 0 0
+menyimpan 0 0 0 1 0 0
+menabung 0 0 0 1 0 0
+mengecap 0 1 0 1 1 0
+perancah 0 0 1 0 0 0
+pisau bedah 0 0 1 0 0 0
+skandal 0 0 1 0 0 0
+kambing hitam 1 0 1 0 0 0
+goresan 1 1 1 0 1 0
+bekas luka 1 1 1 0 1 0
+langka 1 0 1 0 1 0
+baru saja 0 0 0 0 1 0
+barusan 0 0 0 0 1 0
+kelangkaan 1 0 1 0 1 0
+perpecahan 1 0 0 0 0 0
+skizofrenia 1 1 1 0 1 0
+beasiswa 0 0 0 1 0 0
+mencemoohkan 1 1 0 0 0 0
+memarahi 1 1 1 0 1 0
+omelan 1 0 0 0 0 0
+menghanguskan 1 0 0 0 0 0
+skor 0 0 0 1 0 1
+caci maki 1 0 0 0 0 0
+kalajengking 1 1 1 0 0 1
+momok 1 0 1 0 1 0
+berteriak 1 1 1 0 0 1
+berciut-ciut 0 0 1 0 0 1
+memekik 0 0 1 0 0 1
+menggosok 0 1 0 0 0 0
+lulur 0 1 0 0 0 0
+buih 0 1 0 0 0 0
+kekam 0 1 0 0 0 0
+khalwat 0 0 1 0 0 0
+kerahasiaan 0 0 0 0 0 1
+keluarnya 0 1 0 0 0 0
+picik 1 0 1 0 0 0
+hasutan 1 0 0 0 1 0
+memisahkan 1 1 0 0 1 0
+merebut 1 0 1 0 0 0
+penyitaan 0 0 1 0 0 0
+egois 1 1 0 0 0 0
+pikun 0 0 1 0 1 0
+sensasional 0 0 0 1 0 0
+sensual 0 0 0 1 0 1
+nafsu berahi 0 0 0 1 0 0
+memvonis 1 1 1 0 1 0
+separatis 1 1 0 0 0 0
+keracunan darah 0 0 1 0 1 0
+ketenangan 0 0 0 1 0 0
+ketentraman 0 0 0 1 0 0
+keseriusan 0 0 1 0 1 0
+ular 0 1 1 0 0 0
+kemunduran 0 0 0 0 1 0
+seks 0 0 0 1 0 0
+lusuh 0 1 0 0 0 0
+belenggu 1 1 1 0 1 0
+kongkong 1 1 1 0 1 0
+teduh 0 0 1 0 0 0
+rindang 0 0 1 0 0 0
+goncangan 0 0 1 0 0 0
+goyah 1 0 1 0 0 0
+oleng 1 0 1 0 0 0
+tipuan 1 1 0 0 0 0
+tak tahu malu 0 1 0 0 0 0
+betis 0 0 1 0 0 0
+bagikan 0 0 0 1 0 0
+andil 0 0 0 1 0 0
+meruncingkan 1 0 0 0 0 0
+kulit 1 0 1 0 1 1
+bersinar 0 0 0 1 0 0
+kecelakaan kapal 0 0 1 0 1 0
+kapal karam 0 0 1 0 1 0
+sial 1 1 1 0 1 0
+menggigil 1 0 1 0 1 0
+syok 1 0 1 0 0 1
+berengsek 1 1 0 0 0 0
+menembak 1 0 1 0 0 0
+penembak 0 0 1 0 0 0
+penembakan 1 0 1 0 0 0
+mengutil 1 1 0 0 0 0
+perbelanjaan 0 0 0 1 0 1
+tembakan 1 0 1 0 1 1
+sorongan 1 0 0 1 0 0
+pecahan peluru meriam 0 0 1 0 0 0
+menjerit 1 0 1 0 1 1
+melengking 1 0 1 1 0 1
+nyaring 1 0 1 1 0 1
+menyusut 0 0 1 0 1 0
+menciut 0 0 1 0 1 0
+mengelakkan 1 1 0 0 1 0
+sakitan 0 1 1 0 1 0
+membara 1 0 0 0 0 0
+menyederhanakan 0 0 0 1 0 1
+penuh dosa 1 1 1 0 1 0
+bernyanyi 0 0 0 1 1 0
+pendosa 1 1 1 0 1 0
+sirene 0 0 1 0 0 0
+mendesis 1 0 0 0 0 0
+miring 1 0 0 0 0 0
+selip 1 0 1 0 1 0
+membanting 1 0 1 0 0 1
+menampar 1 0 0 0 1 0
+menggorok 1 0 0 0 0 0
+penyembelihan 1 1 1 0 1 1
+rumah jagal 1 1 1 0 1 0
+lanyau 0 1 0 0 0 0
+berlendir 0 1 0 0 0 0
+tergelincir 0 0 0 0 0 1
+air kotor 0 1 0 0 0 0
+cengeng 0 1 0 0 0 0
+kemalasan 0 1 0 0 0 0
+logam bundar 0 1 0 0 0 0
+peluru gotri 0 1 0 0 0 0
+perkampungan 0 1 0 0 0 0
+merosot 0 0 0 0 1 0
+cercaan 1 1 0 0 1 0
+lumpur salju 0 1 0 0 0 1
+licik 1 1 1 0 0 0
+tubrukan 1 0 1 0 0 0
+remuk 1 0 1 0 0 0
+bau 1 1 0 0 0 0
+berbau 0 1 0 0 0 0
+tersenyum 0 0 0 1 0 1
+melimpahi 1 0 0 0 0 0
+menyelundupkan 0 0 1 0 0 0
+penyelundup 1 1 1 0 0 0
+jelaga 0 1 1 0 0 0
+cabulan 0 1 1 0 0 0
+merobek 0 0 0 0 0 1
+jerat 0 0 1 0 0 0
+perangkap 0 0 1 0 0 0
+gertak 1 1 0 0 0 0
+menyelinap 1 0 1 0 0 1
+senyuman menyeringai 1 1 0 0 0 0
+bersin 0 1 0 0 0 1
+bangkis 0 1 0 0 0 1
+mendengus 0 0 0 0 1 0
+sedu 0 0 0 0 1 0
+sosialisme 0 1 1 0 0 0
+sosialis 1 1 1 0 1 0
+tanah 0 1 0 0 0 0
+tentara 1 0 0 0 1 0
+somatik 0 0 0 0 0 1
+sulang 0 1 0 0 0 0
+menenangkan 0 0 0 1 0 0
+sihir 1 1 1 0 1 1
+nestapa 0 0 1 0 1 0
+serangan mendadak 0 0 1 0 0 0
+belahan jiwa 0 0 1 0 0 0
+asam 0 1 0 0 0 0
+masam 0 1 0 0 0 0
+spa 0 0 0 1 0 1
+tamparan 1 0 1 0 1 0
+kekejangan 0 0 1 0 0 0
+tombak 1 0 1 0 0 0
+spesial 0 0 0 1 0 0
+bintik 0 1 0 0 0 0
+spektakuler 0 0 0 0 0 1
+momok 0 0 1 0 1 0
+spekulasi 0 0 1 0 1 0
+memuntahkan 0 1 0 0 0 0
+laba-laba 0 1 1 0 0 0
+paku 0 0 1 0 0 0
+tulang belakang 1 0 0 0 0 0
+perawan tua 0 0 1 0 1 0
+meludah 0 1 0 0 0 0
+pendendam 1 0 1 0 0 0
+ceburan 0 0 0 0 0 1
+cemplungan 0 0 0 0 0 1
+percikan 0 0 0 0 0 1
+kemegahan 0 0 0 1 0 1
+pemisahan 0 0 0 0 1 0
+memanjakan 0 1 0 0 0 0
+spoiler 0 0 0 0 1 0
+istri 0 0 0 1 0 0
+keseleo 0 0 0 0 1 0
+bidadari 0 0 1 0 0 0
+peri 0 0 1 0 0 0
+memacu 0 0 1 0 0 0
+lancung 0 1 0 0 0 0
+mudah tersinggung 1 1 1 0 1 0
+menusuk 1 0 1 0 1 1
+sempoyongan 0 0 0 0 0 1
+tergenang 0 0 0 0 1 0
+mandek 0 0 0 0 1 0
+sendat 0 0 0 0 1 0
+noda 0 1 0 0 0 0
+jalan buntu 1 1 0 0 0 0
+menguntit 0 0 1 0 0 0
+kios 0 1 0 0 0 0
+jongko 0 1 0 0 0 0
+kebuntuan 1 0 1 0 0 0
+bintang 0 0 0 1 0 0
+penuh bintang 0 0 0 1 0 0
+kejut 0 0 1 1 0 1
+kelaparan 0 0 1 0 1 0
+kokoh 0 0 0 0 0 1
+mantap 0 0 0 0 0 1
+stabil 0 0 0 0 0 1
+mencuri 1 0 1 0 1 0
+steril 0 0 0 0 1 0
+mandul 0 0 0 0 1 0
+luhur 1 0 0 1 0 0
+lengket 0 1 0 0 0 0
+aib 1 1 1 0 1 0
+keheningan 0 0 1 0 1 0
+menyengat 1 0 1 0 0 0
+pelit 1 1 1 0 1 0
+pengap 0 1 0 0 0 0
+tugas 0 0 1 0 1 0
+dicuri 1 0 0 0 0 0
+perut 0 1 0 0 0 0
+batu 1 0 0 0 0 0
+tinja 0 1 0 0 0 0
+selat 0 0 1 0 0 0
+penguatan 0 0 0 1 0 0
+usungan 0 0 1 0 1 0
+terkena 0 0 0 0 1 0
+mengupas 0 0 0 0 1 0
+sambaran 0 0 1 0 1 0
+perjuangan 1 0 1 0 1 0
+bengal 0 0 1 0 0 1
+penundukan 1 1 1 0 1 0
+sublimasi 0 0 0 1 0 0
+subordinat 0 0 1 0 0 0
+pengurangan 0 0 0 0 1 0
+peredaan 0 0 0 0 1 0
+penyurutan 0 0 0 0 1 0
+subsidi 1 1 0 0 0 0
+subversi 1 0 1 0 0 0
+subversif 1 0 0 0 0 1
+menumbangkan 0 1 1 0 1 0
+berhasil 0 0 0 1 0 1
+keberhasilan 0 0 0 1 0 0
+sukses 0 0 0 1 0 0
+penderita 0 0 1 0 1 0
+mati lemas 1 1 1 0 1 0
+sesak napas 1 1 1 0 1 0
+bunuh diri 1 1 1 0 1 0
+sultan 0 0 1 0 0 0
+bah 0 1 0 0 0 0
+cerah 0 0 0 1 0 1
+sinar matahari 0 0 0 1 0 0
+superstar 0 0 0 1 0 0
+takhayul 0 0 1 0 0 0
+kurafat 0 0 1 0 0 0
+bertakhyul 0 0 1 0 0 0
+pendukung 0 0 0 1 0 0
+penekanan 1 1 1 0 0 0
+supremasi 1 0 1 1 0 1
+gelora 0 0 0 0 0 1
+muka masam 1 1 0 0 0 0
+mencengangkan 0 0 1 1 0 1
+mangagetkan 0 0 1 1 0 1
+tercengang 0 0 0 0 0 1
+heran 0 0 0 0 0 1
+menyerah 0 0 1 0 1 0
+pasrah 0 0 1 0 1 0
+menyerahkan diri 0 0 0 0 1 0
+pengawasan 0 0 1 0 0 0
+tersangka 0 0 1 0 0 0
+kerisauan 0 0 1 0 0 1
+penangguhan 0 0 1 0 0 0
+waham 0 0 1 0 0 0
+berawa 0 1 1 0 0 0
+kawanan 0 1 0 0 0 0
+swastika 1 0 1 0 0 0
+permen 0 0 0 1 0 0
+pembengkakan 0 0 1 0 0 0
+mengelak 0 0 1 0 0 1
+tegak 0 1 0 0 0 0
+berenang 0 0 1 1 0 0
+simetri 0 0 0 1 0 0
+simpatik 0 0 1 1 1 0
+menyantuni 0 0 0 0 1 0
+simpati 0 0 0 0 1 0
+simfoni 0 0 0 1 0 0
+sinkronisasi 0 0 0 1 0 1
+tabu 0 1 1 0 0 0
+pantangan 0 1 1 0 0 0
+memecahkan 1 0 0 0 0 1
+taktik 0 0 1 0 0 0
+menggiurkan 0 0 0 1 0 1
+ongkos 1 1 0 0 0 0
+tarif 1 1 0 0 0 0
+menodai 0 1 0 0 1 0
+hambar 0 1 0 0 0 0
+mengajar 0 0 0 1 0 1
+berkesan 0 1 1 0 1 0
+menggoda 1 0 0 0 1 0
+meledek 1 0 1 0 0 0
+padat 0 1 0 0 0 0
+prahara 1 0 1 0 1 1
+kelembutan 0 0 0 1 0 0
+ketegangan 1 0 0 0 0 0
+tensi 1 0 0 0 0 0
+terminal 0 0 1 0 1 0
+mengakhiri 0 0 0 0 1 0
+penghentian 0 0 0 0 1 0
+rayap 0 1 0 0 0 0
+teror 0 0 1 0 0 0
+terorisme 1 1 1 0 1 0
+teroris 1 1 1 0 1 1
+tetanus 0 1 0 0 0 0
+berterimakasih 0 0 0 1 0 0
+syukur 0 0 0 1 0 0
+teokratis 1 0 1 0 1 0
+terapeutik 0 0 0 1 0 0
+haus 0 0 0 0 1 1
+berduri 0 0 1 0 0 0
+tak dipikirkan 1 1 0 0 0 0
+menggasak 1 1 1 0 1 0
+merangket 1 1 1 0 1 0
+mengirik 1 0 1 0 1 0
+sensasi 0 0 1 1 0 1
+berdenyut 0 0 1 0 1 0
+berdebar 1 0 0 0 0 0
+gemuruh 1 0 1 0 0 0
+menggelitik 0 0 0 1 0 1
+mengencangkan 1 0 0 0 0 0
+memperketat 1 0 0 0 0 0
+kodok 0 1 0 0 0 0
+katak 0 1 0 0 0 0
+panggang 0 0 0 1 0 0
+toilet 0 1 0 0 0 0
+sakit gigi 0 0 1 0 0 0
+angin topan 0 0 1 0 0 0
+tornado 0 0 1 0 0 0
+torpedo 1 0 0 0 0 0
+semburan 0 0 1 0 0 0
+penyiksaan 1 1 1 0 1 0
+menara 0 0 1 0 0 0
+racun 0 1 0 0 0 0
+toksin 0 0 1 0 0 0
+tragedi 0 0 1 0 1 0
+pengkhianat 1 1 1 0 1 0
+rongsok 0 1 0 0 0 0
+traumatis 1 0 1 0 1 0
+parodi 0 1 1 0 1 0
+khianat 1 1 1 0 0 0
+pengkhianatan 1 1 1 0 1 1
+harta 0 0 0 1 0 0
+merawat 1 1 1 1 1 1
+memperlakukan 1 1 1 1 1 1
+pohon 1 1 0 1 0 1
+tremor 1 0 1 0 1 0
+kegemparan 0 0 1 0 0 1
+kesengsaraan 0 1 1 0 1 0
+tipu daya 1 1 1 0 1 1
+kemenangan 0 0 0 1 0 0
+berjaya 0 0 0 1 0 0
+piala 0 0 0 1 0 1
+repot 1 0 1 0 0 0
+benar 0 0 0 1 0 0
+tumor 0 0 1 0 1 0
+kericuhan 1 0 1 0 0 1
+rusuh 1 0 1 0 0 0
+pergolakan 1 0 1 0 1 0
+bergolak 0 0 1 0 0 0
+pergumulan 1 0 0 0 0 0
+kelip 0 0 0 1 0 0
+topan 0 0 1 0 0 0
+kezaliman 0 0 1 0 1 0
+merajalela 1 1 1 0 1 0
+kejelekan 0 1 1 0 1 0
+maag 1 1 1 0 1 0
+penghabisan 0 0 0 0 1 0
+ultimatum 1 0 1 0 0 0
+tak sanggup 0 0 0 0 1 0
+tak terduga 0 0 0 0 0 1
+kurang menarik 0 1 0 0 1 0
+tak kekang 1 0 1 0 0 1
+rendah budi 0 1 0 0 0 0
+tak kendali 1 0 0 0 0 1
+menemukan 0 0 0 0 0 1
+diragukan 0 1 0 0 0 0
+abadi 0 0 0 1 1 0
+kekal 0 0 0 1 1 0
+anggur 0 0 1 0 1 0
+tak seimbang 1 1 1 0 1 0
+tak dijelaskan 0 0 0 0 1 0
+ketidakadilan 1 0 0 0 1 0
+tak baik 0 1 0 0 1 0
+tak kenal ampun 1 0 0 0 1 0
+tak terpenuhi 1 0 0 0 1 1
+tak beriman 0 0 0 0 1 0
+tak dilindungi 0 0 0 0 0 1
+lengah 0 0 0 0 0 1
+ketidakbahagiaan 0 0 0 0 1 0
+tak bahagia 1 1 0 0 1 0
+keterlaluan 0 0 1 0 0 0
+penggabungan 0 0 0 1 0 0
+penyatuan 0 0 0 1 0 0
+tak terbayangkan 0 0 0 0 0 1
+tak sengaja 0 0 0 0 0 1
+tak diundang 0 0 0 0 1 0
+unik 0 0 0 0 0 1
+tak populer 0 1 0 0 1 0
+tegar 1 1 1 0 0 0
+menggoncang 1 1 1 0 0 0
+labil 0 0 1 0 0 1
+tak layak 0 1 0 0 0 0
+menanjak 0 0 1 0 0 0
+angkat 0 0 0 1 0 0
+urgensi 0 0 1 0 0 1
+mendesak 0 0 1 0 0 1
+pasu 0 0 0 0 1 0
+utopis 0 0 0 1 0 0
+hampa 0 1 0 0 1 0
+keabsahan 0 0 1 0 0 0
+kesahihan 0 0 1 0 0 0
+vampir 1 1 1 0 0 0
+membelok 0 0 1 0 0 1
+vegetatif 0 1 0 0 1 0
+balas dendam 1 0 0 0 0 0
+bisa ular 1 1 1 0 0 0
+berbisa 1 1 1 0 0 0
+lubang angin 1 0 0 0 0 0
+kejujuran 0 0 0 1 0 1
+kebenaran 0 0 0 1 0 1
+putusan 0 0 1 0 0 0
+ambang 0 0 1 0 0 0
+melawan 1 0 0 0 0 0
+pusing 0 0 1 0 0 0
+vesikular 0 1 0 0 0 0
+memveto 1 0 0 0 0 0
+mempertahankan 1 0 0 0 0 0
+berbudi luhur 0 0 0 1 0 0
+visioner 0 0 0 1 0 0
+pengunjung 0 0 0 1 0 0
+kedok 0 0 0 0 0 1
+daya hidup 0 0 0 1 0 0
+gunung berapi 0 0 1 0 0 1
+sukarelawan 0 0 1 1 0 0
+bahenol 0 0 0 1 0 0
+muntahan 0 1 0 0 0 0
+memilih 1 0 0 1 1 1
+bersumpah 0 0 0 1 0 0
+vulgar 0 1 0 0 0 0
+kekasaran 1 1 0 0 1 0
+kerentanan 0 0 1 0 1 0
+burung bangkai 0 1 1 0 0 0
+omongan 1 0 0 0 1 0
+upah 0 0 0 1 0 0
+meratap 0 0 1 0 1 0
+bergelimang 0 1 0 0 1 0
+berkubang 0 1 0 0 1 0
+ingin 0 0 0 0 1 0
+perang 1 0 1 0 1 0
+sipir 1 0 1 0 0 0
+ahli sihir 0 0 1 0 0 0
+memperingatkan 0 0 1 0 0 1
+prajurit 1 0 1 0 0 0
+kutil 0 1 0 0 0 0
+limbah 0 1 0 0 0 0
+terbuang 1 1 0 0 0 0
+buar 1 1 0 0 1 0
+royal 1 1 0 0 1 0
+boros 1 1 0 0 1 0
+menyia-nyiakan 0 1 1 0 1 0
+nonton 0 0 1 0 0 0
+menonton 0 0 1 0 0 0
+kekayaan 0 0 0 1 0 0
+letih 0 0 0 0 1 0
+kelelahan 0 0 0 0 1 0
+keletihan 0 0 0 0 1 0
+jemu 0 0 0 0 1 0
+tembakau 0 0 0 0 1 0
+gulma 0 0 0 0 1 0
+tangisan 0 0 0 0 1 0
+menyambut 0 0 0 1 0 0
+dara 1 1 0 0 0 0
+perawan 1 1 0 0 0 0
+gadis 1 1 0 0 0 0
+tingkah 0 1 0 1 1 1
+merengek 0 0 1 0 1 0
+pusaran air 0 0 1 0 0 0
+angin puyuh 0 0 1 0 0 0
+putih 0 0 0 1 0 0
+janda 0 0 0 0 1 0
+duda 0 0 0 0 1 0
+hutan belantara 0 0 1 0 1 0
+kebakaran 0 0 1 0 1 1
+disengaja 1 0 0 0 1 0
+gerenyit 1 1 1 0 1 0
+pemenang 0 0 0 1 0 1
+nirkabel 1 0 0 0 0 1
+penyihir 1 1 1 0 0 0
+melayu 0 0 0 0 1 0
+layu 0 1 0 0 0 0
+jenaka 0 0 0 1 0 0
+ahli 0 0 0 0 0 1
+cacing 0 0 0 0 0 1
+usang 0 0 0 0 1 0
+mengkhawatirkan 0 0 1 0 1 0
+lebih buruk 0 0 1 0 1 0
+menyembah 0 0 1 1 0 0
+tak berguna 1 1 0 0 1 0
+murka 1 0 1 0 0 0
+melampiaskan 1 0 0 0 0 0
+orang malang 1 1 0 0 1 0
+orang celaka 1 1 0 0 1 0
+memeras 1 0 0 0 0 0
+mengisut 0 0 0 0 1 0
+berkerut 0 0 0 0 1 0
+salah 1 0 1 0 1 0
+xenofobia 0 0 1 0 0 0
+menyalak 1 0 1 0 0 1
+muda 0 0 0 1 0 1
+pemuda 1 0 1 1 0 1
+tekun 0 0 0 1 0 0
+animo 0 0 0 1 0 0
