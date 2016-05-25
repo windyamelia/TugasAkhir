@@ -1,0 +1,98 @@
+/*** kata marah ***/
+sesak napas
+penderitaan
+sakit
+beban
+pertengkaran
+takut
+perubahan
+kuat
+menghadapi
+pahit
+membosankan
+cemas
+buruk
+lemah
+kehilangan
+/*** kata jijik ***/
+sesak napas
+penderitaan
+sakit
+perubahan
+pahit
+membosankan
+akhirnya
+buruk
+lemah
+mual
+/*** kata takut ***/
+rumah sakit
+rumah sakit
+sesak napas
+penderitaan
+hilang
+sakit
+beban
+hilang
+takut
+perubahan
+kuat
+membosankan
+ujian
+cemas
+pingsan
+buruk
+lemah
+kehilangan
+memburuk
+/*** kata senang ***/
+berharap
+hebat
+baik
+baik
+kemajuan
+berharap
+kuat
+membuat
+menerima
+akhirnya
+/*** kata sedih ***/
+rumah sakit
+rumah sakit
+sesak napas
+penderitaan
+menangis
+hilang
+sakit
+beban
+hilang
+terjadi
+terjadi
+pahit
+cemas
+hitam
+pingsan
+terjadi
+buruk
+lemah
+terjadi
+kehilangan
+mual
+memburuk
+pudar
+/*** kata kaget ***/
+berharap
+baik
+baik
+terjadi
+terjadi
+berharap
+berbeda
+menerima
+membosankan
+akhirnya
+ujian
+cemas
+pingsan
+terjadi
+terjadi

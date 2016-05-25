@@ -1,0 +1,53 @@
+/*** kata marah ***/
+keras
+menolak
+keras
+takut
+kehilangan
+/*** kata jijik ***/
+keras
+aneh
+akhirnya
+keras
+aneh
+/*** kata takut ***/
+ketakutan
+keras
+aneh
+menolak
+hilang
+keras
+aneh
+takut
+ketakutan
+menonton
+menonton
+dikuburkan
+sulit
+kehilangan
+/*** kata senang ***/
+tenang
+akhirnya
+menyenangkan
+keluarga
+cinta
+/*** kata sedih ***/
+ketakutan
+keras
+aneh
+menolak
+hilang
+keras
+aneh
+menghilangkan
+ketakutan
+dikuburkan
+kehilangan
+/*** kata kaget ***/
+tenang
+ketakutan
+aneh
+heran
+akhirnya
+aneh
+ketakutan

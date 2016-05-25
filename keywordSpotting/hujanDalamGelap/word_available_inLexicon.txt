@@ -5,19 +5,13 @@ kegelapan
 gelap
 hujan
 keluarga
-ibu
 jelas
 kekecewaan
 ruam
 permintaan
-ibu
 tertinggal
-ibu
 milik
-ibu
 sayang
-ibu
-ibu
 sopan
 nyonya
 anak
@@ -36,7 +30,6 @@ rintik
 hujan
 rintik
 kesukaan
-ibu
 anak
 baik
 perasaan
@@ -44,8 +37,6 @@ hidup
 mengambil
 ingin
 kesepian
-ibu
-ibu
 mengambil
 teman
 boneka

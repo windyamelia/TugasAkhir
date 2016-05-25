@@ -70,6 +70,7 @@ gelisah 1 1 1 0 1 1
 agitasi 1 0 0 0 0 0
 menyiksa 0 0 1 0 0 0
 alarm 0 0 1 0 0 1
+menggelisahkan 0 0 1 0 0 1
 alkoholisme 1 1 1 0 1 0
 kewaspadaan 0 0 1 0 0 1
 siaga 0 0 1 0 0 1
@@ -317,6 +318,9 @@ palsu 1 1 0 0 0 0
 bisul 0 1 0 0 0 0
 riuh 1 0 0 1 0 0
 bom 1 0 1 0 1 1
+pengeboman 1 0 1 0 0 0
+dibom 0 1 0 0 0 0
+pembom 0 0 1 0 1 0
 sumber keuntungan 0 0 0 1 0 0
 perbudakan 1 1 1 0 1 0
 bonus 0 0 0 1 0 1
@@ -637,7 +641,6 @@ penumpasan 1 1 1 0 0 0
 keras 1 1 1 0 1 0
 menangis 0 0 0 0 1 0
 ruang bawah tanah 0 0 1 0 1 0
-suami istri tidak setia 0 1 0 0 0 0
 pelukan 0 0 0 1 0 0
 mengemong 0 0 0 1 0 0
 kultus 0 0 1 0 0 0
@@ -1087,7 +1090,7 @@ benteng 1 1 1 0 1 0
 nasib 0 0 0 1 0 1
 ditemukan 0 0 0 1 0 0
 rapuh 0 0 1 0 1 0
-kelemahan 0 0 0 0 1 0
+kelemahan 0 0 1 0 1 0
 keringkihan 0 0 0 0 1 0
 gila-gilaan 0 1 1 0 0 1
 seperti saudara 0 0 0 1 0 0
@@ -1322,7 +1325,7 @@ kekudusan 0 0 1 1 0 1
 berongga 0 0 0 0 1 0
 tuna wisma 1 1 1 0 1 0
 rindu 0 0 0 1 1 0
-kerja rumah 0 0 1 0 0 0
+pekerjaan rumah 0 0 1 0 0 0
 pembunuhan 1 1 1 0 1 0
 bulan madu 0 0 0 1 0 1
 kap 1 1 1 0 0 0
@@ -1437,7 +1440,6 @@ rendah mutunya 0 0 0 0 1 0
 infertilitas 0 0 0 0 1 0
 ketidaksetiaan 1 1 1 0 1 0
 tak terbatas 0 0 0 1 0 0
-kelemahan 0 0 1 0 0 0
 inflasi 0 0 1 0 0 0
 menimbulkan 1 0 1 0 1 0
 pelanggaran 1 1 1 0 1 1
@@ -1540,7 +1542,6 @@ tertinggal 1 1 0 0 1 0
 ketinggalan 1 1 0 0 1 0
 meratapi 0 1 1 0 1 0
 longsor 0 0 1 0 1 0
-lembut 0 0 1 1 1 0
 pencurian 1 1 1 0 1 0
 lebih besar 0 1 0 0 0 1
 bulu mata 1 0 1 0 0 0
@@ -1585,7 +1586,7 @@ petir 1 0 1 0 0 1
 baris 0 0 1 0 0 0
 singa 0 0 1 0 0 0
 minuman keras 1 0 0 1 1 0
-lesu 0 0 0 0 1 0
+lesu 0 0 1 0 1 0
 mengajukan perkara 1 1 1 0 1 0
 suka beperkara 1 1 0 0 0 0
 lebam 1 1 0 0 0 0
@@ -1677,6 +1678,7 @@ mencampuri 1 0 0 0 0 0
 medis 0 0 1 0 0 0
 meditasi 0 0 0 1 0 0
 merenungkan 0 0 0 1 0 0
+lembut hati 0 0 0 0 1 0
 patih 0 0 0 0 1 0
 melankolis 0 0 0 0 1 0
 pilu 0 0 0 0 1 0
@@ -1686,7 +1688,7 @@ krisis 0 0 0 0 1 0
 kenangan 0 0 0 1 1 1
 ancaman 1 0 1 0 0 0
 mata duitan 0 0 1 0 0 0
-tanpa belas kasih 0 0 1 0 0 0
+tanpa belas kasihan 0 0 1 0 0 0
 berfaedah 0 0 0 1 0 0
 keriaan 0 0 0 1 0 1
 sukaria 0 0 0 1 0 0
@@ -2469,6 +2471,8 @@ menggoda 1 0 0 0 1 0
 meledek 1 0 1 0 0 0
 padat 0 1 0 0 0 0
 prahara 1 0 1 0 1 1
+lembut 0 0 0 1 0 0
+lunak 0 0 0 1 0 0
 kelembutan 0 0 0 1 0 0
 ketegangan 1 0 0 0 0 0
 tensi 1 0 0 0 0 0
@@ -2623,7 +2627,6 @@ upah 0 0 0 1 0 0
 meratap 0 0 1 0 1 0
 bergelimang 0 1 0 0 1 0
 berkubang 0 1 0 0 1 0
-ingin 0 0 0 0 1 0
 perang 1 0 1 0 1 0
 sipir 1 0 1 0 0 0
 ahli sihir 0 0 1 0 0 0
@@ -2670,7 +2673,7 @@ jenaka 0 0 0 1 0 0
 ahli 0 0 0 0 0 1
 cacing 0 0 0 0 0 1
 usang 0 0 0 0 1 0
-mengkhawatirkan 0 0 1 0 1 0
+mengkhawatirkan 0 0 1 0 1 1
 lebih buruk 0 0 1 0 1 0
 menyembah 0 0 1 1 0 0
 tak berguna 1 1 0 0 1 0

@@ -35,7 +35,7 @@ public class Test {
         }
     }
     
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, Exception {
         /** tes split **/
 //        String str = "berkumpul";
 //        String[] list = str.split("ku");
@@ -185,21 +185,21 @@ public class Test {
 //        ArrayList<String> features = readTextPerLine("data_training/revisi_tidak/list_features.txt");
         
         ArrayList<String> judul_cerpen = new ArrayList<>();
-        judul_cerpen.add("diTempatPembuanganAkhir");
-        judul_cerpen.add("suaraAneh");
-        judul_cerpen.add("menembusLangit");
-        judul_cerpen.add("liburanBersamaSahabat");
-        judul_cerpen.add("ballerina");
-        judul_cerpen.add("pohonBesar");
-        judul_cerpen.add("mataSebeningKristal");
-//        judul_cerpen.add("hujanDalamGelap");
-//        judul_cerpen.add("keberuntunganRemi");
-//        judul_cerpen.add("lemariRahasia");
-//        judul_cerpen.add("priaBerjubahHitam");
-//        judul_cerpen.add("janganMarahDongPutri");
-//        judul_cerpen.add("pisauBerkarat");
-//        judul_cerpen.add("peluangEmasBerharga");
-//        judul_cerpen.add("kembalikanSenyumku");
+//        judul_cerpen.add("diTempatPembuanganAkhir");
+//        judul_cerpen.add("suaraAneh");
+//        judul_cerpen.add("menembusLangit");
+//        judul_cerpen.add("liburanBersamaSahabat");
+//        judul_cerpen.add("ballerina");
+//        judul_cerpen.add("pohonBesar");
+//        judul_cerpen.add("mataSebeningKristal");
+        judul_cerpen.add("hujanDalamGelap");
+        judul_cerpen.add("keberuntunganRemi");
+        judul_cerpen.add("lemariRahasia");
+        judul_cerpen.add("priaBerjubahHitam");
+        judul_cerpen.add("janganMarahDongPutri");
+        judul_cerpen.add("pisauBerkarat");
+        judul_cerpen.add("peluangEmasBerharga");
+        judul_cerpen.add("kembalikanSenyumku");
         
 //        for (String str : judul_cerpen) {
 //            String text_cerpen = readText("cerpen/"+ str +".txt");
@@ -213,11 +213,20 @@ public class Test {
 //        System.out.print("algoritma: ");
 //        String algoritma = scanner.nextLine();
         
+        
         ArrayList<String> algorithms = new ArrayList<>();
         algorithms.add("me");
         algorithms.add("libsvm");
 //        algorithms.add("libsvm_rbf");
         algorithms.add("nbm");
+        
+        for (int i=0; i<judul_cerpen.size(); i++) {
+            for (int j=0; j<algorithms.size(); j++) {
+                Weka weka = new Weka();
+                weka.loadModel("machine_learning/model/revisi_tidak/Resample_550%/" + algorithms.get(j) +".model");
+                weka.classifyInstance("data_test/revisi_tidak/" + "/data_test_" + judul_cerpen.get(i) + ".arff", "machine_learning/hasil_prediksi/Resample_550/" + algorithms.get(j) + "/revisi_tidak/hasil_" + algorithms.get(j) + "_" + judul_cerpen.get(i) + ".txt");
+            }
+        }
         
 //        judul_cerpen.add("hasil_" + algoritma + "_janganMarahDongPutri.txt");
 //        judul_cerpen.add("hasil_" + algoritma + "_pisauBerkarat.txt");
@@ -230,7 +239,7 @@ public class Test {
             temp_emotion = temp_emotion + "/*** " + judul_cerpen.get(i) + " ***/" + "\n";
             int[][] matrix = new int[7][algorithms.size()];
             for (int j=0; j<algorithms.size(); j++) {
-                ArrayList<String> hasil_prediksi = readTextPerLine("machine_learning/hasil_prediksi/Resample_555/"+ algorithms.get(j) + "/revisi_tidak/hasil_" + algorithms.get(j) + "_" + judul_cerpen.get(i) + ".txt");
+                ArrayList<String> hasil_prediksi = readTextPerLine("machine_learning/hasil_prediksi/Resample_550/"+ algorithms.get(j) + "/revisi_tidak/hasil_" + algorithms.get(j) + "_" + judul_cerpen.get(i) + ".txt");
                 int[] nilai_emosi = new int[7];
                 for (int n : nilai_emosi) {
                     n = 0;
@@ -273,6 +282,6 @@ public class Test {
             
             temp_emotion = temp_emotion + "\n";
         }
-        writeToFile(temp_emotion, "machine_learning/hasil_emosi_tiap_cerpen/Resample_555/hasil_emosi_gabungan_7dataTesting.txt");
+        writeToFile(temp_emotion, "machine_learning/hasil_emosi_tiap_cerpen/Resample_550/hasil_emosi_gabungan_partOf_dataTraining.txt");
     }
 }

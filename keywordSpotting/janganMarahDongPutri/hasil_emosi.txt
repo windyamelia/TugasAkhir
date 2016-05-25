@@ -1,3 +1,36 @@
+/*** hujanDalamGelap ***/
+18
+13
+13
+22
+25
+10
+
+/*** keberuntunganRemi ***/
+11
+10
+27
+27
+21
+16
+
+/*** lemariRahasia ***/
+13
+8
+18
+14
+11
+9
+
+/*** priaBerjubahHitam ***/
+18
+10
+26
+18
+24
+16
+
+/*** janganMarahDongPutri ***/
 22
 12
 19

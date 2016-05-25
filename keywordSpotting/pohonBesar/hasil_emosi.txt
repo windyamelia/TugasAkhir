@@ -1,3 +1,44 @@
+/*** diTempatPembuanganAkhir ***/
+15
+15
+21
+22
+23
+17
+
+/*** suaraAneh ***/
+5
+5
+14
+5
+11
+7
+
+/*** menembusLangit ***/
+11
+5
+6
+27
+9
+17
+
+/*** liburanBersamaSahabat ***/
+10
+6
+6
+22
+8
+10
+
+/*** ballerina ***/
+8
+8
+6
+31
+16
+15
+
+/*** pohonBesar ***/
 14
 16
 16

@@ -1,0 +1,65 @@
+Logistic	SVM_LINEAR	NaiveBayes
+
+/*** diTempatPembuanganAkhir ***/
+6	9	
+0	5	
+4	7	
+6	6	
+20	12	
+0	0	
+4	1	
+
+/*** suaraAneh ***/
+4	0	
+0	2	
+7	8	
+4	3	
+3	2	
+0	1	
+0	2	
+
+/*** menembusLangit ***/
+4	2	
+0	5	
+2	2	
+4	17	
+25	6	
+4	5	
+0	2	
+
+/*** liburanBersamaSahabat ***/
+9	6	
+0	2	
+2	0	
+7	8	
+8	6	
+2	5	
+3	4	
+
+/*** ballerina ***/
+1	2	
+0	3	
+7	7	
+3	4	
+13	4	
+2	5	
+0	1	
+
+/*** pohonBesar ***/
+11	0	
+0	0	
+9	11	
+9	7	
+7	7	
+7	15	
+4	7	
+
+/*** mataSebeningKristal ***/
+6	2	
+0	4	
+13	12	
+12	13	
+27	19	
+6	9	
+3	8	
+

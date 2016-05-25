@@ -1,0 +1,68 @@
+/*** kata marah ***/
+kecewa
+memilih
+bawah
+pohon
+milik
+panas
+jujur
+mengambil
+semangat
+gadis
+/*** kata jijik ***/
+hambar
+kecewa
+pohon
+milik
+jujur
+gadis
+/*** kata takut ***/
+bawah
+milik
+perjalanan
+perjalanan
+perjalanan
+jujur
+/*** kata senang ***/
+kebahagiaan
+aman
+memilih
+membuat
+pohon
+perjalanan
+sayang
+perjalanan
+menyenangkan
+perjalanan
+jujur
+fajar
+teman
+membuat
+tersenyum
+manis
+cantik
+semangat
+membuat
+bersemangat
+kebahagiaan
+bernyanyi
+/*** kata sedih ***/
+penyesalan
+kecewa
+larut
+memilih
+bawah
+hujan
+berangkat
+bernyanyi
+/*** kata kaget ***/
+memilih
+cepat
+pohon
+perjalanan
+perjalanan
+perjalanan
+jujur
+fajar
+tersenyum
+manis

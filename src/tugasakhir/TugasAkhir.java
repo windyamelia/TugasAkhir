@@ -54,6 +54,27 @@ public class TugasAkhir {
         } finally {
             br.close();
         }
+        
+        String text_new = "";
+        if (!text.substring(text.length()-1).equals(".")) {
+            text_new = insertDot(text);
+        }
+        
+        return text_new;
+    }
+    
+    public static String insertDot (String text) {
+        System.out.println("text sblm: " + text);
+//        String tes = text;
+        String last_char = text.substring(text.length()-1);
+//        System.out.println("last char: " + last_char);
+        while (last_char.trim().length() == 0) {
+            text = text.substring(0, text.length()-1);
+            last_char = text.substring(text.length()-1);
+//            System.out.println("last char: " + last_char);
+        }
+//        System.out.println("last char: " + last_char);
+        text = text + ".";
         return text;
     }
     

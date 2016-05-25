@@ -9,6 +9,7 @@ package tugasakhir;
 import IndonesianNLP.IndonesianSentenceTokenizer;
 import IndonesianNLP.IndonesianStemmer;
 import java.util.ArrayList;
+import static tugasakhir.TugasAkhir.*;
 
 /**
  *
@@ -30,9 +31,14 @@ public class Stemming {
     }
     
     public static void main(String[] args) {
-        String str = "berkedip-kedip";
+        String str = "berkedip-kedip\n";
         Stemming stem = new Stemming();
         System.out.println(stem.stemWord(str));
+//        if (!str.substring(str.length()-1).equals(".")) {
+//            str = insertDot(str);
+//        }
+//        System.out.println("str: " + str);
+//        System.out.println("tes: " + str.substring(str.length()-1).equals("."));
         
         /*** TEST hapus two words di dalam list kata 1 word ***/
 //        ArrayList<String> two_words = new ArrayList<>();

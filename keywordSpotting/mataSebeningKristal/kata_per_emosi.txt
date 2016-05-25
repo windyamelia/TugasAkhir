@@ -1,0 +1,140 @@
+/*** kata marah ***/
+merawat
+sekarat
+batu
+lemah
+takut
+takut
+tajam
+keras
+batu
+runtuh
+sial
+berteriak
+rintik
+/*** kata jijik ***/
+merawat
+sekarat
+aneh
+lemah
+akhirnya
+akhirnya
+akhirnya
+gubuk
+daging
+akhirnya
+tajam
+keras
+runtuh
+aneh
+aneh
+aneh
+sial
+berteriak
+aneh
+/*** kata takut ***/
+kamar mayat
+rumah sakit
+rumah sakit
+menjaga
+merawat
+sekarat
+operasi
+aneh
+operasi
+lemah
+pingsan
+takut
+perjalanan
+takut
+keras
+runtuh
+aneh
+aneh
+ketakutan
+aneh
+sial
+berteriak
+aneh
+membuka
+/*** kata senang ***/
+terima kasih
+sepak bola
+persahabatan
+merawat
+bersinar
+memeluk
+memeluk
+putih
+putih
+akhirnya
+senang
+akhirnya
+akhirnya
+indah
+cokelat
+taman
+indah
+cerah
+mewah
+akhirnya
+perjalanan
+berharap
+bersinar
+cerah
+teman
+anak
+keluarga
+bersinar
+cerah
+menikmati
+/*** kata sedih ***/
+kamar mayat
+rumah sakit
+rumah sakit
+merawat
+sekarat
+terkena
+operasi
+menangis
+terjadi
+menangis
+aneh
+operasi
+lemah
+pingsan
+gubuk
+hitam
+keras
+runtuh
+aneh
+aneh
+ketakutan
+berangkat
+aneh
+sial
+aneh
+hujan
+hujan
+/*** kata kaget ***/
+merawat
+terjadi
+aneh
+pingsan
+akhirnya
+akhirnya
+akhirnya
+indah
+indah
+cerah
+akhirnya
+perjalanan
+aneh
+aneh
+ketakutan
+berharap
+cerah
+aneh
+berteriak
+aneh
+cerah

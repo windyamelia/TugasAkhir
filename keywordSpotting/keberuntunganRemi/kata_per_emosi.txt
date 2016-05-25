@@ -1,0 +1,113 @@
+/*** kata marah ***/
+putus asa
+akibat
+salah
+sabuk
+milik
+kesepian
+semangat
+bawah
+uang
+sepi
+mendorong
+/*** kata jijik ***/
+putus asa
+kecelakaan
+akibat
+sia-sia
+milik
+kesepian
+sisa
+sisa
+daging
+sepi
+/*** kata takut ***/
+putus asa
+anak yatim
+hidup
+kecelakaan
+akibat
+iba
+hidup
+salah
+perjalanan
+sia-sia
+penuh
+sabuk
+milik
+kesepian
+penuh
+sisa
+sisa
+gugup
+ketakutan
+gemetar
+bawah
+berdoa
+sepi
+terminal
+hidup
+/*** kata senang ***/
+terima kasih
+tenang
+hidup
+menerima
+hidup
+keluarga
+lezat
+makanan
+menyelamatkan
+perjalanan
+tersenyum
+penuh
+makanan
+semangat
+penuh
+lembut
+lembut
+makanan
+makanan
+memiliki
+putih
+berdoa
+uang
+upah
+mendorong
+hidup
+keluarga
+/*** kata sedih ***/
+putus asa
+anak yatim
+kecelakaan
+akibat
+salah
+hitam
+sia-sia
+penuh
+kesepian
+terjadi
+penuh
+diam
+ketakutan
+kepalang
+bawah
+berdoa
+sepi
+terminal
+/*** kata kaget ***/
+tenang
+hidup
+menerima
+kecelakaan
+hidup
+menyelamatkan
+perjalanan
+tersenyum
+penuh
+terjadi
+penuh
+mulut
+ketakutan
+berdoa
+uang
+hidup
